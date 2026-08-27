@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="fr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<title>Mon Assistant Emploi — V1</title>
+<style>
+:root{--bg:#f5f6fa;--card:#fff;--text:#202331;--muted:#6d7280;--accent:#5b4bdb;--green:#1d8a5a;--orange:#c77b12;--red:#c74444;--blue:#3677c9;--border:#e5e7ef}
+*{box-sizing:border-box}body{margin:0;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif;background:var(--bg);color:var(--text)}
+header{background:var(--card);border-bottom:1px solid var(--border);padding:16px 22px;position:sticky;top:0;z-index:5}
+.header{max-width:1200px;margin:auto;display:flex;align-items:center;justify-content:space-between;gap:16px}.brand{font-weight:800;font-size:20px}.brand span{color:var(--accent)}
+button,.btn{border:0;border-radius:10px;padding:10px 14px;font-weight:650;cursor:pointer;background:var(--accent);color:white}.secondary{background:#eef0f8;color:var(--text)}.danger{background:#fdecec;color:#a62e2e}.success{background:#eaf7f0;color:#146b46}
+.layout{max-width:1200px;margin:auto;display:grid;grid-template-columns:210px 1fr;min-height:calc(100vh - 68px)}
+nav{padding:22px 12px;border-right:1px solid var(--border);background:#fafaff}nav button{display:block;width:100%;text-align:left;margin-bottom:7px;background:transparent;color:var(--text)}nav button.active,nav button:hover{background:#e9e7fb;color:var(--accent)}
+main{padding:24px}.grid{display:grid;gap:16px}.stats{grid-template-columns:repeat(5,1fr)}.cards{grid-template-columns:repeat(auto-fit,minmax(280px,1fr))}.card{background:var(--card);border:1px solid var(--border);border-radius:16px;padding:18px;box-shadow:0 2px 8px #20233108}.stat strong{font-size:27px;display:block}.muted{color:var(--muted);font-size:13px}.score{font-size:22px;font-weight:800;color:var(--accent)}.tag{display:inline-block;padding:4px 8px;border-radius:999px;background:#eef0f8;margin:3px;font-size:12px}.tag.green{background:#eaf7f0;color:var(--green)}.tag.orange{background:#fff4df;color:#9a6008}.tag.red{background:#fdecec;color:#a62e2e}
+.row{display:flex;gap:8px;align-items:center;flex-wrap:wrap}.between{justify-content:space-between}.actions{margin-top:14px}.offer h3{margin:4px 0}.offer p{margin:7px 0}.section-title{margin:26px 0 12px}input,textarea,select{width:100%;padding:11px;border:1px solid var(--border);border-radius:10px;background:white;font:inherit}textarea{min-height:150px}.form{display:grid;gap:12px;max-width:760px}.two{display:grid;grid-template-columns:1fr 1fr;gap:12px}.hidden{display:none}.empty{padding:30px;text-align:center;color:var(--muted);background:#fff;border:1px dashed var(--border);border-radius:14px}
+table{width:100%;border-collapse:collapse;background:white;border-radius:14px;overflow:hidden}th,td{text-align:left;padding:12px;border-bottom:1px solid var(--border);font-size:14px}
+.modal{position:fixed;inset:0;background:#0007;display:flex;align-items:center;justify-content:center;padding:20px;z-index:10}.modal>div{background:white;border-radius:18px;max-width:760px;width:100%;max-height:90vh;overflow:auto;padding:22px}
+@media(max-width:800px){.layout{display:block}nav{display:flex;overflow:auto;border-right:0;border-bottom:1px solid var(--border)}nav button{min-width:max-content;width:auto}.stats{grid-template-columns:1fr 1fr}main{padding:16px}.two{grid-template-columns:1fr}}
+</style>
+</head>
+<body>
+<header><div class="header"><div class="brand">Mon <span>Assistant Emploi</span></div><button onclick="openAdd()">➕ Ajouter une offre</button></div></header>
+<div class="layout">
+<nav id="nav"></nav>
+<main id="app"></main>
+</div>
+<div id="modal" class="hidden"></div>
+<script>
+const KEY='emploi_v1';
+const defaultProfile={
+ location:'Vinça', maxMinutes:45, idealMinutes:30, salaryNet:2000,
+ preferredContracts:['CDD','Intérim'], fullTimePreferred:true, weekend:false,
+ remoteBonus:true,
+ priorities:['Recouvrement / contentieux','Gestion administrative','Banque / back-office','Organismes sociaux'],
+ secondary:['QSE administratif'],
+ exclusions:['Accueil / réception / standard','Conseil clientèle / vente','Community management / communication digitale','Travail le week-end'],
+ bonus:['Dimension juridique / contentieux','Suivi des procédures','Analyse des comptes débiteurs','Back-office','Télétravail','Gestion de dossiers complexes']
+};
+let state=JSON.parse(localStorage.getItem(KEY)||'null')||{offers:[],applications:[],profile:defaultProfile, page:'home'};
+function save(){localStorage.setItem(KEY,JSON.stringify(state))}
+function esc(s=''){return s.replace(/[&<>"']/g,m=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[m]))}
+function nav(){document.getElementById('nav').innerHTML=[
+['home','🏠 Accueil'],['offers','🔎 Offres'],['saved','❤️ Suivies'],['apps','📋 Candidatures'],['sources','⚙️ Sources'],['collector','🚀 Collecte'],['profile','👤 Mon profil']
+].map(x=>`<button class="${state.page===x[0]?'active':''}" onclick="go('${x[0]}')">${x[1]}</button>`).join('')}
+function go(p){state.page=p;save();render()}
+function score(o){
+ let s=50, reasons=[], cautions=[];
+ const title=(o.title||'').toLowerCase(), desc=(o.description||'').toLowerCase();
+ const text=title+' '+desc;
+ const cats=[
+  ['recouvrement / contentieux',['recouvrement','contentieux','impay','débiteur','juridique','injonction','créance'],30],
+  ['gestion administrative',['gestionnaire administratif','gestion administrative','gestionnaire de dossiers','prestations','administratif'],25],
+  ['banque / back-office',['back-office','bancaire','banque','opérations bancaires','gestionnaire de comptes'],22],
+  ['organismes sociaux',['caf','cpam','sécurité sociale','sécu recrute','urssaf','carsat'],25],
+  ['qse administratif',['qse','qse','qualité','qse administratif'],10]
+ ];
+ let best={name:'Autre',pts:0};
+ for(const [n,keys,pts] of cats){let hit=keys.some(k=>text.includes(k));if(hit&&pts>best.pts)best={name:n,pts}}
+ s+=best.pts; if(best.pts) reasons.push('Famille de métier recherchée : '+best.name);
+ if(/accueil|réception|standard/.test(text)){s-=60;cautions.push('Accueil / réception / standard détecté')}
+ if(/samedi|dimanche|week[- ]?end/.test(text)){s-=60;cautions.push('Travail le week-end possible ou demandé')}
+ if(/télétravail|remote|hybride/.test(text)){s+=8;reasons.push('Télétravail ou mode hybride mentionné')}
+ if(/contentieux|juridique|tribunal|avocat|injonction/.test(text)){s+=10;reasons.push('Dimension juridique/contentieuse')}
+ if(/recouvrement|impay|débiteur|créance/.test(text)){s+=6;reasons.push('Recouvrement / comptes débiteurs')}
+ if((o.contract||'').toLowerCase().includes('cdd')||(o.contract||'').toLowerCase().includes('intérim'))s+=5;
+ if((o.minutes||0)>45){s=0;cautions.push('Plus de 45 minutes de trajet')}
+ else if((o.minutes||0)>30){s-=Math.min(10,Math.round((o.minutes-30)*0.7));cautions.push('Trajet supérieur à 30 minutes')}
+ if(o.salaryNet){if(o.salaryNet>=2000)s+=8;else if(o.salaryNet>=1800)s-=2;else s-=8}else cautions.push('Salaire à vérifier');
+ if((o.hours||'').toLowerCase().includes('temps partiel'))s-=2;
+ s=Math.max(0,Math.min(100,Math.round(s)));
+ return {s,reasons,cautions,category:best.name};
+}
+function badge(s){return s>=90?'🔥 Prioritaire':s>=75?'🟢 Intéressante':s>=60?'🟡 À examiner':'🔴 Faible adéquation'}
+function offerCard(o){
+ const a=score(o);
+ return `<div class="card offer"><div class="row between"><span class="tag">${esc(o.source||'Ajout manuel')}</span><span class="score">${a.s}/100</span></div>
+ <h3>${esc(o.title)}</h3><div class="muted">${esc(o.company||'Entreprise non précisée')} · ${esc(o.location||'Lieu non précisé')}</div>
+ <p>${o.minutes?`🚗 ${o.minutes} min`:''} ${o.contract?` · 📄 ${esc(o.contract)}`:''} ${o.salaryNet?` · 💰 ${o.salaryNet} € net`:''}</p>
+ <span class="tag">${badge(a.s)}</span>${a.cautions.slice(0,2).map(x=>`<span class="tag orange">⚠️ ${esc(x)}</span>`).join('')}
+ <div class="actions row"><button onclick="viewOffer('${o.id}')">Voir</button><button class="secondary" onclick="keepOffer('${o.id}')">❤️ Garder</button><button class="danger" onclick="rejectOffer('${o.id}')">Écarter</button></div></div>`
+}
+
+function sourceState(){return JSON.parse(localStorage.getItem('emploi_sources')||'null')||{'France Travail':{enabled:true,mode:'API officielle gratuite — synchronisée automatiquement chaque jour via GitHub Actions',status:'Connectée'},'Indeed':{enabled:false,mode:"Pas d'API publique ouverte pour ce type d'usage — ajout manuel uniquement",status:'Non disponible'},'HelloWork':{enabled:false,mode:"Pas d'API publique ouverte — ajout manuel uniquement",status:'Non disponible'},'LinkedIn':{enabled:false,mode:"Pas d'API publique ouverte — ajout manuel uniquement",status:'Non disponible'},'La Sécu recrute':{enabled:false,mode:'Pas de flux automatisé identifié — à surveiller manuellement pour le moment',status:'Manuel'}}}
+function saveSources(s){localStorage.setItem('emploi_sources',JSON.stringify(s))}
+function sourcePanel(){const s=sourceState();return `<h1>⚙️ Sources & synchronisation</h1><div class="card"><p><strong>Objectif :</strong> centraliser les nouvelles offres, supprimer les doublons et les faire passer dans ton moteur de scoring.</p><p class="muted">Les connexions externes devront utiliser les API, flux, alertes ou intégrations autorisés par chaque plateforme. Aucun mot de passe de plateforme n'est demandé.</p></div><div class="grid cards">${Object.entries(s).map(([n,v])=>`<div class="card"><div class="row between"><h3>${n}</h3><span class="tag ${v.status==='Prêt à surveiller'?'green':'orange'}">${v.status}</span></div><p class="muted">${v.mode}</p><label><input type="checkbox" ${v.enabled?'checked':''} onchange="toggleSource('${n}',this.checked)"> Surveiller cette source</label></div>`).join('')}</div><h2 class="section-title">🔄 Import de test</h2><div class="card"><p>Importe un JSON d'offres pour tester collecte, déduplication et scoring.</p><input type="file" accept=".json" onchange="importJson(event)"></div>`}
+function toggleSource(n,on){const s=sourceState();s[n].enabled=on;saveSources(s);render()}
+function importJson(e){const f=e.target.files[0];if(!f)return;const r=new FileReader();r.onload=()=>{try{const d=JSON.parse(r.result),a=Array.isArray(d)?d:(d.offers||[]);let n=0;a.forEach(x=>{const k=((x.title||'')+'|'+(x.company||'')+'|'+(x.location||'')).toLowerCase();if(!state.offers.some(o=>((o.title||'')+'|'+(o.company||'')+'|'+(o.location||'')).toLowerCase()===k)){state.offers.push({...x,id:crypto.randomUUID(),status:'new',source:x.source||'Import'});n++}});save();alert(n+' offre(s) ajoutée(s), doublons ignorés.');state.page='offers';render()}catch(err){alert('JSON invalide.')}};r.readAsText(f)}
+function syncDemo(){const a=[{title:'Gestionnaire du recouvrement',company:'Organisme social — exemple',location:'Perpignan',minutes:28,contract:'CDD',salaryNet:1917,description:'Suivi des comptes débiteurs, recouvrement amiable et procédures contentieuses. Travail du lundi au vendredi.',source:'La Sécu recrute'},{title:'Gestionnaire administratif',company:'Exemple Banque',location:'Prades',minutes:12,contract:'Intérim',salaryNet:2050,description:'Gestion de dossiers, contrôle de pièces, back-office bancaire, suivi administratif et télétravail hybride.',source:'France Travail'},{title:'Assistant administratif accueil',company:'Entreprise exemple',location:'Perpignan',minutes:30,contract:'CDI',salaryNet:2100,description:'Accueil physique et téléphonique, standard, secrétariat.',source:'Indeed'}];let n=0;a.forEach(x=>{const k=(x.title+'|'+x.company+'|'+x.location).toLowerCase();if(!state.offers.some(o=>(o.title+'|'+o.company+'|'+o.location).toLowerCase()===k)){state.offers.push({...x,id:crypto.randomUUID(),status:'new'});n++}});save();alert(n+' offres de test ajoutées.');state.page='home';render()}
+
+
+function collector(){
+ const s=sourceState();
+ const profiles=[
+  ['Recouvrement / contentieux','recouvrement, contentieux, créances, impayés, débiteurs, juridique, procédures'],
+  ['Gestion administrative','gestionnaire administratif, gestionnaire de dossiers, prestations, administratif'],
+  ['Banque / back-office','back-office bancaire, opérations bancaires, gestionnaire de comptes, comptabilité'],
+  ['Organismes sociaux','gestionnaire prestations, CAF, CPAM, URSSAF, contrôle, comptabilité']
+ ];
+ const sync=state.lastSync?`Dernière synchronisation : ${new Date(state.lastSync).toLocaleString('fr-FR')} — ${state.lastSyncCount||0} offre(s) reçue(s)`:"Aucune synchronisation reçue pour l'instant (vérifie que offres.json est bien généré).";
+ return `<h1>🚀 Collecte automatique</h1>
+ <div class="card"><h2>État du moteur</h2><p>${esc(sync)}</p>
+ <div class="row"><span class="tag green">✓ Scoring</span><span class="tag green">✓ Déduplication</span><span class="tag green">✓ Profil</span><span class="tag ${s['France Travail'].enabled?'green':'orange'}">${s['France Travail'].enabled?'✓ France Travail branchée':'⏳ France Travail non branchée'}</span></div>
+ <p class="muted">La recherche automatique s'exécute chaque jour côté serveur (GitHub Actions), pas dans ton navigateur : à chaque ouverture de l'appli, les nouvelles offres de France Travail sont déjà là. Voir le README fourni pour la mise en place.</p></div>
+ <h2 class="section-title">🎯 Profils de recherche interrogés chaque jour</h2>
+ <div class="grid cards">${profiles.map(p=>`<div class="card"><h3>${p[0]}</h3><p class="muted">${p[1]}</p></div>`).join('')}</div>
+ <h2 class="section-title">📡 Sources</h2>
+ <div class="card"><table><thead><tr><th>Source</th><th>Surveillance</th><th>État</th></tr></thead><tbody>${Object.entries(s).map(([n,v])=>`<tr><td>${n}</td><td>${v.enabled?'Activée':'Désactivée'}</td><td>${v.status}</td></tr>`).join('')}</tbody></table></div>
+ <div class="card"><h3>🔐 Confidentialité</h3><p>Les identifiants France Travail (client_id/secret) sont stockés uniquement comme secrets GitHub côté serveur — jamais dans cette page ni dans ton navigateur.</p></div>`;
+}
+
+function home(){
+ const scored=state.offers.map(o=>({...o,a:score(o)})).sort((x,y)=>y.a.s-x.a.s);
+ const counts={hot:scored.filter(x=>x.a.s>=90).length,good:scored.filter(x=>x.a.s>=75&&x.a.s<90).length,check:scored.filter(x=>x.a.s>=60&&x.a.s<75).length,reprise:scored.filter(x=>x.a.s>=55&&x.a.s<60).length,bad:scored.filter(x=>x.a.s<55).length};
+ return `<h1>Bonjour Letis 👋</h1><p class="muted">Ton assistant de recherche d'emploi — prototype V1</p>
+ <div class="grid stats"><div class="card stat"><strong>${state.offers.length}</strong><span class="muted">Offres enregistrées</span></div><div class="card stat"><strong>${counts.hot}</strong><span class="muted">🔥 Prioritaires</span></div><div class="card stat"><strong>${counts.good}</strong><span class="muted">🟢 Intéressantes</span></div><div class="card stat"><strong>${counts.check}</strong><span class="muted">🟡 À examiner</span></div><div class="card stat"><strong>${state.applications.length}</strong><span class="muted">Candidatures</span></div></div>
+ <h2 class="section-title">🔥 Les meilleures offres</h2>
+ <div class="grid cards">${scored.slice(0,5).map(x=>offerCard(x)).join('')||'<div class="empty">Aucune offre pour le moment.<br><br><button onclick="openAdd()">➕ Ajouter ta première offre</button></div>'}</div>
+ <h2 class="section-title">🔄 Synchronisation</h2><div class="card"><p>${state.lastSync?`✅ Dernière synchronisation automatique France Travail : <strong>${new Date(state.lastSync).toLocaleString('fr-FR')}</strong> (${state.lastSyncCount||0} offre(s))`:"⏳ Pas encore de synchronisation automatique reçue. Vérifie la configuration (voir README) ou attends le prochain passage quotidien."}</p><div class="row"><button onclick="go('collector')">🚀 Voir la collecte</button><button onclick="go('sources')">⚙️ Gérer les sources</button><button class="secondary" onclick="syncDemo()">🧪 Tester avec des offres factices</button></div></div><h2 class="section-title">🤖 Assistant</h2><div class="card"><p>Je peux déjà classer les offres selon ton profil. Les connexions automatiques aux plateformes seront ajoutées dans une étape technique ultérieure.</p><button onclick="assistant()">Ouvrir l’assistant</button></div>`;
+}
+function offers(){
+ return `<div class="row between"><div><h1>🔎 Offres</h1><p class="muted">${state.offers.length} offre(s) enregistrée(s)</p></div><button onclick="openAdd()">➕ Ajouter</button></div>
+ <div class="card"><div class="two"><input id="search" placeholder="Rechercher un poste, une entreprise..." oninput="renderOffers()"><select id="minscore" onchange="renderOffers()"><option value="0">Tous les scores</option><option value="90">90+</option><option value="75">75+</option><option value="60">60+</option></select></div></div>
+ <div id="offerlist" class="grid cards"></div>`;
+}
+function renderOffers(){
+ const el=document.getElementById('offerlist'); if(!el)return;
+ const q=(document.getElementById('search')?.value||'').toLowerCase(), min=+(document.getElementById('minscore')?.value||0);
+ let arr=state.offers.filter(o=>(o.title+' '+o.company+' '+o.description).toLowerCase().includes(q)).map(o=>({...o,a:score(o)})).filter(o=>o.a.s>=min).sort((a,b)=>b.a.s-a.a.s);
+ el.innerHTML=arr.map(o=>offerCard(o)).join('')||'<div class="empty">Aucune offre ne correspond.</div>';
+}
+function saved(){
+ const arr=state.offers.filter(o=>o.status==='saved'||o.status==='applied'||o.status==='interview').map(o=>({...o,a:score(o)}));
+ return `<h1>❤️ Mes offres suivies</h1><p class="muted">Les offres que tu as choisi de conserver.</p><div class="grid cards">${arr.map(offerCard).join('')||'<div class="empty">Aucune offre suivie pour le moment.</div>'}</div>`;
+}
+function apps(){
+ return `<h1>📋 Mes candidatures</h1><p class="muted">Suivi de tes démarches et prochaines actions.</p>
+ <div class="card"><table><thead><tr><th>Poste</th><th>Entreprise</th><th>Date</th><th>Statut</th></tr></thead><tbody>${state.applications.map(a=>`<tr><td>${esc(a.title)}</td><td>${esc(a.company)}</td><td>${esc(a.date)}</td><td><span class="tag green">${esc(a.status)}</span></td></tr>`).join('')||'<tr><td colspan="4">Aucune candidature.</td></tr>'}</tbody></table></div>`;
+}
+function profile(){
+ const p=state.profile;
+ return `<h1>👤 Mon profil</h1><div class="card"><h2>🎯 Critères actuels</h2><div class="two">
+ <label>Ville de référence<input id="pLoc" value="${esc(p.location)}"></label>
+ <label>Trajet maximum (minutes)<input id="pMax" type="number" value="${p.maxMinutes}"></label>
+ <label>Trajet idéal (minutes)<input id="pIdeal" type="number" value="${p.idealMinutes}"></label>
+ <label>Salaire cible net mensuel<input id="pSal" type="number" value="${p.salaryNet}"></label></div>
+ <h3>Priorités</h3><p>${p.priorities.map(x=>`<span class="tag green">${esc(x)}</span>`).join('')}</p>
+ <h3>À éviter</h3><p>${p.exclusions.map(x=>`<span class="tag red">${esc(x)}</span>`).join('')}</p>
+ <h3>Bonus importants</h3><p>${p.bonus.map(x=>`<span class="tag">${esc(x)}</span>`).join('')}</p>
+ <button onclick="saveProfile()">Enregistrer les critères</button></div>`;
+}
+function saveProfile(){state.profile.location=document.getElementById('pLoc').value;state.profile.maxMinutes=+document.getElementById('pMax').value;state.profile.idealMinutes=+document.getElementById('pIdeal').value;state.profile.salaryNet=+document.getElementById('pSal').value;save();render()}
+function openAdd(){
+ document.getElementById('modal').className='modal';
+ document.getElementById('modal').innerHTML=`<div><div class="row between"><h2>➕ Ajouter une offre</h2><button class="secondary" onclick="closeModal()">Fermer</button></div>
+ <div class="form"><label>Intitulé du poste<input id="oTitle" placeholder="Ex. Gestionnaire recouvrement"></label>
+ <div class="two"><label>Entreprise<input id="oCompany"></label><label>Source<input id="oSource" value="Ajout manuel"></label></div>
+ <div class="two"><label>Lieu<input id="oLoc" placeholder="Ex. Perpignan"></label><label>Temps de trajet (min)<input id="oMin" type="number" placeholder="Ex. 28"></label></div>
+ <div class="two"><label>Contrat<input id="oContract" placeholder="CDD 12 mois"></label><label>Salaire net estimé (€)<input id="oSal" type="number" placeholder="Laisser vide si inconnu"></label></div>
+ <label>Description / texte de l'annonce<textarea id="oDesc" placeholder="Colle ici l'annonce complète si tu veux que l'analyse soit plus précise."></textarea></label>
+ <button onclick="addOffer()">Analyser et ajouter</button></div></div>`;
+}
+function closeModal(){document.getElementById('modal').className='hidden'}
+function addOffer(){
+ const o={id:crypto.randomUUID(),title:document.getElementById('oTitle').value||'Poste sans intitulé',company:document.getElementById('oCompany').value,source:document.getElementById('oSource').value,location:document.getElementById('oLoc').value,minutes:+document.getElementById('oMin').value||0,contract:document.getElementById('oContract').value,salaryNet:+document.getElementById('oSal').value||0,description:document.getElementById('oDesc').value,status:'new',created:new Date().toLocaleDateString('fr-FR')};
+ state.offers.push(o);save();closeModal();state.page='offers';render();viewOffer(o.id)
+}
+function keepOffer(id){let o=state.offers.find(x=>x.id===id);if(o){o.status='saved';save();render()}}
+function rejectOffer(id){let o=state.offers.find(x=>x.id===id);if(o){o.status='rejected';save();render()}}
+function viewOffer(id){
+ const o=state.offers.find(x=>x.id===id), a=score(o);
+ document.getElementById('modal').className='modal';
+ document.getElementById('modal').innerHTML=`<div><div class="row between"><h2>${esc(o.title)}</h2><button class="secondary" onclick="closeModal()">Fermer</button></div>
+ <p class="muted">${esc(o.company)} · ${esc(o.location)} · Source : ${esc(o.source)}</p><div class="score">${a.s}/100 — ${badge(a.s)}</div>
+ <h3>Conditions</h3><p>🚗 ${o.minutes||'?'} min · 📄 ${esc(o.contract||'Non précisé')} · 💰 ${o.salaryNet?o.salaryNet+' € net estimés':'Salaire à vérifier'}</p>
+ <h3>🤖 Pourquoi ?</h3><ul>${a.reasons.map(x=>`<li>${esc(x)}</li>`).join('')||'<li>Correspondance à approfondir.</li>'}</ul>
+ <h3>⚠️ Points de vigilance</h3><ul>${a.cautions.map(x=>`<li>${esc(x)}</li>`).join('')||'<li>Aucun point bloquant détecté automatiquement.</li>'}</ul>
+ <h3>Annonce</h3><p>${esc(o.description||'Aucun texte fourni.')}</p>
+ ${o.url?`<p><a href="${esc(o.url)}" target="_blank" rel="noopener">🔗 Voir l'annonce originale sur France Travail</a></p>`:''}
+ <div class="actions row"><button onclick="keepOffer('${o.id}');closeModal()">❤️ Garder</button><button class="success" onclick="apply('${o.id}');closeModal()">📝 Je veux postuler</button><button class="danger" onclick="rejectOffer('${o.id}');closeModal()">Écarter</button></div></div>`;
+}
+function apply(id){
+ let o=state.offers.find(x=>x.id===id);if(!o)return;o.status='applied';
+ state.applications.push({id:crypto.randomUUID(),offerId:id,title:o.title,company:o.company,date:new Date().toLocaleDateString('fr-FR'),status:'Candidature à préparer'});save();state.page='apps';render()
+}
+function assistant(){
+ document.getElementById('modal').className='modal';document.getElementById('modal').innerHTML=`<div><div class="row between"><h2>🤖 Assistant</h2><button class="secondary" onclick="closeModal()">Fermer</button></div>
+ <p>Je suis le prototype de ton assistant. Pour l'instant, je peux expliquer le classement des offres enregistrées.</p>
+ <div class="card"><h3>Suggestion</h3><p>${state.offers.length?`Parmi tes ${state.offers.length} offre(s), commence par les offres notées <strong>${Math.max(...state.offers.map(o=>score(o).s))}/100</strong> et présentant une dimension recouvrement/contentieux.`:'Ajoute quelques offres pour commencer l’analyse.'}</p></div></div>`;
+}
+function render(){
+ nav();const app=document.getElementById('app');
+ app.innerHTML=state.page==='home'?home():state.page==='offers'?offers():state.page==='saved'?saved():state.page==='apps'?apps():state.page==='sources'?sourcePanel():state.page==='collector'?collector():profile();
+ if(state.page==='offers')renderOffers();
+}
+async function loadAutoOffers(){
+ try{
+  const res=await fetch('./offres.json',{cache:'no-store'});
+  if(!res.ok)return;
+  const data=await res.json();
+  if(!data||!Array.isArray(data.offres))return;
+  let added=0;
+  data.offres.forEach(x=>{
+   const already=state.offers.some(o=>o.externalId&&o.externalId===x.externalId);
+   if(!already){
+    state.offers.push({...x,id:crypto.randomUUID(),status:'new',created:x.created||new Date().toLocaleDateString('fr-FR')});
+    added++;
+   }
+  });
+  state.lastSync=data.generatedAt;
+  state.lastSyncCount=data.count||data.offres.length;
+  save();
+  if(added>0)render();
+ }catch(e){
+  // offres.json absent ou invalide (par ex. avant la première synchronisation) : silencieux, l'appli reste utilisable en ajout manuel.
+  console.warn('Synchronisation automatique indisponible :',e.message);
+ }
+}
+render();
+loadAutoOffers();
+</script>
+</body></html>
