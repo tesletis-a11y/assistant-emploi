@@ -29,9 +29,11 @@ const CLIENT_SECRET = process.env.FT_CLIENT_SECRET;
 // Code INSEE de la commune de référence (Vinça = 66230). Change-le si besoin.
 const COMMUNE_INSEE = process.env.FT_COMMUNE || "66230";
 
-// Rayon de recherche en kilomètres autour de la commune (à ajuster :
-// 30 km ~ souvent 30-40 min de route en zone rurale, à affiner toi-même).
-const DISTANCE_KM = Number(process.env.FT_DISTANCE_KM || 35);
+// Rayon de recherche en kilomètres autour de la commune. En zone rurale, un
+// rayon plus large est nécessaire pour capter suffisamment d'offres (50 km
+// couvre notamment Perpignan depuis Vinça). Ajuste selon ce que tu es prêt
+// à faire comme trajet.
+const DISTANCE_KM = Number(process.env.FT_DISTANCE_KM || 50);
 
 // Coordonnées de Vinça, utilisées uniquement pour estimer un temps de
 // trajet approximatif (pas fourni tel quel par l'API).
@@ -46,12 +48,15 @@ const AVG_SPEED_KMH = Number(process.env.FT_AVG_SPEED_KMH || 50);
 // CDI, CDD, MIS (intérim), SAI (saisonnier), LIB (libéral), etc.
 const TYPES_CONTRAT = (process.env.FT_TYPES_CONTRAT || "CDD,MIS,CDI").split(",");
 
-// Profils de recherche : un mot-clé par requête, correspondant à tes priorités.
+// Profils de recherche : mots-clés courts (1-2 mots), correspondant à tes
+// priorités. Plus il y a de mots dans motsCles, plus la recherche devient
+// stricte (l'offre doit contenir TOUS les mots) — mieux vaut rester large
+// ici et laisser le scoring de l'appli affiner ensuite.
 const PROFILES = [
-  { name: "Recouvrement / contentieux", motsCles: "recouvrement contentieux créances impayés" },
-  { name: "Gestion administrative", motsCles: "gestionnaire administratif gestion de dossiers" },
-  { name: "Banque / back-office", motsCles: "back-office bancaire gestionnaire de comptes" },
-  { name: "Organismes sociaux", motsCles: "gestionnaire prestations CAF CPAM URSSAF" },
+  { name: "Recouvrement / contentieux", motsCles: "recouvrement" },
+  { name: "Gestion administrative", motsCles: "gestionnaire administratif" },
+  { name: "Banque / back-office", motsCles: "back-office" },
+  { name: "Organismes sociaux", motsCles: "gestionnaire prestations" },
 ];
 
 const TOKEN_URL =
@@ -96,7 +101,12 @@ async function searchOffers(token, profile) {
   const res = await fetch(`${SEARCH_URL}?${params.toString()}`, {
     headers: { Authorization: `Bearer ${token}`, Accept: "application/json" },
   });
-  // L'API répond 200 ou 206 (résultats partiels) selon la pagination.
+  // L'API répond :
+  //  200/206 = résultats trouvés (206 si pagination partielle)
+  //  204     = recherche réussie mais aucune offre ne correspond (normal, pas une erreur)
+  if (res.status === 204) {
+    return [];
+  }
   if (res.status !== 200 && res.status !== 206) {
     console.error(`⚠️ Recherche "${profile.name}" a échoué : ${res.status} ${await res.text()}`);
     return [];
