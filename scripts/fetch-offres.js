@@ -39,10 +39,12 @@ const DISTANCE_KM = Number(process.env.FT_DISTANCE_KM || 50);
 // trajet approximatif (pas fourni tel quel par l'API).
 const ORIGIN = { lat: 42.6461, lon: 2.5294 };
 
-// Vitesse moyenne supposée pour convertir une distance à vol d'oiseau
-// en une estimation TRÈS grossière de temps de trajet en minutes.
-// C'est une approximation : vérifie toujours le vrai trajet toi-même.
-const AVG_SPEED_KMH = Number(process.env.FT_AVG_SPEED_KMH || 50);
+// Vitesse moyenne supposée pour convertir une distance à vol d'oiseau en
+// une estimation de temps de trajet. En zone de montagne/rurale (comme
+// les Pyrénées-Orientales), les routes sont plus sinueuses et lentes qu'en
+// plaine : on part sur une vitesse basse par défaut pour ne pas sous-estimer
+// le trajet réel. Ajuste selon ton expérience concrète des routes locales.
+const AVG_SPEED_KMH = Number(process.env.FT_AVG_SPEED_KMH || 38);
 
 // Types de contrats recherchés (codes France Travail) :
 // CDI, CDD, MIS (intérim), SAI (saisonnier), LIB (libéral), etc.
@@ -136,9 +138,10 @@ function extractSalaryNet(salaireLibelle) {
 function normalizeOffer(o, profileName) {
   const lat = o.lieuTravail?.latitude;
   const lon = o.lieuTravail?.longitude;
-  let minutes = 0;
+  let minutes, distanceKm;
   if (lat && lon) {
     const km = haversineKm(ORIGIN.lat, ORIGIN.lon, lat, lon);
+    distanceKm = Math.round(km);
     minutes = Math.round((km / AVG_SPEED_KMH) * 60);
   }
   return {
@@ -148,7 +151,8 @@ function normalizeOffer(o, profileName) {
     source: "France Travail",
     profil: profileName,
     location: o.lieuTravail?.libelle || "Lieu non précisé",
-    minutes: minutes || undefined,
+    minutes,
+    distanceKm,
     contract: o.typeContratLibelle || o.typeContrat || "",
     salaryNet: extractSalaryNet(o.salaire?.libelle) || 0,
     hours: o.dureeTravailLibelle || "",
