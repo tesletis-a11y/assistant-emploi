@@ -65,10 +65,10 @@ function score(o){
  if(/contentieux|juridique|tribunal|avocat|injonction/.test(text)){s+=10;reasons.push('Dimension juridique/contentieuse')}
  if(/recouvrement|impay|débiteur|créance/.test(text)){s+=6;reasons.push('Recouvrement / comptes débiteurs')}
  if((o.contract||'').toLowerCase().includes('cdd')||(o.contract||'').toLowerCase().includes('intérim'))s+=5;
- // Le temps de trajet n'est pas pris en compte dans le score : l'estimation
- // automatique (distance à vol d'oiseau) ne reflète pas la réalité des
- // routes (voies rapides vs zones de montagne). La distance et l'estimation
- // restent affichées sur chaque offre pour que tu juges toi-même au cas par cas.
+ // Le temps de trajet n'influence plus le score (l'estimation automatique
+ // ne reflète pas la réalité des routes), mais un avertissement visuel
+ // apparaît au-delà de 45 min pour que tu vérifies toi-même le trajet réel.
+ if((o.minutes||0)>45){cautions.push(`Trajet estimé à ${o.minutes} min — à vérifier toi-même selon le type de route`)}
  if(o.salaryNet){if(o.salaryNet>=2000)s+=8;else if(o.salaryNet>=1800)s-=2;else s-=8}else cautions.push('Salaire à vérifier');
  if((o.hours||'').toLowerCase().includes('temps partiel'))s-=2;
  s=Math.max(0,Math.min(100,Math.round(s)));
