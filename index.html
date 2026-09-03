@@ -77,7 +77,7 @@ function offerCard(o){
  const statusTag=o.status==='rejected'?'<span class="tag red">🚫 Écartée</span>':o.status==='saved'?'<span class="tag green">❤️ Suivie</span>':o.status==='applied'?'<span class="tag green">📝 Candidature envoyée</span>':'';
  return `<div class="card offer"><div class="row between"><span class="tag">${esc(o.source||'Ajout manuel')}</span><span class="score">${a.s}/100</span></div>
  <h3>${esc(o.title)}</h3><div class="muted">${esc(o.company||'Entreprise non précisée')} · ${esc(o.location||'Lieu non précisé')}</div>
- <p>${o.minutes?`🚗 ~${o.minutes} min (estimation)`:''}${o.distanceKm?` · 📍 ${o.distanceKm} km à vol d'oiseau`:''}${o.contract?` · 📄 ${esc(o.contract)}`:''}${o.salaryNet?` · 💰 ${o.salaryNet} € net`:''}</p>
+ <p>${o.minutes?`🚗 ~${o.minutes} min (estimation)`:''}${o.distanceKm?` · 📍 ${o.distanceKm} km à vol d'oiseau`:''}${o.contract?` · 📄 ${esc(o.contract)}`:''}${o.salaryNet?` · 💰 ${o.salaryNet} € net`:''}${o.created?` · 🗓️ Publiée le ${esc(o.created)}`:''}</p>
  <span class="tag">${badge(a.s)}</span>${statusTag}${a.cautions.slice(0,2).map(x=>`<span class="tag orange">⚠️ ${esc(x)}</span>`).join('')}
  <div class="actions row"><button onclick="viewOffer('${o.id}')">Voir</button><button class="secondary" onclick="keepOffer('${o.id}')">❤️ Garder</button><button class="danger" onclick="rejectOffer('${o.id}')">Écarter</button></div></div>`
 }
@@ -117,7 +117,7 @@ function home(){
  <div class="grid stats"><div class="card stat"><strong>${state.offers.length}</strong><span class="muted">Offres enregistrées</span></div><div class="card stat"><strong>${counts.hot}</strong><span class="muted">🔥 Prioritaires</span></div><div class="card stat"><strong>${counts.good}</strong><span class="muted">🟢 Intéressantes</span></div><div class="card stat"><strong>${counts.check}</strong><span class="muted">🟡 À examiner</span></div><div class="card stat"><strong>${state.applications.length}</strong><span class="muted">Candidatures</span></div></div>
  <h2 class="section-title">🔥 Les meilleures offres</h2>
  <div class="grid cards">${scored.slice(0,5).map(x=>offerCard(x)).join('')||'<div class="empty">Aucune offre pour le moment.<br><br><button onclick="openAdd()">➕ Ajouter ta première offre</button></div>'}</div>
- <h2 class="section-title">🔄 Synchronisation</h2><div class="card"><p>${state.lastSync?`✅ Dernière synchronisation automatique France Travail : <strong>${new Date(state.lastSync).toLocaleString('fr-FR')}</strong> (${state.lastSyncCount||0} offre(s))`:"⏳ Pas encore de synchronisation automatique reçue. Vérifie la configuration (voir README) ou attends le prochain passage quotidien."}</p><div class="row"><button onclick="go('collector')">🚀 Voir la collecte</button><button onclick="go('sources')">⚙️ Gérer les sources</button><button class="secondary" onclick="syncDemo()">🧪 Tester avec des offres factices</button></div></div><h2 class="section-title">🤖 Assistant</h2><div class="card"><p>Je peux déjà classer les offres selon ton profil. Les connexions automatiques aux plateformes seront ajoutées dans une étape technique ultérieure.</p><button onclick="assistant()">Ouvrir l’assistant</button></div>`;
+ <h2 class="section-title">🔄 Synchronisation</h2><div class="card"><p>${state.lastSync?`✅ Dernière synchronisation automatique France Travail : <strong>${new Date(state.lastSync).toLocaleString('fr-FR')}</strong> — ${state.lastSyncCount||0} offre(s) au total ce jour-là, dont <strong>${state.lastSyncNew??'?'} nouvelle(s)</strong>`:"⏳ Pas encore de synchronisation automatique reçue. Vérifie la configuration (voir README) ou attends le prochain passage quotidien."}</p><div class="row"><button onclick="go('collector')">🚀 Voir la collecte</button><button onclick="go('sources')">⚙️ Gérer les sources</button><button class="secondary" onclick="syncDemo()">🧪 Tester avec des offres factices</button></div></div><h2 class="section-title">🤖 Assistant</h2><div class="card"><p>Je peux déjà classer les offres selon ton profil. Les connexions automatiques aux plateformes seront ajoutées dans une étape technique ultérieure.</p><button onclick="assistant()">Ouvrir l’assistant</button></div>`;
 }
 function offers(){
  return `<div class="row between"><div><h1>🔎 Offres</h1><p class="muted">${state.offers.length} offre(s) enregistrée(s)</p></div><button onclick="openAdd()">➕ Ajouter</button></div>
@@ -211,8 +211,9 @@ async function loadAutoOffers(){
   });
   state.lastSync=data.generatedAt;
   state.lastSyncCount=data.count||data.offres.length;
+  state.lastSyncNew=added;
   save();
-  if(added>0)render();
+  render();
  }catch(e){
   // offres.json absent ou invalide (par ex. avant la première synchronisation) : silencieux, l'appli reste utilisable en ajout manuel.
   console.warn('Synchronisation automatique indisponible :',e.message);
