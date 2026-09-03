@@ -29,11 +29,12 @@ const CLIENT_SECRET = process.env.FT_CLIENT_SECRET;
 // Code INSEE de la commune de référence (Vinça = 66230). Change-le si besoin.
 const COMMUNE_INSEE = process.env.FT_COMMUNE || "66230";
 
-// Rayon de recherche en kilomètres autour de la commune. En zone rurale, un
-// rayon plus large est nécessaire pour capter suffisamment d'offres (50 km
-// couvre notamment Perpignan depuis Vinça). Ajuste selon ce que tu es prêt
-// à faire comme trajet.
-const DISTANCE_KM = Number(process.env.FT_DISTANCE_KM || 50);
+// Rayon de recherche en kilomètres autour de la commune. Après une semaine
+// de test, un rayon de 50 km ne remontait quasiment aucune offre nouvelle
+// dans ce bassin d'emploi rural : on élargit à 70 km. Le score de l'appli
+// pénalise déjà fortement les trajets longs, donc élargir ici ne pollue pas
+// tes résultats — ça donne juste plus de matière au moteur de tri.
+const DISTANCE_KM = Number(process.env.FT_DISTANCE_KM || 70);
 
 // Coordonnées de Vinça, utilisées uniquement pour estimer un temps de
 // trajet approximatif (pas fourni tel quel par l'API).
@@ -53,12 +54,19 @@ const TYPES_CONTRAT = (process.env.FT_TYPES_CONTRAT || "CDD,MIS,CDI").split(",")
 // Profils de recherche : mots-clés courts (1-2 mots), correspondant à tes
 // priorités. Plus il y a de mots dans motsCles, plus la recherche devient
 // stricte (l'offre doit contenir TOUS les mots) — mieux vaut rester large
-// ici et laisser le scoring de l'appli affiner ensuite.
+// ici et laisser le scoring de l'appli affiner ensuite. Après une semaine
+// à 0 nouvelle offre/jour avec 4 profils très ciblés, la liste est élargie :
+// plus de profils = plus de chances de capter une offre pertinente chaque
+// jour, sans risque de pollution puisque le scoring trie tout ensuite.
 const PROFILES = [
   { name: "Recouvrement / contentieux", motsCles: "recouvrement" },
+  { name: "Contentieux / juridique", motsCles: "contentieux" },
   { name: "Gestion administrative", motsCles: "gestionnaire administratif" },
   { name: "Banque / back-office", motsCles: "back-office" },
-  { name: "Organismes sociaux", motsCles: "gestionnaire prestations" },
+  { name: "Organismes sociaux (CAF, CPAM...)", motsCles: "gestionnaire prestations" },
+  { name: "Assistanat administratif", motsCles: "assistant administratif" },
+  { name: "Secrétariat", motsCles: "secrétaire" },
+  { name: "Agent administratif", motsCles: "agent administratif" },
 ];
 
 const TOKEN_URL =
