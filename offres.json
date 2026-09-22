@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T06:21:07.997Z",
+  "generatedAt": "2026-09-22T06:18:30.573Z",
   "source": "France Travail (API officielle)",
   "communeInsee": "66230",
   "distanceKm": 70,
-  "count": 42,
+  "count": 39,
   "offres": [
     {
       "externalId": "213QVQB",
@@ -20,6 +20,20 @@
       "description": "Nous vous proposons un CDI en tant que Comptable confirmé d'entreprise H/F au sein d'une entreprise audoise spécialisée dans l'exploitation carrières /sablières, négoce granulats, le recyclage déchets du BTP et la production préfabriqués en béton.\n\nEn lien avec le responsable hiérarchique et les collaborateurs du service, vous assurerez les travaux comptables et viendrez en assistance à la Direction Administrative et Financière.\n\nVos missions seront les suivantes :\n- Réalisation des opérations comptables courantes, analytiques et des travaux de clôture (situations intermédiaires, bilans).\n- Gestion complète de la facturation pour une entité juridique du groupe.\n- Collecte, analyse et synthèse des informations financières nécessaires au bon fonctionnement du service.\n- Organisation et traitement des données conformément aux procédures administratives et comptables établies.\n- Communication avec les différents interlocuteurs internes (services) et externes (partenaires, clients, fournisseurs).\n- Élaboration de reportings réguliers à destination de la Direction Administrative et Financière.\n\n\nProfil :\n- BAC+2/3 dans le domaine de la comptabilité ou finance\n- Expérience professionnelle souhaitée de 2 ans sur un poste similaire \n\nSavoir-faire : \n- Connaissance approfondie des normes comptables, fiscales et financières\n- Capacité à analyser les états financiers et à optimiser la gestion des flux\n- Maîtrise des outils bureautiques (Pack Office, Sage si possible) \n\nSavoir-être : \n- Organisation\n- Rigueur\n- Gestion des délais\n- Anticipation et adaptation\n- Écoute\n- Travail en équipe\n- Discrétion\n- Éthique professionnelle dans la gestion des informations financières",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213QVQB",
       "created": "09/09/2026"
+    },
+    {
+      "externalId": "7066822",
+      "title": "ROADIA - Assistant / Assistante de gestion administrative (H/F)",
+      "company": "ROADIA",
+      "source": "France Travail",
+      "profil": "Gestion administrative",
+      "location": "66 - Cabestany",
+      "contract": "CDD - 6 Mois",
+      "salaryNet": 1867,
+      "hours": "",
+      "description": "Adenes, groupe international d'expertise après sinistre, est à la recherche d'un Gestionnaire Centre Client F/H pour venir renforcer sa filiale automobile, ROADIA, issue du rapprochement entre CREATIV et KPI.\nEn tant que Gestionnaire Centre client, vous jouez un rôle essentiel dans la gestion des dossiers sinistres en apportant votre soutien administratif et organisationnel à nos experts.\nA ce titre, vos missions consistent à :\n\nAssurer l'accueil des assurés au sein de l'agence\nVérifier la conformité de la mission réceptionnée\nQualifier les dossiers : analyser les pièces du dossier, vérifier les garanties souscrites au contrat d'assurance, la cause du sinistre, l'étendue des dommages et l'enjeu estimé\nOrganiser et planifier les rendez-vous d'expertise avec les sinistrés\nGarantir la relation avec les sinistrés, répondre aux appels téléphoniques et aux courriels des clients, en leur fournissant des informations précises et en les orientant vers les ressources appropriées.\n\nIssu d'une formation dans le domaine de la Relation client (commerce-vente, marketing, communication) vous avez idéalement démontré vos compétences relationnelles lors d'une première expérience en centre d'appels (stages et alternances compris).\nDoté d'une bonne communication à l'oral et à l'écrit, vous maitrisez les outils informatiques (SI, Gestion Electronique de Documents)\nNous apprécierons chez vous :\n\nSens du service client et capacité à apporter une aide précieuse aux sinistrés.\nExcellentes compétences en communication et organisation.\nCapacité à travailler sous pression et à gérer plusieurs dossiers simultanément.\nVotre aisance relationnelle et vos qualités rédactionnelles\nVotre bonne humeur et votre implication\n\nCe que nous offrons :\n\nNos parcours d'intégration individuels\nNotre management de proximité\nNotre accompagnement et nos formations internes\nNos opportunités d'évolution et de mobilité interne Groupe\nNotre attachement à la valeur du collectif et à la satisfaction client\nNotre politique RSE\nNos avantages sociaux : Carte tickets-restaurant et Contrat santé avec prise en charge Employeur, et Compte Epargne-Temps.\n\nRémunération mensuelle, selon profil et expérience, à partir de 1867€.\nCDD - 37h hebdomadaires.\nSi vous le souhaitez, vous bénéficierez d'un Accord Télétravail (1 jour fixe /semaine et 4 jours flexibles/mois), d'une Carte tickets-restaurant, d'un Contrat collectif santé avec prise en charge Employeur et d'un Compte Epargne Temps.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7066822",
+      "created": "21/09/2026"
     },
     {
       "externalId": "213WDYX",
@@ -100,6 +114,22 @@
       "created": "21/08/2026"
     },
     {
+      "externalId": "212JXMZ",
+      "title": "Agent de gestion administrative (H/F)",
+      "company": "SECRETARIAT GENERAL COMMUN DEPARTEMENTA",
+      "source": "France Travail",
+      "profil": "Gestion administrative",
+      "location": "09 - FOIX",
+      "minutes": 131,
+      "distanceKm": 83,
+      "contract": "CDD - 1 Mois",
+      "salaryNet": 1867,
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Au sein du service des ressources humaines, l'agent(e) de gestion administrative assure des missions administratives et de secrétariat diverses selon les besoins des bureaux. \nActivités principales :\nMissions administratives et de secrétariat\n-Gestion des demandes et des conventions de stage des élèves et des étudiants - - Saisie et mise à jour de tableaux de bord RH - Classement et archivage de documents RH - Participation aux process de recrutement et de gestion des mobilités : suivi et réponse aux demandes d'emploi et candidatures . - Tenue et mise à jour des dossiers administratifs individuels - Assistance aux tâches administratives dans le cadre des campagnes RH - Assistance aux tâches administratives dans le cadre des élections ",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212JXMZ",
+      "created": "12/08/2026"
+    },
+    {
       "externalId": "7034993",
       "title": "Assistant(e) administrative et commerciale (H/F)",
       "company": "Entreprise non précisée",
@@ -125,22 +155,6 @@
       "hours": "",
       "description": "OPT'IN recrute pour son client \nAssistant Comptable & Administration Travaux H/F - CDI - Perpignan\nVous souhaitez rejoindre une entreprise à taille humaine où la polyvalence, l'autonomie et l'esprit d'équipe sont au coeur du quotidien - Cette opportunité est faite pour vous ! \n\n\nLe poste : \n\nCôté comptabilité :\nSaisie de la comptabilité courante.\nSuivi des comptes clients et fournisseurs.\nGestion des encaissements et de la facturation.\nDéclarations de TVA et fiscales.\nAnalyse des coûts par chantier.\nÉlaboration des reportings, situations comptables et participation aux bilans.\nCôté administratif travaux & RH :\nPréparation des devis et dossiers d'appels d'offres.\nGestion administrative des chantiers (contrats, DOE, DICT, etc.).\nSuivi administratif des dossiers travaux.\nPréparation des éléments de paie.\nGestion administrative du personnel (DUE, arrêts, congés, heures, RTT...).\n\n\nProfil recherché : \n\nFormation en comptabilité (BTS Comptabilité, DCG, DSCG ou équivalent).\nPremière expérience réussie sur un poste similaire.\nVous maîtrisez la comptabilité générale jusqu'à la préparation du bilan.\nVous êtes à l'aise avec Excel et les logiciels comptables.\nUne connaissance des marchés publics ou du secteur des espaces verts est un plus.\nVous êtes reconnu(e) pour votre rigueur, votre organisation, votre autonomie et votre excellent relationnel. Curieux(se) et impliqué(e), vous appréciez les missions variées et souhaitez évoluer dans un environnement dynamique.\nINDSPO\n",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6986483",
-      "created": "18/09/2026"
-    },
-    {
-      "externalId": "214BTRJ",
-      "title": "Secrétaire / Assistant(e) (H/F)",
-      "company": "ACTIF CONSEIL",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - PERPIGNAN",
-      "minutes": 48,
-      "distanceKm": 30,
-      "contract": "CDI",
-      "salaryNet": 24000,
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "- Vous recherchez un poste multi casquettes tourné vers les autres et le contact humain ?\n- Vous cherchez à évoluer dans une entreprise indépendante dont 85% des collaborateurs sont satisfaits de la manière dont ils articulent leur vie professionnelle et personnelle ? (enquête Happy At Work 2025)\n- Vous voulez intégrer une équipe soudée et dynamique, qui travaille sur des semaines de 4 jours et demi toute l'année ?\n\nÇa tombe bien, nous recherchons un(e) assistant(e) polyvalente pour prendre en charge l'accueil de notre site du Polygone !\n\nVos missions sont les suivantes : \nDes missions classiques de secrétariat :\n- Accueil physique et téléphonique des clients\n- Gestion du courrier\n- Commande de fournitures\n- Création et suivi des devis/lettres de mission...\n\nAuxquelles s'ajoutent diverses missions de soutien aux collaborateurs, notamment du service juridique mais aussi comptable et communication/gestion interne, en fonction de votre profil.\n\nVous travaillerez en collaboration avec notre secrétaire actuelle Camille (qui évolue sur un autre poste) qui vous formera au démarrage, et qui pourra vous confier plus de missions au fur et à mesure de votre prise en main du poste. \n\nLe poste est très polyvalent et a beaucoup évolué ces dernières années avec la dématérialisation de nos activités : l'agilité informatique est désormais un pré-requis. \n\nVos prises d'initiative seront toujours les bienvenues, Camille pourra en témoigner, c'est un poste qui peut évoluer à votre image en fonction de vos appétences et vos points forts !\n\nLe poste est à temps complet, réparti sur 4 jours et demi (mercredi après-midi en repos), et à pourvoir dès que possible.\n\n\nCe poste est fait pour vous si : \n- Vous souhaitez donner du sens à votre quotidien en rendant service aux autres\n- Vous recherchez un poste polyvalent et autonome dans lequel la prise d'initiative a toute sa place\n- Vous aimez les relations humaines et faites preuve d'une très bonne présentation orale\n- Vous avez une première expérience confirmée en tant que secrétaire, de préférence dans un environnement comptable ou juridique\n- Vous maîtrisez les outils informatiques\n- Vous avez des bases en formalisme juridique et/ou des notions en comptabilité de base\n- Et en pâtisserie, osons rêver ! \n\nBlague à part, 85% de nos collaborateurs comptables nous recommandent à un(e) ami(e) pour venir travailler chez nous (enquête Happy At Work 2024), alors ne cherchez pas plus loin :)\n\nTravailler chez nous, ça veut dire quoi ? \nNous comptons 6 experts-comptables associés et environ 60 collaborateurs répartis sur 3 sites à Perpignan et à Prades. Votre poste sera basé sur notre site du Polygone, au 363 boulevard Marius Berliet, où nous comptons une trentaine de collaborateurs.\n\nChez nous, tout le monde travaille avec tout le monde, et la solidarité fait partie de notre culture : il est indispensable de se mettre au service de l'autre (clients et collègues). En échange, vous bénéficiez d'un cabinet humain, de formations régulières et de moments de convivialité encore plus réguliers ! ;)\n\nLe petit plus ? A votre arrivée, bénéficiez d'une intégration sur mesure et de l'attribution d'un parrain/marraine pour prendre vos marques rapidement !\n\nUn conseil ?\nAu delà du CV, expliquez-nous en quelques lignes ce que vous recherchez en candidatant chez nous et ce que vous pensez pouvoir apporter !",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214BTRJ",
       "created": "18/09/2026"
     },
     {
@@ -202,22 +216,6 @@
       "description": "L'agence Welljob, recherche pour l'un de ses clients un(e) Secrétaire comptable H/F, afin d'assurer la continuité de nos activités.\n\nLa personne recrutée sera formée et accompagnée directement par la titulaire du poste jusqu'à son départ à la retraite, prévu fin décembre.\n\nProfil recherché\nUne expérience en comptabilité est souhaitée, idéalement avec une bonne maîtrise de la comptabilité jusqu'à l'établissement du bilan, notre entreprise réalisant notamment des situations comptables mensuelles.\n\nLa personne devra également être capable de :\nÉtablir la TVA mensuellement et effectuer les déclarations ;\nMaîtriser les particularités liées à la TVA sur encaissements ;\nGérer les annexes TRM et la TICPE.\n\nMissions comptables et administratives\nEn complément de la comptabilité, le poste comprend une part importante de tâches administratives, notamment liées à notre activité de sous-traitance dans le secteur du bâtiment.\n\nGestion des clients et de la sous-traitance\nSignature et suivi des contrats ;\nÉtablissement des documents DC4 et DC2 ;\nMise à jour de la plateforme ONCE FOR ALL pour les documents liés à la sous-traitance ;\nRelance des devis ;\nÉtablissement et suivi de la facturation, avec une attention particulière aux spécificités de chaque client ;\nSuivi des règlements et relances des impayés ;\nGestion des différentes demandes administratives des clients.\nGestion des salariés et des intérimaires\nEnregistrement et suivi des heures des salariés et des intérimaires ;\nDéclaration des heures des intérimaires chaque lundi ;\nPréparation de la navette des salariés destinée au cabinet comptable pour la transmission des variables de paie ;\nContrôle des salaires avant validation ;\nComptabilisation des écritures comptables liées aux salaires.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213YRVX",
       "created": "16/09/2026"
-    },
-    {
-      "externalId": "213XSWX",
-      "title": "Sécrétaire bureautique/ administratif (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "11 - SALLELES CABARDES",
-      "minutes": 120,
-      "distanceKm": 76,
-      "contract": "CDD - 4 Mois",
-      "salaryNet": 13,
-      "hours": "Temps partiel - 21H/semaine\nTravail en journée",
-      "description": "Vous serez chargé de gérer l'administratif des activités viticoles et hébergement.\nVos missions essentielles :\n- Gestion de la facturation\n- Gestion des règlements clients\n- Traitement des commandes, relation transporteurs\n- Relance clients\n- Suivi des banques...\n- déclarations mensuelles \"viticoles\"\n\nVous êtes autonome dans votre travail.\n\nDans le cadre de vos fonctions vous pourrez être amené.e à accueillir et à orienter les clients et les fournisseurs (accueil physique et téléphonique).\n\nPoste à pourvoir immédiatement.\nTemps partiel de 21h00 par semaine, réparties sur 3 jours et/ou 2 jours et demi à définir en fonction de vos obligations personnelles.\n\nCV + lettre de motivation",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213XSWX",
-      "created": "15/09/2026"
     },
     {
       "externalId": "213WDSL",
@@ -295,22 +293,6 @@
       "hours": "",
       "description": "Vous recherchez une opportunité professionnelle dans le domaine de l'administration des ventes ? Nous avons une proposition attrayante pour vous. Notre client recrute un(e) Assistant(e) ADV (H/F/D) pour intégrer une équipe dynamique.En tant qu'Assistant(e) ADV, vous serez en charge des missions suivantes :Gestion des appels téléphoniques et des courriers électroniques.Administration courante liée aux activités commerciales.Suivi et gestion des commandes clients.Coordination avec les différents services internes.Préparation de documents administratifs et commerciaux.Le poste offre un travail du lundi au vendredi de 9h à 17h, avec un salaire au SMIC. Les déplacements sont à prévoir dans le cadre des missions.Les + de l'agence :- Comité d'Entreprise dès la 1ère heure de mission !- Acompte hebdomadaire sur demande- Application mobile pour rester connecté (efficace et interactive)- CET (10% IFM / 10% CP)SAMSIC, société socialement responsable, s'engage au quotidien pour l'emploi des personnes en situation de handicap.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6827473",
-      "created": "11/09/2026"
-    },
-    {
-      "externalId": "213SMVW",
-      "title": "Secretaire Comptable  H/F",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "11 - NARBONNE",
-      "minutes": 105,
-      "distanceKm": 66,
-      "contract": "CDI",
-      "salaryNet": 1052,
-      "hours": "Temps partiel - 18H/semaine\nTravail en horaires fixes",
-      "description": "Assurer l'accueil physique et téléphonique de l'établissement\n- Assurer la gestion du courrier et des mails\n- Elaborer, mettre en forme et rédiger des documents administratifs\n- Assurer la commande de repas\n- Suivre l'état de présence des personnes accompagnées\n- Assurer le suivi des candidatures et des dossiers des personnes accompagnées via les logiciels et \noutils dédiés\n- Enregistrer et traiter les documents comptables (bons de commandes, livraisons, factures \nfournisseurs, devis et facturation clients) dans le logiciel dédié .Connaissance du secteur médico-social serait un plus\n- Assurer le suivi des éléments de paie des personnes accompagnées et des salariés\nAssurer la saisie des contrats de travail.\nTravail du lundi au vendredi . Deplacements ponctuels sur Leucate .",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SMVW",
       "created": "11/09/2026"
     },
     {
@@ -482,22 +464,6 @@
       "created": "27/08/2026"
     },
     {
-      "externalId": "212WZJY",
-      "title": "Secrétaire EHPAD (H/F)",
-      "company": "LE VAL DE SOURNIA",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - SOURNIA",
-      "minutes": 19,
-      "distanceKm": 12,
-      "contract": "CDI",
-      "salaryNet": 0,
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "L'Association Val de Sournia recherche pour son EHPAD Les Cèdres à Sournia un secrétaire (H/F) en CDI.\n\nVous assurerez la prise en charge physique et téléphonique des personnes se présentant au sein de l'établissement (familles, prestataires, intervenants extérieurs, etc.). Vous assurerez la gestion de l'envoi du courrier et du tri du courrier réceptionné. De plus, vous serez un soutien administratif pour aider à l'archivage et à la rédaction de courriers ou la gestion administrative de certains dossiers. Enfin, vous assurerez la sécurité et la surveillance des résidents se trouvant à l'accueil de l'établissement.\n\nMissions principales :\n- Accueil physique et téléphonique\n- Renseigner et orienter le public\n- Prendre des messages et les restituer\n- Gérer les dossiers d'admission des résidents\n- Réceptionner le courrier et organiser son tri ainsi que sa distribution\n- Rédiger des documents internes\n- Informer le personnel de restauration des absences des résidents et des changements de menus\n\nTravail du lundi au vendredi de 9h à 17h.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212WZJY",
-      "created": "25/08/2026"
-    },
-    {
       "externalId": "5727084",
       "title": "Secrétaire médical / médicale (H/F)",
       "company": "CULTURE ET FORMATION",
@@ -510,22 +476,6 @@
       "description": "Description du poste :\n\nPréparez-vous à exercer un métier essentiel du secteur de la santé grâce à notre formation à distance de Secrétaire Médical. Vous obtiendrez une certification professionnelle de niveau 4 , enregistrée au RNCP, reconnue par les employeurs.\n\nConçue pour s'adapter à votre rythme de vie, cette formation vous permet d'acquérir toutes les compétences indispensables pour exercer : accueil des patients, gestion des rendez-vous, suivi des dossiers médicaux, terminologie médicale, bureautique et gestion administrative.\n\nVous bénéficiez d'un accompagnement personnalisé tout au long de votre parcours par une équipe pédagogique expérimentée, ainsi que de cours accessibles en version papier et numérique.\n\nDescription du profil :\n\nCette formation à distance est accessible à toute personne souhaitant se former au métier de secrétaire médical, sans expérience préalable dans le domaine.\n\nVous êtes organisé(e), rigoureux(se), à l'aise dans les relations humaines et appréciez les tâches administratives. Vous souhaitez exercer un métier utile, au contact des patients, dans un secteur qui recrute ? Cette formation est faite pour vous.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5727084",
       "created": "05/08/2026"
-    },
-    {
-      "externalId": "211YZJN",
-      "title": "AIDE COMPTABLE / SECRETARIAT (H/F)",
-      "company": "EXPERTISE COMPTABLE CONSEIL, SENGLER LOR",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - LE BOULOU",
-      "minutes": 44,
-      "distanceKm": 28,
-      "contract": "CDI",
-      "salaryNet": 0,
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Vous comptabilisez les opérations courantes des entreprises clientes (achats, ventes, banque, caisse,\netc.), et vous révisez les comptes clients, fournisseurs.\nVous gérer le standard téléphonique et divers travaux de secrétariat.\nVous maitrisez et utilisez les logiciels WORD et EXCEL\nExpérience : 2 ans minimum.\nLa maîtrise de la langue espagnole serait un plus",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/211YZJN",
-      "created": "03/08/2026"
     },
     {
       "externalId": "211TNKB",
