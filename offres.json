@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T06:18:30.573Z",
+  "generatedAt": "2026-09-23T06:19:17.951Z",
   "source": "France Travail (API officielle)",
   "communeInsee": "66230",
   "distanceKm": 70,
-  "count": 39,
+  "count": 40,
   "offres": [
     {
       "externalId": "213QVQB",
@@ -84,20 +84,6 @@
       "created": "10/09/2026"
     },
     {
-      "externalId": "6642398",
-      "title": "Gestionnaire de paie (H/F)",
-      "company": "Fédération ADMR de L'AUDE",
-      "source": "France Travail",
-      "profil": "Gestion administrative",
-      "location": "11 - Narbonne",
-      "contract": "CDD - 12 Mois",
-      "salaryNet": 24580,
-      "hours": "18H/semaine\nTravail en journée",
-      "description": "RESPONSABILITÉS : \n\nGestionnaire de paie Le.a gestionnaire de paie a pour mission principale de garantir une paie fiable, conforme à la réglementation sociale et à la politique RH des associations ADMR du Département, pour l'ensemble des salariés des associations locales. Le rôle contribue directement à la sécurisation des rémunérations, au respect des obligations légales et conventionnelles, ainsi qu'à la qualité du service rendu aux équipes et à la direction des ressources humaines.\nÉlaboration et suivi de la paie Au quotidien, le.a gestionnaire de paie collecte, analyse et traite l'ensemble des informations nécessaires à l'établissement des bulletins de salaire (temps de travail, congés, modulation, absences pour maladie, augmentations, acomptes, remboursements et prélèvements). À l'aide du logiciel de paie dédié, il.elle prépare les éléments fixes et variables, contrôle la cohérence des données, saisit les informations, édite et transmet les fiches de paie en veillant au bon déroulement mensuel des opérations. Il.elle assure également la correction des anomalies signalées par les salariés et contribue à la fiabilité des calculs de rémunération.\nGestion administrative du personnel Le.a gestionnaire de paie veille à l'application du droit du travail, du droit social et des conventions collectives en matière de rémunération, durée du travail et congés. Il.elle gère les formalités liées aux entrées et sorties des salariés, notamment le calcul des indemnités et du solde de tout compte, ainsi que la portabilité le cas échéant. Il.elle prend en charge les avis à tiers détenteurs, participe au suivi des absences et congés, et élabore des tableaux de bord et documents de synthèse sur la masse salariale, les mouvements de personnel et autres indicateurs. Il.elle établit les attestations courantes (certificat de travail, arrêt de travail, attestation Pôle emploi) et réalise les travaux post paie, dont l'archivage et l'apurement des dossiers dans le respect des délais légaux.\nGestion du dossier santé et prévoyance Dans le cadre de la gestion des absences pour maladie, le.a gestion\n\nPROFIL RECHERCHÉ : \n\nNous recherchons un(e) Gestionnaire de paie rigoureux(se), organisé(e) et autonome, capable de prendre en charge l'ensemble du processus de paie et d'assurer la fiabilité des données sociales.\nVous disposez d'une bonne connaissance de la législation sociale et du droit du travail, ainsi que d'une expérience dans l'établissement et le contrôle des bulletins de salaire, la gestion des éléments variables de paie et les déclarations sociales.\nDoté(e) d'un excellent sens du détail, vous savez respecter les délais, garantir la confidentialité des informations et répondre avec professionnalisme aux demandes des salariés et des différents interlocuteurs. Votre aisance avec les outils informatiques et les logiciels de paie sera également appréciée.\nQualités recherchées : rigueur, discrétion, organisation, autonomie, réactivité, sens du service et esprit d'équipe.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6642398",
-      "created": "05/09/2026"
-    },
-    {
       "externalId": "212TCNN",
       "title": "Chargé / Chargée de la gestion administrative du personnel (H/F)",
       "company": "CENTRE HOSPITALIER LIMOUX QUILLAN",
@@ -130,6 +116,52 @@
       "created": "12/08/2026"
     },
     {
+      "externalId": "214GGVH",
+      "title": "Secretaire medicale(H/F) Assistant(e) dentaire administratif(ve)",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - AMELIE LES BAINS PALALDA",
+      "minutes": 35,
+      "distanceKm": 22,
+      "contract": "CDD - 1 Mois",
+      "salaryNet": 0,
+      "hours": "Temps partiel - 32H/semaine\nTravail en journée",
+      "description": "Cabinet dentaire recherche un(e) secrétaire médicale pour un CDD de remplacement .\nMissions principales :\n- Accueil des patients et gestion des RDV ( agenda, confirmations, relances)\n- Suivi administratif des dossiers patients et des engagements\n- Gestion du courrier, des documents et de l'administratif quotidien\n- Participation à la comptabilité du cabinet ( facturation, encaissements, suivi des règlements, liaison avec le logiciel métier)\n- Coordination avec le praticien et le cas échéant, l'équipe\n\nProfil :\n- Expérience en secrétariat médical ou en cabinet dentaire indispensable\n- Maitrise des outils bureautiques et d'un logiciel de gestion de cabinet\n- Rigueur , discrétion, sens de l'organisation et bon relationnel",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214GGVH",
+      "created": "22/09/2026"
+    },
+    {
+      "externalId": "7093090",
+      "title": "Appui Ingénieure/Ingénieur F/H",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "11 - Carcassonne",
+      "contract": "CDI",
+      "salaryNet": 0,
+      "hours": "",
+      "description": "\n            Qui sommes-nous ?La DirIN est l'entité du Groupe EDF qui porte l'ensemble des activités d'ingénierie et de conception pour le parc en exploitation ainsi que les futurs réacteurs nucléaires. Elle intègre également la relation fournisseurs, de l'élaboration de la stratégie industrielle jusqu'à la mise en œuvre des contrats et au contrôle de la réalisation des fabrications.Nous sommes 1350 salariés, répartis sur 4 sites, qui composons la Direction Technique (DT), l'une des directions de la DirIN. Actrice incontournable au sein de la filière nucléaire française, la DT a un positionnement transverse au service de la Sûreté en s'appuyant sur une complémentarité des compétences techniques, d'expertises et de projets.Plus spécifiquement, nous intervenons en amont des projets de conception et sommes garants du respect des règles de sûreté tout au long du cycle de vie des installations nucléaires. Ce que nous pouvons accomplir ensemble :Vous rejoignez le département Matériaux et Chimie, dans le groupe Matériaux & Endommagements des circuits Primaires et Auxiliaires.Ce groupe est en charge du diagnostic et de l'étude de modes d'endommagements des matériaux, du choix des matériaux et de l'intégration technique de contributions multi-métiers (fabrication, END, corrosion, etc.) pour des matériels du circuit primaire et des auxiliaires.Vos missionsEn tant qu'Appui aux ingénieurs du groupe, vous aurez pour mission de :Rechercher, rassembler et capitaliser le Retour d'expérience des endommagements matérielsCréer et gérer un ensemble de Bases De Données relatives aux endommagementsRédiger et tenir à jour des notes de synthèse règlementairesContribuer aux études sur les endommagementsEn parallèle, des fonctions d'appuis transverses pourront vous être attribuées (achats, .). Votre profilVous êtes diplômé(e) d'un bac +2/+3 dans le domaine des matériaux. Une première expérience dans l'industrie nucléaire serait un plus.Vous avez le goût de la technique, faites preuve d'autonomie et de rigueur et disposez de capacités rédactionnelles et de synthèse.Vous souhaitez devenir bâtisseur d'un avenir énergétique neutre en CO2, conciliant préservation de la planète, bien-être et développement, grâce à l'électricité et à des solutions et services innovants ? Rejoignez la Direction Ingénierie Nucléaire (DirIN).Vous avez envie de donner du sens à votre travail et contribuer à nos enjeux, alors voici ce qu'EDF vous propose :- Une rémunération complète: primes de performances individuelles et collectives, dispositifs d'épargne salariale.- Une rémunération brute annuelle de base hors primes : de 29K€ à 40K€, selon diplôme et expérience professionnelle.- un environnement de travail convivial.- une mutuelle familiale et une prévoyance avantageuse.- un programme de formation adapté à vos aspirations d'évolution.Vous souhaitez devenir bâtisseur d'un avenir énergétique neutre en CO2, conciliant préservation de la planète, bien-être et développement, grâce à l'électricité et à des solutions et services innovants ? Rejoignez EDF et la Direction Technique !Dans le groupe EDF, accueillir des personnes en situation de handicap fait partie de notre ADN. Notre objectif est d'ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et à tous.\n            ",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7093090",
+      "created": "22/09/2026"
+    },
+    {
+      "externalId": "214FBQN",
+      "title": "Secrétaire-Assistant(e) (H/F)",
+      "company": "OFFICE PUBLIC DE L HABITAT DE L AUDE",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "11 - Narbonne",
+      "minutes": 115,
+      "distanceKm": 73,
+      "contract": "CDI",
+      "salaryNet": 25000,
+      "hours": "38H20/semaine\nTravail en journée",
+      "description": "Avec 7 000 logements et 175 collaborateurs, Habitat Audois, Office Public de l'Habitat, est le premier bailleur social du Département de l'Aude, fort de ses valeurs de solidarité, de proximité, d'efficacité, d'innovation et de responsabilité.\nHabitat audois est certifié Qualibail et est également membre de la Société de coordination « HASSO », regroupant 6 OPH, faisant de ce groupe un acteur majeur du logement abordable en Occitanie.\n\nHabitat Audois œuvre sur un territoire « terre et mer » aux enjeux multiples de développement local et est engagé dans une démarche qualité et satisfaction clients qu'il souhaite résolument ancrer au plus près de ses habitants avec ses deux agences décentralisées.\n\nnous recherchons :\n\nUn/une SECRETAIRE-ASSISTANT(e)\n\nAu sein de notre Direction Territoriale Est (Agence à Narbonne), vous exercez vos missions sous l'autorité du Directeur. Vous assurez l'accueil physique et téléphonique de l'agence et apportez un appui administratif et logistique essentiel aux Responsables de service et à l'Assistante de Direction.\n\nVous assurez les missions principales suivantes :\n\n- Assurer partiellement l'accueil physique et téléphonique de l'agence en binôme avec la Chargée d'accueil: réceptionner les appels et accueillir les différents publics (demandeurs(ses), locataires, prestataires, partenaires, élus).\n- Gérer administrativement les courriers entrants et sortants.\n- Enregistrer les réclamations entrantes dans le respect des délais et procédures. Fournir une réponse aux réclamants et transmettre les dossiers aux services compétents pour un traitement approfondi.\n- Assurer un soutien administratif aux services Proximité et Gestion Locative et Sociale.\n- Gérer les agendas électroniques pour planifier et coordonner les rendez-vous en veillant à une optimisation des plannings et à une communication claire.\n- Apporter un appui aux tâches administratives en collaboration avec l'Assistante de Direction, y compris la préparation de documents, la gestion de correspondances et le suivi de dossiers.\n- Assurer la continuité des opérations administratives en remplaçant l'Assistante de Direction lors de ses absences, dans le respect des procédures et modes opératoires.\n- Prendre en charge la logistique quotidienne de l'agence, incluant la gestion des fournitures, l'organisation des espaces de travail et le soutien aux événements internes, pour garantir un environnement opérationnel optimal.\n\nHabitat Audois recherche un profil avec :\n\n       - BAC PRO Secrétariat ou équivalent souhaité ou expérience équivalente\n       - Expérience exigée de 2 ans \n\nCe poste exige principalement :\n\n- Connaissances sur les fondamentaux de la relation client, l'Ecosystème du logement social,\n- Connaissance des acteurs, actrices et dispositifs d'action sociale,\n- Connaissance des techniques de prévention et résolution des conflits,\n- Maîtrise des outils bureautiques, logiciels, téléphoniques.\n\n- Qualités rédactionnelles et relationnelles\n- Savoir appliquer les règles, les procédures et contrôler\n- Capacité à gérer de multiples tâches\n- Discrétion et confidentialité\n- Capacité à alerter,\n- Ecoute et diplomatie,\n- Dynamisme,\n- Autonomie,\n- Sens de l'initiative,\n- Capacité à travailler en équipe\n\nAvantages:\n\n13ème mois + prime sur objectifs individuels + intéressement + prévoyance/santé avec participation employeur + titres restaurant + 25jrs de congés payés + 17 jrs RTT + Compte Epargne Temps + prestations CSE + Possibilité de télétravail 1 jour fixe  la semaine",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214FBQN",
+      "created": "21/09/2026"
+    },
+    {
       "externalId": "7034993",
       "title": "Assistant(e) administrative et commerciale (H/F)",
       "company": "Entreprise non précisée",
@@ -155,20 +187,6 @@
       "hours": "",
       "description": "OPT'IN recrute pour son client \nAssistant Comptable & Administration Travaux H/F - CDI - Perpignan\nVous souhaitez rejoindre une entreprise à taille humaine où la polyvalence, l'autonomie et l'esprit d'équipe sont au coeur du quotidien - Cette opportunité est faite pour vous ! \n\n\nLe poste : \n\nCôté comptabilité :\nSaisie de la comptabilité courante.\nSuivi des comptes clients et fournisseurs.\nGestion des encaissements et de la facturation.\nDéclarations de TVA et fiscales.\nAnalyse des coûts par chantier.\nÉlaboration des reportings, situations comptables et participation aux bilans.\nCôté administratif travaux & RH :\nPréparation des devis et dossiers d'appels d'offres.\nGestion administrative des chantiers (contrats, DOE, DICT, etc.).\nSuivi administratif des dossiers travaux.\nPréparation des éléments de paie.\nGestion administrative du personnel (DUE, arrêts, congés, heures, RTT...).\n\n\nProfil recherché : \n\nFormation en comptabilité (BTS Comptabilité, DCG, DSCG ou équivalent).\nPremière expérience réussie sur un poste similaire.\nVous maîtrisez la comptabilité générale jusqu'à la préparation du bilan.\nVous êtes à l'aise avec Excel et les logiciels comptables.\nUne connaissance des marchés publics ou du secteur des espaces verts est un plus.\nVous êtes reconnu(e) pour votre rigueur, votre organisation, votre autonomie et votre excellent relationnel. Curieux(se) et impliqué(e), vous appréciez les missions variées et souhaitez évoluer dans un environnement dynamique.\nINDSPO\n",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6986483",
-      "created": "18/09/2026"
-    },
-    {
-      "externalId": "7010054",
-      "title": "secrétaire H/F",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "11 - Corbières",
-      "contract": "CDI",
-      "salaryNet": 0,
-      "hours": "",
-      "description": "NARBONNE CAMPING CARS (6rue Demoge) recrute un/une secrétaire commerciale en CDI 35 heures.\n\nCette offre d emploi est un mix entre le secrétariat pur et magasinier.\n\nVous êtes dynamique, autonome, souriant(e), et votre orthographe est correcte.\n\nUne expérience dans le domaine moto ou auto est un plus.\n\nVos missions seront (liste non exhaustive) :\n\nGérer l'accueil physique et téléphonique Gérer le SAV et commande pièces en garantie\n\nCréer et suivre les dossiers administratifs\n\nEtablir la facturation des véhicules.\n\nAcceuillir et servir le client au magasin pièces détachées, recevoir et vérifier les colis et pièces reçues (SAV ou commandes)\n\nRanger et organiser le magasin\n\nAssurer le lien entre les clients, les vendeurs, les autres services de la concession et les organismes externes.\n\nHoraires : du mardi au vendredi de 9h00 à 12h00 et de 14h00 à 19h00 Samedi de 9 h00 à 12 h00 .\n\nSi vous vous retrouvez dans cette description, nous nous ferons un plaisir d'étudier votre CV.\n\nType d'emploi : CDI\n\nCandidature uniquement par mail dans un premier temps\n\nCV et lettre de motivation indispensables\n\nMerci\n\nType d'emploi : Temps plein, CDI\n\nRémunération : 1 400,00€ à 1 700,00€ par mois\n\nLieu du poste : En présentiel",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7010054",
       "created": "18/09/2026"
     },
     {
@@ -372,22 +390,6 @@
       "created": "09/09/2026"
     },
     {
-      "externalId": "213QFJY",
-      "title": "Assistant administratif / Assistante administrative",
-      "company": "SOLAGEST",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "09 - Verniolle",
-      "minutes": 137,
-      "distanceKm": 87,
-      "contract": "CDD - 6 Mois",
-      "salaryNet": 12,
-      "hours": "Temps partiel - 17H30/semaine\nTravail en journée",
-      "description": "Nous recherchons pour notre entreprise spécialisée dans les solutions conseils commerciales et admnistratives externalisées un/une Assistant(e) administrative :\n\nPoste à pourvoir à mi-temps dans un premier temps avec des missions à la fois sur Verniolle et sur Lavelanet, ce poste peut évoluer vers un temps plein \n\nMissions principales :\nSous la responsabilité de la directrice de SOLAGEST, vous serez en charge de l'ensemble des missions administratives et/ou commercial \n\nVos missions seront les suivantes :\n1. Gestion administrative courante\n- Gestion du courrier (postal et électronique)\n- Classement, archivage, numérisation des documents\n- Suivi des commandes et des livraisons - Relance client \n\n2. Gestion au quotidien\n- Préparation des pièces comptables à transmettre au cabinet\n- Suivi des paiements, des dépenses et de la trésorerie\n- Aide à l'élaboration de tableaux de bord simples\n\nCompétences requises :\n- Excellente maîtrise des outils bureautiques (Word, Excel, mails)\n- Rigueur, sens de l'organisation, autonomie\n- Qualités relationnelles et discrétion professionnelle\n\nProfil recherché :\n- Formation de type BAC +2 (assistant-e de gestion, secrétariat, etc.)\n- Une première expérience similaire \n- Permis B indispensable (déplacements possibles sur site)\n\nLieu de travail : Verniolle avec missions possible sur Lavelanet\nCDD de 3 à 8 mois (évolutif vers un CDI)\n\nN'hésitez pas à nous transmettre votre candidature complète (CV +LETTRE DE MOTIVATION)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213QFJY",
-      "created": "09/09/2026"
-    },
-    {
       "externalId": "213NKGV",
       "title": "Adjoint administratif au tribunal judiciaire de Foix  (H/F)",
       "company": "MINISTERE DE LA JUSTICE",
@@ -511,12 +513,12 @@
     },
     {
       "externalId": "211PRQQ",
-      "title": " Assistant commercial et administratif polyvalent ((H/F)",
+      "title": "Assistant administratif et commercial / Assistante administrative (H/F)",
       "company": "Entreprise non précisée",
       "source": "France Travail",
       "profil": "Assistanat administratif",
       "location": "66 - PERPIGNAN",
-      "minutes": 48,
+      "minutes": 47,
       "distanceKm": 30,
       "contract": "CDI",
       "salaryNet": 1867,
@@ -602,6 +604,22 @@
       "description": "Offre collectée par La bonne alternance : Dynamique et organisé(e), assure l'accueil des patients et le soutien administratif aux professionnels médicaux. Accueille les patients et organise les rendez-vous médicaux Gère les dossiers médicaux et assure la confidentialité des informations Assiste les professionnels de santé dans la gestion administrative quotidienne Réalise des tâches de secrétariat classique comme la rédaction de courriers et la gestion des appels téléphoniques Coordonne avec les assurances et gère les facturations des actes médicaux Contribue à l'amélioration des procédures administratives au sein de l'établissement Le salaire d'un apprenti est fixé par la réglementation en vigueur. Il dépend de plusieurs facteurs. Un simulateur à jour est disponible à l'adresse https://labonnealternance.apprentissage.beta.gouv.fr/salaire-alternant",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/4298914",
       "created": "27/06/2026"
+    },
+    {
+      "externalId": "214GCXP",
+      "title": "Chargé de communication & administrative (H/F)",
+      "company": "ENERGIE MAINTENANCE",
+      "source": "France Travail",
+      "profil": "Agent administratif",
+      "location": "11 - CUXAC D AUDE",
+      "minutes": 121,
+      "distanceKm": 77,
+      "contract": "CDI",
+      "salaryNet": 2000,
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Entreprise dans le secteur de l'éolien, nous recherchons dans le cadre de notre développement : \n                          un(e) Chargé de communication & Administrative\nA ce titre, vous accompagnez les équipes afin de :\n- Collecter et consolider les documents nécessaires au classeur des chantiers\n- Participer à la mise en place du plan de communication interne de l'entreprise (intranet, newsletters, affichage.)\n- Supporter la communication externe de l'entreprise (site internet, plaquettes.)\n- Gérer les événements internes et externes et les relations partenariales\nDe formation bac+2/3 en communication ou en gestion, vous maitrisez les outils de communication et êtes dotés d'organisation et de rigueur. Votre capacité à être force de proposition sera valorisée.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214GCXP",
+      "created": "22/09/2026"
     }
   ]
 }
