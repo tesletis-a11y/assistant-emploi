@@ -1,10 +1,26 @@
 {
-  "generatedAt": "2026-09-25T06:18:55.527Z",
+  "generatedAt": "2026-09-26T06:17:58.623Z",
   "source": "France Travail (API officielle)",
   "communeInsee": "66230",
   "distanceKm": 70,
-  "count": 43,
+  "count": 40,
   "offres": [
+    {
+      "externalId": "214JLDK",
+      "title": "Assistant de Gestion locative (H/F)",
+      "company": "AGENCE PYRENEES IMMOBILIER",
+      "source": "France Travail",
+      "profil": "Recouvrement / contentieux",
+      "location": "09 - FOIX",
+      "minutes": 131,
+      "distanceKm": 83,
+      "contract": "CDD - 6 Mois",
+      "salaryNet": 0,
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Dans le cadre du développement de notre activité, Agence Pyrénées Immobilier recherche un(e) Assistant(e) Gestion Locative H/F pour rejoindre notre équipe.\n\nVOS MISSIONS :\nRattaché(e) au service Gestion Locative, vous participez au suivi administratif et commercial des biens et des propriétaires.\n\nAccueil physique et téléphonique des propriétaires, locataires et prospects ;\nGestion des appels, mails et demandes courantes ;\nSuivi administratif des dossiers de location et de gestion ;\nPréparation et suivi des dossiers locataires ;\nOrganisation et suivi des rendez-vous ;\nSuivi des entrées et sorties des locataires ;\nPréparation et transmission des documents administratifs ;\nMise à jour des dossiers et des informations dans les logiciels professionnels ;\nSuivi des interventions et échanges avec les propriétaires, locataires et prestataires ;\nParticipation au suivi des travaux et des demandes techniques ;\nClassement et archivage des documents ;\nAppui quotidien au gestionnaire locatif dans le suivi de son portefeuille.\n\nLE PROFIL RECHERCHÉ :\n\nOrganisée, rigoureuse et méthodique ;\nÀ l'aise dans les échanges téléphoniques et relationnels ;\nDotée d'un bon sens du service et de la satisfaction client ;\nRéactive et capable de gérer plusieurs demandes en parallèle ;\nÀ l'aise avec les outils informatiques et bureautiques ;\nCapable de travailler en équipe tout en faisant preuve d'autonomie ;\nDiscrète et respectueuse de la confidentialité des informations traitées.\n\nUne première expérience dans l'immobilier, la gestion locative, l'administration ou l'assistanat est appréciée.\nUne connaissance du secteur immobilier et/ou des logiciels de gestion immobilière serait un plus.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JLDK",
+      "created": "24/09/2026"
+    },
     {
       "externalId": "213QVQB",
       "title": "COMPTABLE CONFIRMÉ D'ENTREPRISE (H/F)",
@@ -20,6 +36,20 @@
       "description": "Nous vous proposons un CDI en tant que Comptable confirmé d'entreprise H/F au sein d'une entreprise audoise spécialisée dans l'exploitation carrières /sablières, négoce granulats, le recyclage déchets du BTP et la production préfabriqués en béton.\n\nEn lien avec le responsable hiérarchique et les collaborateurs du service, vous assurerez les travaux comptables et viendrez en assistance à la Direction Administrative et Financière.\n\nVos missions seront les suivantes :\n- Réalisation des opérations comptables courantes, analytiques et des travaux de clôture (situations intermédiaires, bilans).\n- Gestion complète de la facturation pour une entité juridique du groupe.\n- Collecte, analyse et synthèse des informations financières nécessaires au bon fonctionnement du service.\n- Organisation et traitement des données conformément aux procédures administratives et comptables établies.\n- Communication avec les différents interlocuteurs internes (services) et externes (partenaires, clients, fournisseurs).\n- Élaboration de reportings réguliers à destination de la Direction Administrative et Financière.\n\n\nProfil :\n- BAC+2/3 dans le domaine de la comptabilité ou finance\n- Expérience professionnelle souhaitée de 2 ans sur un poste similaire \n\nSavoir-faire : \n- Connaissance approfondie des normes comptables, fiscales et financières\n- Capacité à analyser les états financiers et à optimiser la gestion des flux\n- Maîtrise des outils bureautiques (Pack Office, Sage si possible) \n\nSavoir-être : \n- Organisation\n- Rigueur\n- Gestion des délais\n- Anticipation et adaptation\n- Écoute\n- Travail en équipe\n- Discrétion\n- Éthique professionnelle dans la gestion des informations financières",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213QVQB",
       "created": "09/09/2026"
+    },
+    {
+      "externalId": "7398740",
+      "title": "SECRÉTAIRE DU GROUPEMENT GESTION DES RISQUES - H/F",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Gestion administrative",
+      "location": "11 - Carcassonne",
+      "contract": "CDI",
+      "salaryNet": 0,
+      "hours": "\nTravail en journée",
+      "description": "Description :\n\n\nAssure le soutien administratif et organisationnel du groupement gestion des risques, préparer et générer les dossiers réglementaires.\n\nCONDITIONS D'EXERCICE :\n\n -        Travail en bureau ;\n\n-        Déplacement de façon exceptionnelle pour des visites et commissions ;\n\n-        Travail sur des dossiers réglementaires avec respect des délais ;\n\n-        Participation à la préparation et au suivi des activités du groupement.\n\n  \n  \nProfil recherché :\n  \n  \n-        Maitrise des outils bureautiques et logiciels du SDIS ;\n\n-        Sens de l'organisation, rigueur et discrétion ;\n\n-        Capacité à gérer plusieurs priorités et interlocuteurs ;\n\n-        Qualités rédactionnelles et relationnelles.\n",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7398740",
+      "created": "25/09/2026"
     },
     {
       "externalId": "213WDYX",
@@ -100,6 +130,22 @@
       "created": "25/09/2026"
     },
     {
+      "externalId": "214KPKC",
+      "title": "OFFRE D'EMPLOI SECRETAIRE MI-TEMPS (H/F)",
+      "company": "GT ONE",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - BOURG MADAME",
+      "minutes": 84,
+      "distanceKm": 53,
+      "contract": "CDI",
+      "salaryNet": 0,
+      "hours": "Temps partiel - 20H/semaine\nTravail en journée",
+      "description": "- Accueil client (physique & téléphonique) avec professionnalisme.\n - Création et suivi des fiches de travail, numéros de clés, OR et devis.\n - Prise de rendez-vous, organisation de l'agenda atelier.\n - Encaissements clients et édition des factures.\n - Suivi des commandes fournisseurs, réception de pièces.\n - Préparation des dossiers de carte grise, déclarations d'achat\n - Communication simple : mails, petits textes, envoi de documents clients.\n - Support aux mécaniciens et à la direction dans les tâches administratives quotidiennes.\n\n\n\n Profil recherché\n - Organisé(e), sérieux(se), ponctuel(le).\n - À l'aise au téléphone et avec les clients.\n - Capacité à gérer plusieurs tâches en même temps.\n - Maîtrise basique de l'informatique (Word, Excel, Google, navigation web).\n - Une expérience dans un garage ou un métier administratif est un plus mais pas obligatoire - formation interne possible.\n\n\n\nHoraires & conditions\n - Mi-temps : environ 20 h / semaine\n - Evolution possible selon motivation.\n\nRémunération\n - Selon expérience et compétences.\n - Avantages internes possibles",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214KPKC",
+      "created": "25/09/2026"
+    },
+    {
       "externalId": "214JZPD",
       "title": "Assistant administratif (H/F)",
       "company": "SARL J.H. TRANSPORT",
@@ -139,7 +185,7 @@
       "contract": "CDI",
       "salaryNet": 0,
       "hours": "",
-      "description": "Cabinet d'avocat en droit des affaires recherche un(e) Standardiste - Secrétaire juridique (H/F) à temps partiel (20-25 h) dans le cadre d'un CDI à pourvoir dès que possible.\n\nVos missions seront notamment les suivantes :\n\n* Accueil physique des visiteurs extérieurs ;\n* Accueil téléphonique, identification de la demande et transmission au collaborateur concerné ;\n* Gestion administrative et suivi des dossiers ;\n* Transmission des informations et gestion des messages reçus par Email ;\n* Rédaction, mise en forme et classement de documents ;\n* Et plus généralement toutes tâches de secrétariat classique (gestion des réunions, ouverture des dossiers informatiques et papiers, suivi et mise à jour des bases de données clients, reprographie, facturation, commande fournitures, organisation et archivages des dossiers...).\n* Suivi des formalités administratives et juridiques ;\n* Réalisation des formalités sur le portail INPI appréciée.\n\nPoste polyvalent, tâches diversifiées.\n\nVous êtes en contact permanent avec les différents interlocuteurs internes et externes de l'équipe et avez donc un bon sens relationnel.\n\nVous avez également le sens de la discrétion. Votre rigueur, votre dynamisme, votre polyvalence, vos compétences organisationnelles, votre sens du service et votre excellent relationnel sont vos meilleurs atouts pour réussir à ce poste.\n\nVous êtes à l'écoute des besoins du client et avez un état d'esprit positif.\n\nVous devrez également être doté(e) d'une excellente orthographe, Vous devez maîtriser l'outil informatique.\n\nHoraires de travail :\n\n* Lundi, mardi, jeudi, vendredi : de 09h00 à 12h00 et de 14h00 à 17h00.\n* Le mercredi : de 09h00 à 12h00.\n\nType d'emploi : Temps partiel, CDI\n\nRémunération : 22 500,00€ à 24 000,00€ par an\n\nLieu du poste : En présentiel",
+      "description": "Cabinet d'avocat en droit des affaires recherche un(e) Standardiste - Secrétaire juridique (H/F) à temps partiel (20-25 h) dans le cadre d'un CDI à pourvoir dès que possible.\n\nVos missions seront notamment les suivantes :\n\n* Accueil physique des visiteurs extérieurs ;\n* Accueil téléphonique, identification de la demande et transmission au collaborateur concerné ;\n* Gestion administrative et suivi des dossiers ;\n* Transmission des informations et gestion des messages reçus par Email ;\n* Rédaction, mise en forme et classement de documents ;\n* Et plus généralement toutes tâches de secrétariat classique (gestion des réunions, ouverture des dossiers informatiques et papiers, suivi et mise à jour des bases de données clients, reprographie, facturation, commande fournitures, organisation et archivages des dossiers...).\n* Suivi des formalités administratives et juridiques ;\n* Réalisation des formalités sur le portail INPI appréciée.\n\nPoste polyvalent, tâches diversifiées.\n\nVous êtes en contact permanent avec les différents interlocuteurs internes et externes de l'équipe et avez donc un bon sens relationnel.\n\nVous avez également le sens de la discrétion. Votre rigueur, votre dynamisme, votre polyvalence, vos compétences organisationnelles, votre sens du service et votre excellent relationnel sont vos meilleurs atouts pour réussir à ce poste.\n\nVous êtes à l'écoute des besoins du client et avez un état d'esprit positif.\n\nVous devrez également être doté(e) d'une excellente orthographe, Vous devez maîtriser l'outil informatique. Expérience ne cabinet d'avocat, expert-comptable, Notaire exigée\n\nHoraires de travail :\n\n* Lundi, mardi, jeudi, vendredi : de 09h00 à 12h00 et de 14h00 à 17h00.\n* Le mercredi : de 09h00 à 12h00.\n\nType d'emploi : Temps partiel, CDI\n\nRémunération : 22 500,00€ à 24 000,00€ par an\n\nLieu du poste : En présentiel",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7346253",
       "created": "24/09/2026"
     },
@@ -158,36 +204,6 @@
       "description": "Au sein de la Préfecture de l'Ariège, vos activités principales seront :\n- - Gestion des parapheurs transmis par les DDI : suivi, contrôle du formalisme, enregistrement, archivage des courriers signés ;\n- Gestion du courrier réservé : enregistrement du courrier sur l'instance Maarch, préparation du classeur réservé pour le préfet et communication aux services ; - Gestion de la boîte générique de la préfecture : redirection des demandes vers les services compétents (en respectant les normes QUALI-ATE) et vers le courrier réservé ;\n- Aide à la constitution des dossiers du préfet et du secrétaire général ;\n- Classement et archivage des dossiers papiers, tenue du tableau de classement ;\n- Suivi des comités : préparation des invitations et des dossiers pour les comités de direction (CODIR, Collège des chefs de service)\n- Gestion des recueils des actes administratifs : création et publication des recueils sur le site internet de la préfecture - - Rédaction/mise à jour des fiches de procédure - Appui à la formation des nouveaux arrivants à l'utilisation de Maarch\n*Spécificités du poste / Contraintes / Sujétions :\nBonne organisation dans le travail quotidien pour gérer à la fois le courrier réservé et le volet administration générale\nUne relative souplesse au niveau des horaires est demandée\n* Candidatures : CV+LETTRE DE MOTIVATION DETAILLEE (OBLIGATOIRE) : ape.09115@francetravail.fr",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214HMZV",
       "created": "23/09/2026"
-    },
-    {
-      "externalId": "214GGVH",
-      "title": "Secretaire medicale(H/F) Assistant(e) dentaire administratif(ve)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - AMELIE LES BAINS PALALDA",
-      "minutes": 35,
-      "distanceKm": 22,
-      "contract": "CDD - 1 Mois",
-      "salaryNet": 0,
-      "hours": "Temps partiel - 32H/semaine\nTravail en journée",
-      "description": "Cabinet dentaire recherche un(e) secrétaire médicale pour un CDD de remplacement .\nMissions principales :\n- Accueil des patients et gestion des RDV ( agenda, confirmations, relances)\n- Suivi administratif des dossiers patients et des engagements\n- Gestion du courrier, des documents et de l'administratif quotidien\n- Participation à la comptabilité du cabinet ( facturation, encaissements, suivi des règlements, liaison avec le logiciel métier)\n- Coordination avec le praticien et le cas échéant, l'équipe\n\nProfil :\n- Expérience en secrétariat médical ou en cabinet dentaire indispensable\n- Maitrise des outils bureautiques et d'un logiciel de gestion de cabinet\n- Rigueur , discrétion, sens de l'organisation et bon relationnel",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214GGVH",
-      "created": "22/09/2026"
-    },
-    {
-      "externalId": "7093090",
-      "title": "Appui Ingénieure/Ingénieur F/H",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "11 - Carcassonne",
-      "contract": "CDI",
-      "salaryNet": 0,
-      "hours": "",
-      "description": "\n            Qui sommes-nous ?La DirIN est l'entité du Groupe EDF qui porte l'ensemble des activités d'ingénierie et de conception pour le parc en exploitation ainsi que les futurs réacteurs nucléaires. Elle intègre également la relation fournisseurs, de l'élaboration de la stratégie industrielle jusqu'à la mise en œuvre des contrats et au contrôle de la réalisation des fabrications.Nous sommes 1350 salariés, répartis sur 4 sites, qui composons la Direction Technique (DT), l'une des directions de la DirIN. Actrice incontournable au sein de la filière nucléaire française, la DT a un positionnement transverse au service de la Sûreté en s'appuyant sur une complémentarité des compétences techniques, d'expertises et de projets.Plus spécifiquement, nous intervenons en amont des projets de conception et sommes garants du respect des règles de sûreté tout au long du cycle de vie des installations nucléaires. Ce que nous pouvons accomplir ensemble :Vous rejoignez le département Matériaux et Chimie, dans le groupe Matériaux & Endommagements des circuits Primaires et Auxiliaires.Ce groupe est en charge du diagnostic et de l'étude de modes d'endommagements des matériaux, du choix des matériaux et de l'intégration technique de contributions multi-métiers (fabrication, END, corrosion, etc.) pour des matériels du circuit primaire et des auxiliaires.Vos missionsEn tant qu'Appui aux ingénieurs du groupe, vous aurez pour mission de :Rechercher, rassembler et capitaliser le Retour d'expérience des endommagements matérielsCréer et gérer un ensemble de Bases De Données relatives aux endommagementsRédiger et tenir à jour des notes de synthèse règlementairesContribuer aux études sur les endommagementsEn parallèle, des fonctions d'appuis transverses pourront vous être attribuées (achats, .). Votre profilVous êtes diplômé(e) d'un bac +2/+3 dans le domaine des matériaux. Une première expérience dans l'industrie nucléaire serait un plus.Vous avez le goût de la technique, faites preuve d'autonomie et de rigueur et disposez de capacités rédactionnelles et de synthèse.Vous souhaitez devenir bâtisseur d'un avenir énergétique neutre en CO2, conciliant préservation de la planète, bien-être et développement, grâce à l'électricité et à des solutions et services innovants ? Rejoignez la Direction Ingénierie Nucléaire (DirIN).Vous avez envie de donner du sens à votre travail et contribuer à nos enjeux, alors voici ce qu'EDF vous propose :- Une rémunération complète: primes de performances individuelles et collectives, dispositifs d'épargne salariale.- Une rémunération brute annuelle de base hors primes : de 29K€ à 40K€, selon diplôme et expérience professionnelle.- un environnement de travail convivial.- une mutuelle familiale et une prévoyance avantageuse.- un programme de formation adapté à vos aspirations d'évolution.Vous souhaitez devenir bâtisseur d'un avenir énergétique neutre en CO2, conciliant préservation de la planète, bien-être et développement, grâce à l'électricité et à des solutions et services innovants ? Rejoignez EDF et la Direction Technique !Dans le groupe EDF, accueillir des personnes en situation de handicap fait partie de notre ADN. Notre objectif est d'ouvrir nos portes à toutes les compétences, toutes les énergies et toutes les personnalités sans exclusion. Le poste proposé est donc ouvert à toutes et à tous.\n            ",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7093090",
-      "created": "22/09/2026"
     },
     {
       "externalId": "7034993",
@@ -280,22 +296,6 @@
       "created": "14/09/2026"
     },
     {
-      "externalId": "213TYPV",
-      "title": "EMPLOYE DE BUREAU (H/F)",
-      "company": "TRANSPORT SALVA",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - SALSES LE CHATEAU",
-      "minutes": 60,
-      "distanceKm": 38,
-      "contract": "CDI",
-      "salaryNet": 0,
-      "hours": "Temps partiel - 20H/semaine\nTravail en journée",
-      "description": "ASSISTANTS DU SERVICE ADMINISTRATIF  EN CHARGE DE LA FACTURATION  PREFACTURATION - ET AUTRES TACHES ADMINISTRATIVES . DES NOTIONS DE COMPTABILITE GENERALE SERAIENT UN PLUS",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213TYPV",
-      "created": "14/09/2026"
-    },
-    {
       "externalId": "213VPZM",
       "title": "Secrétaire (H/F)",
       "company": "AGERIN",
@@ -358,22 +358,6 @@
       "created": "11/09/2026"
     },
     {
-      "externalId": "213SFRS",
-      "title": "ASSISTANT TRANSACTION ET ADMINISTRATIVE EN IMMOBILIER (H/F)",
-      "company": "R.CHAYLA IMMOBILIER-NESTENN CARCASSONNE",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "11 - CARCASSONNE",
-      "minutes": 102,
-      "distanceKm": 65,
-      "contract": "CDI",
-      "salaryNet": 2300,
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "FICHE DE POSTE\nAssistante de transaction en agence immobilière\n1. Gestion administrative des dossiers de vente\n- Création et constitution des dossiers de vente.\n- Collecte, vérification et classement des pièces administratives nécessaires aux dossiers.\n- Mise à jour et suivi des dossiers vendeurs et acquéreurs.\n- Préparation et suivi des documents liés aux mandats, avenants et dossiers de vente.\n- Vérification de la complétude des dossiers et relance des clients lorsque nécessaire.\n- Classement et archivage des documents physiques et numériques.\n- Mise à jour des différents tableaux et outils de suivi de l'activité.\n2. Suivi des dossiers de vente\n- Suivi administratif des ventes de la prise de mandat jusqu'à la signature définitive.\n- Coordination des différentes étapes du dossier avec les conseillers immobiliers, clients, notaires, diagnostiqueurs et différents intervenants.\n- Suivi des signatures et des échéances.\n- Relance des différents interlocuteurs afin de garantir le bon avancement des dossiers.\n- Préparation et transmission des documents nécessaires aux notaires.\n- Suivi des compromis, actes authentiques et éléments nécessaires à la finalisation des ventes.\n- Gestion et suivi des clés des biens.\n- Mise à jour régulière des dossiers et des outils de suivi.\n3. Accueil et relation clientèle\n- Accueil physique de la clientèle au sein de l'agence.\n- Accueil et gestion des appels téléphoniques.\n- Identification des demandes et orientation vers le conseiller ou le service concerné.\n- Prise et transmission des messages.\n- Réponse aux demandes administratives courantes des clients.\n\n4. Missions comptables\nSaisie et suivi de la comptabilité de l'agence\n- Saisie des écritures comptables de l'agence dans le logiciel EBP.\n- Enregistrement et classement des factures fournisseurs.\n- Saisie et suivi des opérations bancaires.\n- Enregistrement des différentes opérations comptables courantes.\n- Contrôle et rapprochement des éléments comptables.\n- Préparation des éléments comptables destinés au cabinet comptable.\n- Suivi administratif des factures et des règlements.\nFacturation\n- Création des factures de vente dans EBP.\n- Émission et transmission des factures aux clients ou organismes concernés.\n- Suivi des factures émises et des règlements.\n- Classement et archivage des pièces comptables.\n6. Missions Ressources Humaines\n- Collecte mensuelle des variables de paie auprès des salariés.\n- Vérification des éléments transmis.\n- Saisie et transmission des variables de paie à la comptabilité via le logiciel MySilae.\n- Suivi administratif des absences, congés et autres éléments nécessaires à l'établissement de la paie.\n- Transmission des informations nécessaires au cabinet comptable \n- Suivi administratif des dossiers du personnel.\n- Classement et archivage des documents relatifs aux salariés.\n- Participation au suivi des formations et obligations administratives du personnel.\n7. Outils utilisés\n- EBP : comptabilité, saisie des écritures et facturation.\n- MySilae : transmission et gestion des éléments variables de paie.\n- Logiciels et outils métiers de transaction immobilière.\n- Messagerie électronique et outils bureautiques.\n- Plateformes administratives et professionnelles utilisées dans le cadre de l'activité immobilière.\n\nCompétences et qualités\n- Maîtrise du suivi administratif des dossiers de transaction.\n- Bonne connaissance des procédures immobilières et du suivi des ventes.\n- Maîtrise des outils bureautiques et logiciels professionnels (EBP, MySilae).\n- Compétences en comptabilité, facturation et gestion administrative du personnel.\n- Organisation, rigueur, autonomie et réactivité.\n- Sens du service, aisance relationnelle et discrétion.\n- Capacité à gérer les priorités et plusieurs dossiers simultanément.\n- Polyvalence, adaptabilité et esprit d'équipe.\nRelations professionnelles\nEn interne : direction, conseillers immobiliers et salarié",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SFRS",
-      "created": "10/09/2026"
-    },
-    {
       "externalId": "6777294",
       "title": "Assistant Médico-Administratif (H/F)",
       "company": "YOUSCHOOL",
@@ -385,20 +369,6 @@
       "hours": "",
       "description": "Description du poste :\n\nOffre d'alternance - Secrétaire Médico-Administratif(ve) (Formation à distance avec YouSchool)\n\nLieu : Perpignan (66000)\n\nContrat : Alternance\n\nFormation : Titre Professionnel de Secrétaire Assistant Médico-Administratif (YouSchool - 100% à distance)\n\nDescription du poste\n\nDans le cadre de son développement, notre entreprise partenaire située à Perpignan (66000) recherche un(e) Secrétaire Médico-Administratif(ve) en alternance. Ce poste est à pourvoir immédiatement, en lien avec notre organisme de formation YouSchool, spécialiste de la formation à distance.\n\nVOS MISSIONS\n\nEncadré(e) par une équipe bienveillante et professionnelle, vous interviendrez sur les missions suivantes Accueillir et orienter les patients ou usagers, physiquement et par téléphone\n- Gérer les rendez-vous, les plannings médicaux et les agendas des professionnels\n- Assurer le suivi administratif des dossiers médicaux (création, mise à jour, archivage)\n- Rédiger, mettre en forme et traiter les courriers, comptes rendus et documents médicaux\n- Utiliser les outils bureautiques et logiciels spécialisés pour le traitement des informations\n- Collaborer avec les professionnels de santé et coordonner les échanges avec les services internes et externes\n- Suivre les démarches administratives liées à la prise en charge des patients (droits, mutuelles, hospitalisation)\n\nCE QUE NOUS PROPOSONS***Une alternance enrichissante dans un environnement stimulant***Un accompagnement personnalisé par YouSchool et l'entreprise***Une formation 100% à distance, flexible et professionnalisante***Rythme : 4 jours en entreprise, 1 jour en formation à distance, depuis chez vous. Votre employeur fixera le jour de formation.\n\nComment postuler ?\n\nEnvoyez-nous dès aujourd'hui votre candidature. Après réception, vous serez rapidement contacté(e) pour un premier échange avec nos recruteurs.\n\nLieu du poste :\n\nPerpignan (66000)\n\nDate de début prévue :\n\nDisponible immédiatement\n\nDescription du profil :\n\nVOTRE PROFIL***Vous souhaitez suivre la formation Titre Professionnel de Secrétaire Assistant Médico-Administratif à distance avec YouSchool***Pré-requis : diplôme niveau CAP/BEP minimum***Vous êtes organisé(e) avec un bon niveau de français (écrit + oral)",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/6777294",
-      "created": "10/09/2026"
-    },
-    {
-      "externalId": "6805381",
-      "title": "1 POSTE DE SECRÉTAIRE MÉDICALE  CARDIOLOGIE / NÉPHROLOGIE - H/F",
-      "company": "Centre Hospitalier de Carcassonne",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "11 - Carcassonne",
-      "contract": "CDD - 3 Mois",
-      "salaryNet": 0,
-      "hours": "\nTravail en journée",
-      "description": "Description :\n\n\nConsultations PMC - Hospitalisations 3ème étage\n\nMissions annexes / spécifiques (non exhaustives)\n Accueil des patients des consultations,\n Saisie des consultations et actes externes,\n Prise des rendez-vous pour la Cardiologie - plateau technique, Néphrologie,\n Gestion des messages des patients de Cardiologie et de Néphrologie,\n Gestion des messages médicaux de Cardiologie et de Néphrologie,\n Gestion des Bons de consultations interservices (distribution et saisie).\n\n \n\nDescription des taches de selon les postes (non exhaustives)\nSECRETARIAT :\n Relecture et correction des courriers de consultation et/ou hospitalisation en renfort des services : HDS ; HDJ ; Cardiologie ; USIC ; UHCI ; Néphrologie,\n Gestion des consultations pour les spécialités de Cardiologie et de Néphrologie - Prise des rendez-vous planning des consultations médicales de Cardiologie et de Néphrologie,\n Prise des rendez-vous du plateau technique de Cardiologie (Holter ; épreuve d'effort, écho de stress,.),\n Tableau de bord informatique des médecins avec impression des courriers validés électroniquement et envois aux destinataires concernés,\n Relecture et correction des courriers de sortie des patients des services : HDS ; HDJ ; Cardiologie ; USIC ; UHCI ; Néphrologie,\n Prise des messages pour les médecins (demandes de RDV urgents, ordonnances, communication de résultats),\n Réceptionne et distribue les courriers extérieurs et Bons 2C' (Médecins ; technicienne Holter, ETO, ETT,..).\n Saisie les consultations et actes externes et interservices (Bons 2C'),\n Répond aux demandes des médecins (RDV urgents, documents à renvoyer, services à joindre.),\n Gestion des tableaux des gardes médicales Cardiologie et Néphrologie,\n Gestion des dossiers hospitaliers,\n Lien avec les unités de Cardiologie, Néphrologie pour la sortie des patients,\n Distribution des dossiers médicaux dans les bureaux des médecins lorsque les courriers sont en attente de dictée.\n\nConditions d'exercice\nRythme de travail :\nJOUR  Amplitude : 7 H 40 du lundi au vendredi.\nHoraires consultations : 08h50-16h30 ou 09h00-17h40\nHoraires hospitalisations : 09h00-16h40 ou 09h20-17h00\n Polyvalence sur l'ensemble des postes des services (prise de rdv, accueil, frappe des CR, registres.) ; roulement.\nExigences relationnelles :\n- Discrétion,\n- Ecoute et disponibilité,\n- Réactivité,\n- Travail en équipe,\n- Polyvalence,\n- Adaptabilité,\nLogiciels utilisés :\n- HOPITAL MANAGER,\n- WORD,\n- EXCEL,\n- Outlook,\n- Internet et Intranet.\n\n \n\nLIENS FONCTIONNELS \n\nINTERNES\n- Chef de pôle,\n- Chefs des Unités Médicales d'Activité,\n- Praticiens hospitaliers des Unités Médicales d'Activité,\n- Cadres de santé,\n- Médecins Responsables des UMA,\n- AMA référentes de pôle (coordination),\n- Personnel.\n\nEXTERNES\n- Secrétariats médicaux du Centre Hospitalier,\n- Personnel médical, paramédical et administratif du CH,\n- Médecins et secrétaires extra hospitaliers,\n- Usagers externes.\n\n \n\nLIENS HIERARCHIQUES \n\nHIERARCHIE ADMINISTRATIVE\n- Direction des Ressources Humaines,\n- AAH - Responsable des secrétariats médicaux,\n- AMA référente de pôle (coordination).\n\n HIERARCHIE FONCTIONNELLE\n- Chef de Pôle,\n- Chef d'UMA,\n- Praticiens hospitaliers du service,\n- Cadre supérieur de Santé co-gestionnaire de pôle,\n- Cadre de Santé du service.\n\n  \n  \nProfil recherché :\n  \n  \nProfil\nPré requis obligatoires :\n Aisance à la saisie des comptes rendus,\n Maîtrise de la terminologie médicale,\n Savoir-être.\nPré requis souhaités\n Compétences techniques :\n- Maîtrise des outils informatiques, facilités d'adaptation aux nouvelles techniques,\n- Maîtrise de la fonction d'accueil,\n Connaissances associées : législation et réglementation de l'assurance maladie, droits du patient hospitalisé.\n Compétences sociales :\n- Travail en équipe,\n- Transmission de l'information,\n-Coordination avec les équipes médicales et soignantes pour la prise en charge globale du patient.\n Compétences organisationnelles :\n- Facilités d'adaptation à la polyvalence,\n- Facilités d'adaptation aux nouvelles techniques organisationnelles.\n",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6805381",
       "created": "10/09/2026"
     },
     {
@@ -432,6 +402,22 @@
       "description": "Vous assurez le suivi administratif et technique des dossiers de diagnostics immobiliers, depuis la prise de rendez-vous jusqu'à la transmission des rapports aux clients.\n\nVos principales missions\nRéceptionner les demandes clients et organiser les rendez-vous des diagnostiqueurs\nPlanifier et optimiser les interventions sur le terrain\nPréparer les dossiers de diagnostics et vérifier les informations nécessaires aux interventions\nAssurer le suivi administratif des dossiers clients\nContrôler la bonne réception et la conformité des rapports de diagnostics\nAssurer la transmission des rapports aux clients et la facturation",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/213QTNR",
       "created": "09/09/2026"
+    },
+    {
+      "externalId": "213NRDM",
+      "title": "Secrétaire (H/F)",
+      "company": "CTH MIDI ROUSSILLON",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "11 - CARCASSONNE",
+      "minutes": 102,
+      "distanceKm": 65,
+      "contract": "CDD - 6 Mois",
+      "salaryNet": 0,
+      "hours": "Temps partiel - 24H/semaine\nTravail en journée",
+      "description": "Spécialisé dans la réfection de l'habitat depuis 1992, le Centre Technique de l'Habitat œuvre, grâce à ses 30 collaborateurs (h/f) et son agence à Carcassonne, à satisfaire ses clients. CTH, c'est aujourd'hui plus de 20 000 clients qui nous font confiance.\n\nLe/la secrétaire à temps partiel est en charge de l'accueil physique et téléphonique. Il/elle assume le suivi des ventes et des statistiques commerciales et aura en charge les dossiers de financements clients. Des opérations de facturations peuvent lui être demandées ainsi que des tâches administratives diverses. Il/elle est également un relai d'information entre les différents intervenants internes.\n\nLe/la secrétaire doit avoir une excellente qualité rédactionnelle et une certaine aisance à s'exprimer. Il/elle doit faire preuve de réactivité et de discrétion. Enfin, une capacité d'adaptation et de la rigueur sont indispensables.\n\nLe poste est à pourvoir immédiatement en CDD à temps partiel de 24 heures par semaine.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213NRDM",
+      "created": "08/09/2026"
     },
     {
       "externalId": "213NKGV",
@@ -480,34 +466,36 @@
       "created": "03/09/2026"
     },
     {
-      "externalId": "6532396",
-      "title": "2 POSTES ASSISTANT(E) ADMINISTRATIF(VE) AU SEIN DE LA DIRECTION DES SYSTÈMES DINFORMATION ET DES SERVICES ÉCONOMIQUES / ASSISTANT(E) DE PAYE - H/F",
-      "company": "Centre Hospitalier de Carcassonne",
+      "externalId": "213CSVC",
+      "title": "Agent administratif / Agente administrative (H/F)",
+      "company": "Entreprise non précisée",
       "source": "France Travail",
       "profil": "Assistanat administratif",
-      "location": "11 - Carcassonne",
+      "location": "09 - FOIX",
+      "minutes": 131,
+      "distanceKm": 83,
       "contract": "CDD - 3 Mois",
-      "salaryNet": 0,
-      "hours": "\nTravail en journée",
-      "description": "Description :\n\n\nRecrutement d'un temps plein partagé entre 2 services et d'un mi-temps dédié à un service, répartition en fonction du profil des candidats :\nLe service informatique au sein de la Direction des Systèmes d'information (à 50%).\nAssure le suivi administratif des opérations relevant de la Direction des Systèmes d'Information ;\nAssure des tâches administratives diverses (suivi du temps de travail de l'équipe, gestion des demandes de cartes CPE, pas-à-pas)\nAu sein des services économiques (à 50%) : a pour mission d'assurer la gestion du processus comptable, des liquidations et du mandatement des factures relatives aux comptes budgétaires dont il a la charge.\nAu sein du service de la Direction des Ressources Humaines composé de 20 agents, vous serez adjoint administratif au sein du secteur de la paye (à 50%).\nLe secteur de la paye gère les rémunérations du personnel non médical et médical du Centre Hospitalier de Carcassonne (environ 2000 bulletins par mois).\n\nDescription du poste\nVos missions seront les suivantes :\nSur la partie assistant administratif de la Direction des Systèmes d'information :\nAssure le suivi administratif des opérations :\n- assure le suivi du budget PPI_45 de la DSI\n- référent de l'ensemble des procédures de la DSI concernant les commandes, les contrats et les marchés,\n- participe à l'élaboration des contrats et la rédaction des commandes en lien avec les Ingénieurs et techniciens de la DSI, les fournisseurs et la Direction des Services économiques ;\n- en relation avec la Cellule Marchés, coordonne la mise au point et prend en charge une partie de la rédaction des marchés publics en lien avec Ingénieurs et techniciens de la DSI ;\n- assure le suivi de la passation et de la notification des commandes et des marchés,\n- assure le suivi des bons de livraisons et communique les informations relatives à ces documents aux agents de la DSI concernés,\n- vérifie les services faits en relation avec les agents de la DSI concernés,\n- transmet toutes les pièces nécessaires aux différentes Directions et Services concernés,\n- est en mesure de fournir des informations susceptibles d'être utilisées par le Contrôle de Gestion.\nAssure des tâches administratives :\n- rédige des notes et des courriers divers pour la DSI ;\n- prend en charge la réalisation des documents administratifs,\n- assure le suivi et le renouvellement des contrats de maintenance et d'assistance en relation avec la Direction des Services économiques ;\n- Saisie et suivi de la gestion du temps de travail (congés, RTT, Télétravail) sur le logiciel GTT, relai interne pour les affaires RH (Etat des astreintes et travaux supplémentaires, entretien annuel, frais de déplacement, formation, Accueil stagiaires.)\n- Gestion des demandes de cartes CPE\n- Assistance logistique des projets et du service\nSur la partie assistant administratif de la Direction des Services économiques :\nLiquidation et Mandatement des factures :\n- Réception des factures sur le portail CHORUS\n- Rapprochement des factures et des commandes\n- Contrôle du service fait\n- Contrôle de l'exactitude de la facture au regard du marché et/ou devis et de la réception\n- Scanner les factures réceptionnées au format papier (hors Chorus) pour une liquidation en pré démat\n- Liquidation des factures\n- Mandatement des liquidations\n- Suivi et traitement des litiges et contentieux en lien avec l'encadrement, les fournisseurs et la Trésorerie\nSuivi des engagements et liquidations sur les comptes d'exploitation:\n- Participation à la clôture annuelle conformément aux procédures définies\n- Contrôle régulier de l'état des commandes non réceptionnées et/ou non facturées\no Faire les corrections\no Annulation des reliquats\no Relance des fournisseurs- demander les duplicatas de factures\no Relance des personnes en charge de la validation du service fait\nSur la partie assistant de paye :\n- Traitement des éléments variables de paye du personnel non médical\n- Calcul et saisie des éléments de permanence des soins du personnel médical\n- Participation au tri des bulletins de paye pour envoi aux agents\n- Intégration des recrutements de personnel médical dans le logiciel de gestion RH\n- Appui au suivi budgétaire\n\nConditions de travail : \n\n- Activité partagée 50%/50% sur 2 secteurs pour le 100%\n- Et exclusive sur 1 secteur à 50%\n- Journées de 7h40 du lundi au vendredi sur une amplitude horaire entre 8h et 17h\n\n \n\n  \n  \nProfil recherché :\n  \n  \n- Niveau BAC exigé ;\n- Maîtrise de l'outil informatique : word, excel\n- Connaissances en comptabilité\n",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/6532396",
-      "created": "02/09/2026"
+      "salaryNet": 1918,
+      "hours": "35H33/semaine\nTravail en journée",
+      "description": "Vous avez un diplôme Bac+2 dans le domaine de la gestion, comptabilité, de l'informatique, du secrétariat ou du secteur sanitaire et social ou une expérience significative dans le domaine administratif.\nVous travaillerez au sein du service « Prestations Familiales » à FOIX ou « Alliance Durable » à PAMIERS.\nVous réaliserez de la saisie de dossiers de premier niveau et éventuellement du pré-accueil physique et de l'accompagnement au numérique.\nMéthode, rigueur et polyvalence seront appréciées. Travail en équipe. Bon contact avec le public.\nCandidatures de travailleurs handicapés bienvenues.\nUne formation spécifique de 15 jours sera dispensée lors de la prise de poste.\nLes candidats retenus travailleront soit sur le site de FOIX soit sur celui de PAMIERS à l'issue de la formation.\nAvantages : titres restaurant, prime accueil physique éventuellement, .\n.*  postes à compter du 01/10/2026.* CDD de 3 mois renouvelables\n\nTransmettre cv et lettre de motivation détaillée via votre espace candidat France Travail. L'espace lettre de motivation se trouve en bas de la rubrique candidature. Toute candidature sans lettre de motivation détaillée sera rejetée.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213CSVC",
+      "created": "31/08/2026"
     },
     {
-      "externalId": "212YWTX",
-      "title": "Assistant(e) administratif(ve)/commercial(e)(H/F) (H/F)",
-      "company": "SARL DOMAINE DE CAZABAN",
+      "externalId": "212LJHB",
+      "title": "Secrétaire en laboratoire d'Analyses Médicales (H/F)",
+      "company": "Entreprise non précisée",
       "source": "France Travail",
       "profil": "Assistanat administratif",
-      "location": "11 - CONQUES SUR ORBIEL",
-      "minutes": 111,
-      "distanceKm": 70,
+      "location": "11 - Narbonne",
+      "minutes": 122,
+      "distanceKm": 77,
       "contract": "CDI",
-      "salaryNet": 2000,
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Dans le cadre de l'organisation et du développement de notre activité, nous recherchons un(e) Assistant(e) administratif(ve) et commercial(e) polyvalent(e), organisé(e) et autonome.\n\nVos missions\n\nEn lien direct avec la direction, vous assurez le suivi administratif et commercial quotidien du domaine.\n\nAdministration et gestion\nGestion et suivi des e-mails et documents administratifs\nPréparation, classement et archivage des documents\nÉtablissement et suivi des devis et factures\nSuivi des règlements clients et relances\nTransmission et préparation des documents destinés au cabinet comptable\nSuivi administratif des fournisseurs et prestataires\nMise à jour des tableaux de suivi et outils internes\nAdministration des ventes\nEnregistrement et suivi des commandes clients\nPréparation des documents nécessaires aux expéditions\nCoordination avec les transporteurs\nSuivi des livraisons et gestion des éventuels incidents\nMise à jour des fichiers clients, tarifs et conditions commerciales\nContact quotidien avec les clients professionnels\nExport et formalités\n\nSelon votre expérience et après accompagnement si nécessaire :\n\nSuivi administratif des commandes export\nPréparation des documents commerciaux et d'expédition\nRelations avec les transporteurs et transitaires\nSuivi des formalités douanières\nDAE, documents export et archivage des justificatifs\nUtilisation des plateformes administratives liées à l'activité viticole\nCommercial et vie du domaine\n\nVous pourrez également participer à :\n\nla préparation des salons professionnels et dégustations ;\nl'accueil ponctuel des clients et professionnels au domaine ;\nl'organisation des rendez-vous commerciaux ;\nla préparation des échantillons et supports commerciaux ;\ncertaines actions liées à l'œnotourisme et aux événements du domaine.\n\nProfil recherché\n\nNous recherchons avant tout une personne fiable, organisée et capable de travailler avec autonomie.\n\nVous êtes à l'aise avec les outils informatiques et savez gérer plusieurs dossiers simultanément tout en respectant les priorités et les délais.\n\nFormation souhaitée : Bac+2 en gestion, administration, assistanat commercial ou formation équivalente.\n\nUne expérience professionnelle réussie dans l'administration, l'ADV, un cabinet comptable, le secteur viticole ou l'export constitue un véritable avantage.\n\nLa connaissance du vin est appréciée mais n'est pas indispensable : nous privilégions les compétences administratives, la rigueur et la capacité d'apprentissage.\n\nLes qualités que nous recherchons\nRigueur et sens de l'organisation\nAutonomie\nCapacité à gérer les priorités\nAisance informatique\nBon niveau de français écrit\nSens du contact et du service client\nRéactivité\nDiscrétion concernant les informations de l'entreprise\nEsprit d'équipe\nEnvie d'apprendre et de progresser",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212YWTX",
-      "created": "27/08/2026"
+      "salaryNet": 1901,
+      "hours": "35H/semaine\nTravail en journée...",
+      "description": "Vous êtes Secrétaire Médicale et vous souhaitez rejoindre une structure reconnue pour son expertise, sa proximité avec les patients et la qualité de ses prestations ?\nVous intégrerez une équipe investie, attachée à la qualité de service, à la réactivité et à l'accompagnement des patients comme des professionnels de santé.\nVos missions:\n- Réceptionner et enregistrer les patients\n- Saisir les résultats des analyses\n- Tarifier les prescriptions\n- Encaisser les honoraires\n\nLe laboratoire est ouvert du lundi au samedi.\n\nContrat et organisation\n- Contrat : CDI annualisé\n\nPourquoi rejoindre notre entreprise  ?\n- Pour intégrer une entreprise à taille humaine, reconnue localement pour la qualité de ses prestations ;\n- Pour évoluer dans un environnement technique exigeant et varié ;\n- Pour participer concrètement au parcours de soins des patients ;\n- Pour bénéficier de perspectives d'évolution au sein d'un groupe de biologie médicale d'envergure ;\n- Pour profiter d'avantages sociaux : mutuelle, participation et CSE.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212LJHB",
+      "created": "13/08/2026"
     },
     {
       "externalId": "5727084",
@@ -618,22 +606,6 @@
       "created": "18/07/2026"
     },
     {
-      "externalId": "4298914",
-      "title": "Assistant médico-administratif / Assistante médico-administrative (H/F)",
-      "company": "AUREIS FORMATION",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "minutes": 49,
-      "distanceKm": 31,
-      "contract": "CDD - 12 Mois",
-      "salaryNet": 0,
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Offre collectée par La bonne alternance : Dynamique et organisé(e), assure l'accueil des patients et le soutien administratif aux professionnels médicaux. Accueille les patients et organise les rendez-vous médicaux Gère les dossiers médicaux et assure la confidentialité des informations Assiste les professionnels de santé dans la gestion administrative quotidienne Réalise des tâches de secrétariat classique comme la rédaction de courriers et la gestion des appels téléphoniques Coordonne avec les assurances et gère les facturations des actes médicaux Contribue à l'amélioration des procédures administratives au sein de l'établissement Le salaire d'un apprenti est fixé par la réglementation en vigueur. Il dépend de plusieurs facteurs. Un simulateur à jour est disponible à l'adresse https://labonnealternance.apprentissage.beta.gouv.fr/salaire-alternant",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/4298914",
-      "created": "27/06/2026"
-    },
-    {
       "externalId": "7136667",
       "title": "Technico Administratif Travaux (H/F)",
       "company": "Entreprise non précisée",
@@ -646,22 +618,6 @@
       "description": "La Catalane des Eaux est la filiale de Veolia Eau dédiée à la gestion de l'eau et de l'assainissement sur le territoire de Perpignan Méditerranée Métropole. Sous la supervision du Manager de Service Local Travaux, le technico administratif travaux intervient dans les domaines suivants :Technique MétierContribuer au pilotage des plannings et à l'organisation journalière des activités pour les équipes internes et les prestataires extérieurs, en lien avec les responsables d'équipePiloter la communication en amont des chantiers auprès des usagers et des collectivités territoriales pour les interventions internes et sous-traitéesCollaborer avec les ordonnanceurs pour préparer les dossiers réglementairesen lien avec les communes (DICT, arrêtés de circulation, permissions de voirie, etc.)Participer à la gestion administrative (rédaction des comptes-rendus des visites chantiers, Audits, etc.)Soutenir les responsables d'équipe dans la répartition et la priorisations des interventions  entre les  équipes et les sous-traitantsMaintenir une coordination constante avec les ordonnanceurs, le coordinateur de chantiers, les prestataires et les services communication des collectivitésGérer la préparation des dossiers techniques via le logiciel Trav'O et les bases de données dédiéesClôturer les ordres d'intervention (OI) des sous-traitants dans l'outil NOMAD en veillant à l'intégration des justificatifs photographiquesEffectuer un contrôle administratif régulier pour garantir la fiabilité des données saisies et procéder aux ajustements nécessairesGestion des urgencesLancer les ATU et s'assurer de la réception rapide des documentsParticiper à l'organisation de la gestion des interventions urgentes en lien avec les responsables d'équipe et le coordinateur de chantierReporting Renseigner les supports de suivi d'intervention et transmettre les informations au service concernéRendre compte auprès de sa hiérarchie toutes informations (anomalies et dysfonctionnements) rencontrées au quotidienUtiliser les applications numériques métiersSécurité Vérifier et mettre à jour le suivi administratif des habilitations et formations des équipes.Appliquer les modes opératoires du système de management qualité - sécurité - environnement - sûretéDomaines transversesContribuer à la performance environnementale et énergétique sur l'ensemble des sites exploités par l'entrepriseRespecter les règles éthique et conformité ainsi que les procédures transverses et métiers associées et veiller à leur bonne compréhension, leur application et respect au sein de son équipe et de l'organisationRespecter les exigences de sécurité sanitaire des eaux destinées à la consommation humaine, applique les procédures et consignes en vigueur et contribue à la maîtrise des risques identifiés au travers des bonnes pratiques de sécurité et des points de contrôle critiques relevant de son activitp>",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7136667",
       "created": "23/09/2026"
-    },
-    {
-      "externalId": "214GCXP",
-      "title": "Chargé de communication & administrative (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Agent administratif",
-      "location": "11 - CUXAC D AUDE",
-      "minutes": 121,
-      "distanceKm": 77,
-      "contract": "CDI",
-      "salaryNet": 2000,
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Vous accompagnez les équipes afin de :\n- Collecter et consolider les documents nécessaires au classeur des chantiers\n- Participer à la mise en place du plan de communication interne de l'entreprise (intranet, newsletters, affichage.)\n- Supporter la communication externe de l'entreprise (site internet, plaquettes.)\n- Gérer les événements internes et externes et les relations partenariales\n\nDe formation bac+2/3 en communication ou en gestion, vous maitrisez les outils de communication et êtes dotés d'organisation et de rigueur. Votre capacité à être force de proposition sera valorisée.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214GCXP",
-      "created": "22/09/2026"
     }
   ]
 }
