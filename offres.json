@@ -1,10 +1,24 @@
 {
-  "generatedAt": "2026-09-29T12:27:52.242Z",
+  "generatedAt": "2026-09-30T12:12:51.593Z",
   "source": "France Travail (API officielle)",
   "communeInsee": "66230",
   "distanceKm": 70,
-  "count": 43,
+  "count": 41,
   "offres": [
+    {
+      "externalId": "7517673",
+      "title": "Chargé(e) de recouvrement H/F",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Recouvrement / contentieux",
+      "location": "11 - Villepinte",
+      "contract": "CDI",
+      "salaryNet": 0,
+      "hours": "",
+      "description": "Rejoignez une entreprise reconnue pour son savoir-faire et son environnement stimulant. Dans le cadre du renforcement de son équipe Finance, notre client recrute un Chargé de Recouvrement.En tant que chargé(e) de recouvrement, vos responsabilités consisterontAssurer le suivi d'un portefeuille clients, sécuriser les encaissements et optimiser les délais de paiement.\nPiloter les actions de recouvrement de manière proactive, de la relance préventive jusqu'au précontentieux, en entretenant une relation de qualité avec les clients.\nAnalyser les comptes clients, réaliser les opérations de lettrage, traiter les règlements non rapprochés et gérer les rejets de prélèvements.\nIdentifier, coordonner et suivre la résolution des litiges en collaboration avec les différents services internes afin d'accélérer le recouvrement.\nPréparer les dossiers contentieux et contribuer à la maîtrise du risque client par un suivi rigoureux des encours.\nAssurer le suivi des créances sur les plateformes dédiées aux marchés publics\nParticiper aux analyses de la balance âgée et fournir des indicateurs clés permettant d'améliorer la performance du poste clients.\nLa rémunération et les avantages sur ce poste sont :\n\n\nUn salaire annuel compris entre € et € brut ;\nFoodles\nUn contrat temporaire avec une prise de poste dès que possible.\n\n\n\nRejoignez une entreprise reconnue en postulant à ce poste basé à Villepinte.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7517673",
+      "created": "30/09/2026"
+    },
     {
       "externalId": "214JLDK",
       "title": "Assistant de Gestion locative (H/F)",
@@ -20,22 +34,6 @@
       "description": "Dans le cadre du développement de notre activité, Agence Pyrénées Immobilier recherche un(e) Assistant(e) Gestion Locative H/F pour rejoindre notre équipe.\n\nVOS MISSIONS :\nRattaché(e) au service Gestion Locative, vous participez au suivi administratif et commercial des biens et des propriétaires.\n\nAccueil physique et téléphonique des propriétaires, locataires et prospects ;\nGestion des appels, mails et demandes courantes ;\nSuivi administratif des dossiers de location et de gestion ;\nPréparation et suivi des dossiers locataires ;\nOrganisation et suivi des rendez-vous ;\nSuivi des entrées et sorties des locataires ;\nPréparation et transmission des documents administratifs ;\nMise à jour des dossiers et des informations dans les logiciels professionnels ;\nSuivi des interventions et échanges avec les propriétaires, locataires et prestataires ;\nParticipation au suivi des travaux et des demandes techniques ;\nClassement et archivage des documents ;\nAppui quotidien au gestionnaire locatif dans le suivi de son portefeuille.\n\nLE PROFIL RECHERCHÉ :\n\nOrganisée, rigoureuse et méthodique ;\nÀ l'aise dans les échanges téléphoniques et relationnels ;\nDotée d'un bon sens du service et de la satisfaction client ;\nRéactive et capable de gérer plusieurs demandes en parallèle ;\nÀ l'aise avec les outils informatiques et bureautiques ;\nCapable de travailler en équipe tout en faisant preuve d'autonomie ;\nDiscrète et respectueuse de la confidentialité des informations traitées.\n\nUne première expérience dans l'immobilier, la gestion locative, l'administration ou l'assistanat est appréciée.\nUne connaissance du secteur immobilier et/ou des logiciels de gestion immobilière serait un plus.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214JLDK",
       "created": "24/09/2026"
-    },
-    {
-      "externalId": "214LTGM",
-      "title": "Gestionnaire  administratif en santé et protection animales (H/F)",
-      "company": "DIRECTION DEPARTEMENTALE DE L EMPLOI  D",
-      "source": "France Travail",
-      "profil": "Gestion administrative",
-      "location": "09 - FOIX",
-      "minutes": 131,
-      "distanceKm": 83,
-      "contract": "CDD - 3 Mois",
-      "salaryNet": 2240,
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Au sein de la DDETSPP de l'Ariège, le service santé et protection animales et de l'environnement (SPAE) compte une ICSPV cheffe de service, un vétérinaire officiel inspecteur des installations classées, adjoint à la cheffe de service, 5 techniciens et un secrétaire administratif.\n- Gestion administrative et gestion technique en santé et protection animales et environnement.\nEn coordination avec la cheffe de service et l'ensemble des agents du service SPAE : \n- appui administratif et technique (notamment gestion des LPS, suivi des foyers, suivi de la vaccination, organisation de la surveillance vaccinale ) ; - Certification, assistance des agents techniques - Mobilisation en cas de crise ou d'urgence et exercices de crise\nCDD 3 mois, du 1er octobre au 31 décembre 2026.\nCANDIDATURES : CV+LETTRE DE MOTIVATION DETAILLEE (OBLIGATOIRE) à ape.09115@francetravail.fr",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214LTGM",
-      "created": "28/09/2026"
     },
     {
       "externalId": "7398740",
@@ -84,6 +82,22 @@
       "created": "21/08/2026"
     },
     {
+      "externalId": "212PHQL",
+      "title": "Gestionnaire \"action sociale\" (H/F)",
+      "company": "SECRETARIAT GENERAL COMMUN DEPARTEMENTA",
+      "source": "France Travail",
+      "profil": "Gestion administrative",
+      "location": "09 - FOIX",
+      "minutes": 131,
+      "distanceKm": 83,
+      "contract": "CDD - 3 Mois",
+      "salaryNet": 1867,
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Mission : En lien avec la direction et le service budget achat, le gestionnaire de l'action sociale assure des missions administratives et de secrétariat. Activités principales :\n- gère les dispositifs sociaux (aides à la scolarité, à la garde d'enfants, au logement, subventions pour séjour d'enfants..) sur le plan administratif et financier de la préfecture, du SGCD, de la police nationale, ainsi que des DDI dans le cadre des politiques ministérielles d'action sociale ;\n- organise l'arbre de Noël et assure la gestion des bons cadeaux pour tous les événements familiaux ; - aide à l'organisation des séances plénières des comités locaux d'action sociale (convocations, comptes rendus..) ; aide à la complétude des enquêtes et statistiques annuelles portant sur l'action sociale ; aide au suivi budgétaire et à la préparation de la programmation budgétaire des BOP « action sociale » ; suit les dispositifs d'aide à la restauration collective ; suit l'attribution des secours et autres dispositifs d'accompagnement individuels en lien avec le service social ; gère en lien avec l'OPH le contingent des logements des fonctionnaires ;  assure le suivi de la médecine de prévention.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212PHQL",
+      "created": "18/08/2026"
+    },
+    {
       "externalId": "214NPLY",
       "title": "Secrétaire (H/F)",
       "company": "MANPOWER FRANCE",
@@ -113,22 +127,6 @@
       "hours": "Temps partiel - 30H/semaine\nTravail en journée...",
       "description": "Au sein d'une station service vous aurez pour missions :\n- L'accueil clients\n- L'encaissement\n- La gestion des colis (réception, rangement et redistribution)\n- La réalisation des factures en lien avec le garage\n- La saisie comptable pour transmission au cabinet comptable\n\n** Poste à pourvoir immédiatement **\n\nVous travaillerez selon le planning suivant : \n- Lundi 14h30 - 18h30\n- Mardi /mercredi / jeudi /vendredi : 10h30 - 12h30 / 14h00 - 18h30\n- Samedi 08h00 - 13h00",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214MHWY",
-      "created": "28/09/2026"
-    },
-    {
-      "externalId": "214LVFT",
-      "title": "Secrétaire de direction (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "minutes": 46,
-      "distanceKm": 29,
-      "contract": "CDI",
-      "salaryNet": 14,
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Nous éditons des logiciels métier utilisés par des structures professionnelles partout en France, et nous créons des sites web pour des entreprises. Vous travaillerez directement avec le dirigeant et deviendrez la personne qui tient l'administratif et le suivi financier de l'entreprise.\n\nVOS MISSIONS :\n\nFacturation et encaissements :\n- Émission des factures clients depuis notre outil de gestion interne : ventes de licences, abonnements mensuels, prestations de création de sites\n- Suivi des échéances mensuelles et annuelles : s'assurer que chaque abonnement est facturé au bon moment\n- Suivi des règlements, rapprochement avec les relevés bancaires, mise à jour des encaissements\n- Relance des impayés : courriers, appels, suivi jusqu'au règlement\n- Préparation des éléments pour le cabinet comptable et transmission des pièces\n\nAdministratif et gestion :\n- Rédaction et mise en forme des contrats et propositions commerciales à partir de nos modèles\n- Suivi des dossiers clients : coordonnées, contrats signés, documents administratifs\n- Traitement du courrier, de la boîte mail générale et des appels entrants\n- Classement et archivage, physique et numérique\n- Suivi des fournisseurs et des abonnements de l'entreprise\n\nAppui à la direction :\n- Organisation de l'agenda, des rendez-vous et des déplacements\n- Préparation des dossiers avant les rendez-vous clients ou partenaires\n- Suivi des dossiers en cours et rappel des échéances\n- Appui à la gestion du personnel : suivi des congés, transmission des éléments variables de paie\n\nVOTRE PROFIL :\n- Formation ou expérience en secrétariat, assistanat de direction ou gestion administrative\n- À l'aise avec les chiffres : vous savez pointer un relevé bancaire et repérer un écart\n- Rigueur : une facture oubliée ou un règlement non pointé, c'est de la trésorerie en moins\n- Expression écrite et orthographe irréprochables\n- Aisance avec les outils numériques : vous apprendrez vite notre outil de gestion interne, aucune compétence technique n'est exigée\n- Discrétion absolue : vous aurez accès aux données financières et aux dossiers clients\n- Une première expérience en TPE, où l'on touche à tout, est un vrai atout\n\nCE QUE NOUS OFFRONS :\n- Un poste complet, sans cloisonnement : vous voyez l'entreprise dans son ensemble\n- Un outil de gestion moderne, conçu en interne, qui vous évite les ressaisies\n- Une relation de travail directe avec le dirigeant, des décisions rapides\n- Une formation à nos outils et à nos activités",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214LVFT",
       "created": "28/09/2026"
     },
     {
@@ -420,22 +418,6 @@
       "created": "14/09/2026"
     },
     {
-      "externalId": "213SFRS",
-      "title": "ASSISTANT TRANSACTION ET ADMINISTRATIVE EN IMMOBILIER (H/F)",
-      "company": "R.CHAYLA IMMOBILIER-NESTENN CARCASSONNE",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "11 - CARCASSONNE",
-      "minutes": 102,
-      "distanceKm": 65,
-      "contract": "CDI",
-      "salaryNet": 2300,
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "FICHE DE POSTE\nAssistante de transaction en agence immobilière\n1. Gestion administrative des dossiers de vente\n- Création et constitution des dossiers de vente.\n- Collecte, vérification et classement des pièces administratives nécessaires aux dossiers.\n- Mise à jour et suivi des dossiers vendeurs et acquéreurs.\n- Préparation et suivi des documents liés aux mandats, avenants et dossiers de vente.\n- Vérification de la complétude des dossiers et relance des clients lorsque nécessaire.\n- Classement et archivage des documents physiques et numériques.\n- Mise à jour des différents tableaux et outils de suivi de l'activité.\n2. Suivi des dossiers de vente\n- Suivi administratif des ventes de la prise de mandat jusqu'à la signature définitive.\n- Coordination des différentes étapes du dossier avec les conseillers immobiliers, clients, notaires, diagnostiqueurs et différents intervenants.\n- Suivi des signatures et des échéances.\n- Relance des différents interlocuteurs afin de garantir le bon avancement des dossiers.\n- Préparation et transmission des documents nécessaires aux notaires.\n- Suivi des compromis, actes authentiques et éléments nécessaires à la finalisation des ventes.\n- Gestion et suivi des clés des biens.\n- Mise à jour régulière des dossiers et des outils de suivi.\n3. Accueil et relation clientèle\n- Accueil physique de la clientèle au sein de l'agence.\n- Accueil et gestion des appels téléphoniques.\n- Identification des demandes et orientation vers le conseiller ou le service concerné.\n- Prise et transmission des messages.\n- Réponse aux demandes administratives courantes des clients.\n\n4. Missions comptables\nSaisie et suivi de la comptabilité de l'agence\n- Saisie des écritures comptables de l'agence dans le logiciel EBP.\n- Enregistrement et classement des factures fournisseurs.\n- Saisie et suivi des opérations bancaires.\n- Enregistrement des différentes opérations comptables courantes.\n- Contrôle et rapprochement des éléments comptables.\n- Préparation des éléments comptables destinés au cabinet comptable.\n- Suivi administratif des factures et des règlements.\nFacturation\n- Création des factures de vente dans EBP.\n- Émission et transmission des factures aux clients ou organismes concernés.\n- Suivi des factures émises et des règlements.\n- Classement et archivage des pièces comptables.\n6. Missions Ressources Humaines\n- Collecte mensuelle des variables de paie auprès des salariés.\n- Vérification des éléments transmis.\n- Saisie et transmission des variables de paie à la comptabilité via le logiciel MySilae.\n- Suivi administratif des absences, congés et autres éléments nécessaires à l'établissement de la paie.\n- Transmission des informations nécessaires au cabinet comptable \n- Suivi administratif des dossiers du personnel.\n- Classement et archivage des documents relatifs aux salariés.\n- Participation au suivi des formations et obligations administratives du personnel.\n7. Outils utilisés\n- EBP : comptabilité, saisie des écritures et facturation.\n- MySilae : transmission et gestion des éléments variables de paie.\n- Logiciels et outils métiers de transaction immobilière.\n- Messagerie électronique et outils bureautiques.\n- Plateformes administratives et professionnelles utilisées dans le cadre de l'activité immobilière.\n\nCompétences et qualités\n- Maîtrise du suivi administratif des dossiers de transaction.\n- Bonne connaissance des procédures immobilières et du suivi des ventes.\n- Maîtrise des outils bureautiques et logiciels professionnels (EBP, MySilae).\n- Compétences en comptabilité, facturation et gestion administrative du personnel.\n- Organisation, rigueur, autonomie et réactivité.\n- Sens du service, aisance relationnelle et discrétion.\n- Capacité à gérer les priorités et plusieurs dossiers simultanément.\n- Polyvalence, adaptabilité et esprit d'équipe.\nRelations professionnelles\nEn interne : direction, conseillers immobiliers et salarié",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/213SFRS",
-      "created": "10/09/2026"
-    },
-    {
       "externalId": "6777294",
       "title": "Assistant Médico-Administratif (H/F)",
       "company": "YOUSCHOOL",
@@ -456,8 +438,8 @@
       "source": "France Travail",
       "profil": "Assistanat administratif",
       "location": "11 - NARBONNE",
-      "minutes": 105,
-      "distanceKm": 66,
+      "minutes": 122,
+      "distanceKm": 77,
       "contract": "CDI",
       "salaryNet": 16,
       "hours": "37H/semaine\nTravail en journée",
@@ -650,20 +632,6 @@
       "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/5113782",
       "created": "18/07/2026"
-    },
-    {
-      "externalId": "7136667",
-      "title": "Technico Administratif Travaux (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Agent administratif",
-      "location": "66 - Perpignan",
-      "contract": "Intérim - 1 Mois",
-      "salaryNet": 0,
-      "hours": "",
-      "description": "La Catalane des Eaux est la filiale de Veolia Eau dédiée à la gestion de l'eau et de l'assainissement sur le territoire de Perpignan Méditerranée Métropole. Sous la supervision du Manager de Service Local Travaux, le technico administratif travaux intervient dans les domaines suivants :Technique MétierContribuer au pilotage des plannings et à l'organisation journalière des activités pour les équipes internes et les prestataires extérieurs, en lien avec les responsables d'équipePiloter la communication en amont des chantiers auprès des usagers et des collectivités territoriales pour les interventions internes et sous-traitéesCollaborer avec les ordonnanceurs pour préparer les dossiers réglementairesen lien avec les communes (DICT, arrêtés de circulation, permissions de voirie, etc.)Participer à la gestion administrative (rédaction des comptes-rendus des visites chantiers, Audits, etc.)Soutenir les responsables d'équipe dans la répartition et la priorisations des interventions  entre les  équipes et les sous-traitantsMaintenir une coordination constante avec les ordonnanceurs, le coordinateur de chantiers, les prestataires et les services communication des collectivitésGérer la préparation des dossiers techniques via le logiciel Trav'O et les bases de données dédiéesClôturer les ordres d'intervention (OI) des sous-traitants dans l'outil NOMAD en veillant à l'intégration des justificatifs photographiquesEffectuer un contrôle administratif régulier pour garantir la fiabilité des données saisies et procéder aux ajustements nécessairesGestion des urgencesLancer les ATU et s'assurer de la réception rapide des documentsParticiper à l'organisation de la gestion des interventions urgentes en lien avec les responsables d'équipe et le coordinateur de chantierReporting Renseigner les supports de suivi d'intervention et transmettre les informations au service concernéRendre compte auprès de sa hiérarchie toutes informations (anomalies et dysfonctionnements) rencontrées au quotidienUtiliser les applications numériques métiersSécurité Vérifier et mettre à jour le suivi administratif des habilitations et formations des équipes.Appliquer les modes opératoires du système de management qualité - sécurité - environnement - sûretéDomaines transversesContribuer à la performance environnementale et énergétique sur l'ensemble des sites exploités par l'entrepriseRespecter les règles éthique et conformité ainsi que les procédures transverses et métiers associées et veiller à leur bonne compréhension, leur application et respect au sein de son équipe et de l'organisationRespecter les exigences de sécurité sanitaire des eaux destinées à la consommation humaine, applique les procédures et consignes en vigueur et contribue à la maîtrise des risques identifiés au travers des bonnes pratiques de sécurité et des points de contrôle critiques relevant de son activitp>",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7136667",
-      "created": "23/09/2026"
     }
   ]
 }
