@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-13T13:52:59.056Z",
+  "generatedAt": "2026-10-14T11:30:08.564Z",
   "source": "France Travail (API officielle)",
   "communeInsee": "66230",
   "distanceKm": 70,
-  "count": 35,
+  "count": 33,
   "offres": [
     {
       "externalId": "214YYCH",
@@ -174,6 +174,22 @@
       "created": "02/10/2026"
     },
     {
+      "externalId": "212TCNN",
+      "title": "GESTIONNAIRE CARRIERE ET PAYE (H/F)",
+      "company": "CENTRE HOSPITALIER LIMOUX QUILLAN",
+      "source": "France Travail",
+      "profil": "Gestion administrative",
+      "location": "11 - LIMOUX",
+      "minutes": 82,
+      "distanceKm": 52,
+      "contract": "CDD - 3 Mois",
+      "salaryNet": 0,
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Le centre hospitalier Limoux-Quillan, recherche un(e) chargé(e) de la gestion administrative des ressources humaines (h/f). Missions liées à la gestion de la paie : \n- Gestion administrative de l'entrée et de la sortie des agents,\n- Assurer la mise à jour des dossiers administratifs des agents,\n- Traitement de la paie dans le respect des délais impartis et des procédures internes au service,\n- Contrôler et intégrer l'ensemble des variables (maladie, heures supplémentaires) à partir de sources internes (relevé papier, clepsydre),\n- Savoir expliquer le contenu d'un bulletin de salaire aux agents et s'assurer de leur bonne diffusion, traiter les éventuels litiges sous la responsabilité du hiérarchique direct,\n- Rédiger les actes administratifs liés aux situations individuelles des agents dans le respect de la réglementation (temps partiel, rédaction de contrat, attribution de NBI, avancement d'échelon)\n- Rédiger des courriers relatifs au domaine de compétence,\n- Assurer un classement administratif clair et un archivage des dossiers des agents sortis,\n- Suivi des IJSS\n\nMissions liées à la carrière : \n- Gérer les situations des agents en maladie ordinaire, d'accident de travail, de maladie professionnelle, de congés longue maladie et longue durée,\n- Gérer l'absentéisme en lien avec l'encadrement du service, le CGOS et la médecine du travail,\n- Informer les personnels sur leurs droits statutaires, sur les changements liés à l'évolution de leur situation et sur les différentes procédures (expertise, comité médical, commission de réforme),\n- Rédaction des décisions de mise en stage, de titularisation, de montée d'échelon, de révision de situation, de temps partiel, etc.\n- Informer les personnels sur leurs droits statutaires, sur les changements liés à l'évolution de leur situation et sur les différentes procédures (expertise, comité médical, commission de réforme),\n- Rédiger des courriers concernant les situations administratives,\n- Participer à la reprise d'antériorité des personnels au regard du droit à l'information,\n- Contrôler la planification annuelle des congés dans le respect de la réglementation\nMaitrise du pack office\nConnaissances du milieu hospitalier appréciéés\nConnaissances de la règlementation de la fonction publique hospitalière serait appréciée\nQualités requises pour le poste: \n- Conscience de l'environnement professionnel et de l'image institutionnelle : comportement, tenu et attitude appropriés\n- Comportement professionnel : loyauté, intégrité, respect de l'autorité hiérarchique, respect des droits et devoirs des agents publics, devoir de réserve, discrétion, secret professionnel, respect de la laïcité\n- Dynamisme et sens du travail en équipe\n- Réactivité, aptitude à prendre des initiatives dans un périmètre sécurisé de compétences et à en rendre compte\n- Rigueur,\n- Capacité d'analyse et de synthèse\n- Autonomie\n- Esprit méthodique\n- Esprit d'équipe\n- Sens du relationnel\n- Respect de la confidentialité",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/212TCNN",
+      "created": "21/08/2026"
+    },
+    {
       "externalId": "215BTRB",
       "title": "Formateur / Formatrice secrétariat (H/F)",
       "company": "SKOOL N'JOB",
@@ -204,22 +220,6 @@
       "description": "Sous l'autorité directe de Monsieur le Maire, votre rôle est essentiel pour assurer la continuité du service public et l'accompagnement des administrés.\n\nVos missions principales :\nComptabilité : Suivi budgétaire, mandatement et gestion des recettes.\nAccueil : Accueil physique et téléphonique de la population.\nGestion administrative : Gestion des mails et de la correspondance administrative.\nService aux administrés : Réponse aux besoins et renseignements des habitants.\nÉtat civil : Gestion des actes de naissance, de mariage et de décès.\n\nPROFIL RECHERCHÉ\nCe poste exige une grande autonomie et une maîtrise immédiate des procédures administratives.\n\nCompétences et qualités requises :\nExpérience indispensable : Une expérience réussie sur un poste similaire est obligatoire. Le poste ne prévoit pas de période de formation métier.\nMaîtrise administrative : Excellente capacité rédactionnelle et gestion rigoureuse des dossiers.\nCompétences techniques : Maîtrise des outils bureautiques et, idéalement, des logiciels de gestion de mairie.\nSens du service public : Accueil bienveillant, discrétion absolue et sens de l'écoute auprès des administrés.\nPolyvalence : Capacité à passer de la gestion comptable à l'accueil du public avec efficacité.\n\nPrise de poste dès que possible / poste à mi-temps pouvant évoluer\nPoste de préférence sur les après-midi à négocier suivant profil",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CBKK",
       "created": "12/10/2026"
-    },
-    {
-      "externalId": "215BJZN",
-      "title": "Assistant(e) administratif(ve) et support clients (H/F)",
-      "company": "FERVALT DIGITAL",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "minutes": 48,
-      "distanceKm": 30,
-      "contract": "CDI",
-      "salaryNet": 13,
-      "hours": "Temps partiel - 25H/semaine\nTravail en journée",
-      "description": "L'entreprise\n\nÉditeur de logiciels SaaS et créateur de sites web, nous développons et commercialisons nos propres logiciels de gestion auprès de professionnels partout en France. Notre petite équipe grandit et nous renforçons l'accueil et le suivi de nos clients.\n\nVos missions\n\nVous êtes le premier contact de nos clients et prospects, et vous assurez le suivi administratif de l'activité.\n\nAccueil et support clients :\n\nRépondre aux appels entrants, identifier la demande et orienter vers le bon interlocuteur\nTraiter les demandes d'assistance par téléphone, e-mail et tickets, et en garder la trace\nAccompagner les clients dans la prise en main du logiciel (questions d'utilisation courantes)\nTransmettre à l'équipe technique les demandes qui le nécessitent et tenir le client informé\nRappeler les clients et relancer les demandes en attente\n\nGestion administrative et commerciale :\n\nTenir à jour les fiches clients et prospects dans notre outil de suivi\nRépondre aux demandes de contact et de démonstration, planifier les rendez-vous\nPréparer les contrats et suivre leur signature\nÉtablir les factures, suivre les règlements et relancer les impayés\nGérer le courrier, les e-mails et le classement des documents\n\nProfil recherché\n\nFormation Bac à Bac+2 en assistanat, gestion ou relation client\nExcellente expression orale et écrite, orthographe irréprochable\nAisance au téléphone, sens de l'écoute et patience\nÀ l'aise avec les outils informatiques et curieux(se) d'apprendre un logiciel métier\nRigueur, organisation et discrétion (données confidentielles)\nUne expérience en support client ou dans le secteur médico-social est un plus\n\nConditions\n\nPoste basé à Perpignan, du lundi au vendredi\nFormation à nos logiciels assurée à la prise de poste",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215BJZN",
-      "created": "09/10/2026"
     },
     {
       "externalId": "214YRRZ",
@@ -312,22 +312,6 @@
       "created": "06/10/2026"
     },
     {
-      "externalId": "214TGFS",
-      "title": "Assistant administratif / Assistante administrative et comptable (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - ERR",
-      "minutes": 74,
-      "distanceKm": 47,
-      "contract": "CDI",
-      "salaryNet": 0,
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Vous aimez les environnements où l'on ne fait pas deux fois la même chose ?\nRejoignez une coopérative agricole à taille humaine, au cœur d'un réseau d'éleveurs et de partenaires du territoire.\nVOTRE MISSION\nVéritable pilier administratif de la coopérative, vous assurez le suivi quotidien des dossiers et travaillez en lien direct avec la direction, la comptable et l'équipe technique de la coopérative.\nVous intervenez notamment sur :\n- administration courante, accueil et suivi des dossiers ;\n- facturation et contrôle des éléments administratifs ;\n- appui à la comptabilité et préparation des éléments nécessaires à la comptable ;\n- suivi des assurances, véhicules et dossiers réglementaires ;\n- constitution et suivi des dossiers de subventions ;\n- préparation et suivi administratif des Conseils d'administration et Assemblées générales ;\n- relations avec les éleveurs, administrations et partenaires.\nLE PROFIL QUE NOUS RECHERCHONS\nNous recherchons avant tout une personne polyvalente, rigoureuse, organisée et autonome, à l'aise avec les chiffres comme avec les relations humaines.\nUne expérience en assistanat administratif, aide comptable, gestion ou secrétariat est recherchée.\nVous savez :\n- travailler avec méthode et gérer plusieurs sujets en parallèle ;\n- utiliser efficacement Excel, Word et les outils bureautiques ;\n- être fiable dans le suivi des échéances et des dossiers ;\n- travailler en équipe tout en étant autonome.\nUne connaissance du monde agricole ou coopératif est un plus, mais n'est pas indispensable.\nPOURQUOI NOUS REJOINDRE ?\nUn poste polyvalent et concret, avec de l'autonomie, de la diversité dans les missions et une vraie proximité avec la direction et les équipes.\nVous travaillerez du lundi au vendredi. Poste NON Logé.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214TGFS",
-      "created": "05/10/2026"
-    },
-    {
       "externalId": "7675894",
       "title": "POSTE DADJOINT DES CADRES SERVICE ÉCONOMIQUE - H/F",
       "company": "Centre Hospitalier de Carcassonne",
@@ -355,22 +339,6 @@
       "hours": "Temps partiel - 24H/semaine\nTravail en journée...",
       "description": "Garage automobile à taille humaine, sur Narbonne, recherche pour renforcer son équipe, une personne à temps partiel qui pourra s'occuper principalement de la facturation, des encaissements client, de l'accueil physique et téléphonique. \n\nLes missions complémentaires : \n\n- Préparation comptable mensuelle - en lien avec le comptable\n- Gestion des commandes et des paiements fournisseur\n- Décalaration d'achat des véhicules destinés à la revente\n- Suivi du social en lien avec le comptable \n- Prise de rdv - gestion du planning atelier\n- déplacement ponctuel chez les fournisseurs et vers les centres postaux\n\nProfil recherché :\n- Formation en gestion administrative et commerciale - Bac+2\n- vous disposez d'une expérience en entreprise d'au moins 2 ans dans le secteur automobile\n- vous maitrisez l'outil informatique",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/214VJLP",
-      "created": "05/10/2026"
-    },
-    {
-      "externalId": "214TNRC",
-      "title": "Secrétaire du bâtiment (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - RIVESALTES",
-      "minutes": 49,
-      "distanceKm": 31,
-      "contract": "CDD - 6 Mois",
-      "salaryNet": 0,
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Missions principales :\n\nGestion administrative et organisationnelle du service\nAccueil téléphonique et physique des clients et partenaires\nGestion de la comptabilité de base et suivi des dossiers\nUtilisation du logiciel Pro BTP pour la gestion des projets et des plannings\nAssistance à l'équipe et coordination des activités\n\nCompétences requises :\nExpérience IMPERATIVE de 5ans dans un poste similaire dans le secteur du BTP\nCOMPETENCES EN COMPTABILITE\nMaîtrise du logiciel Pro BTP - EBP Compta et Pennylane impérative \nBonnes compétences organisationnelles et relationnelles\nAutonomie et rigueur\n\nConditions de travail :\nHoraires aménageables selon les besoins et contraintes personnelles",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214TNRC",
       "created": "05/10/2026"
     },
     {
