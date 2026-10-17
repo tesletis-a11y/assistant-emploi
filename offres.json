@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-16T11:02:28.749Z",
+  "generatedAt": "2026-10-17T10:23:36.136Z",
   "source": "France Travail (API officielle)",
   "communeInsee": "66230",
   "distanceKm": 70,
-  "count": 44,
+  "count": 48,
   "offres": [
     {
       "externalId": "215GZDG",
@@ -190,6 +190,22 @@
       "created": "03/10/2026"
     },
     {
+      "externalId": "214SNHW",
+      "title": "Apprenti(e) Assistant de gestion H/F",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Gestion administrative",
+      "location": "11 - NARBONNE",
+      "minutes": 111,
+      "distanceKm": 70,
+      "contract": "CDD - 24 Mois",
+      "salaryNet": 12,
+      "hours": "35H/semaine\nTravail en horaires fixes",
+      "description": "Vous suivrez la formation en apprentissage au BTS GPME (Gestion de la Petite et Moyenne Entreprise )\nL'assistant administratif est chargé d'assurer le bon fonctionnement administratif d'un service, d'une entreprise ou d'une organisation.\nOrganise les agendas, les réunions et les déplacements des collaborateurs ou des responsables\nRédige et met en forme les courriers, comptes rendus, rapports et documents administratifs\nGère le traitement des appels téléphoniques, des courriels et du courrier entrant et sortant\nAssure le suivi et l'archivage des dossiers administratifs, physiques et numériques\nCoordonne la circulation de l'information entre les différents services et interlocuteurs externes\nContrôle et met à jour les bases de données, tableaux de suivi et documents administratifs",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214SNHW",
+      "created": "02/10/2026"
+    },
+    {
       "externalId": "212TCNN",
       "title": "GESTIONNAIRE CARRIERE ET PAYE (H/F)",
       "company": "CENTRE HOSPITALIER LIMOUX QUILLAN",
@@ -206,6 +222,22 @@
       "created": "21/08/2026"
     },
     {
+      "externalId": "215HYJJ",
+      "title": "Assistant(e) administratif(ve) et commercial(e) (H/F)",
+      "company": "H2EM",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "11 - CARCASSONNE",
+      "minutes": 102,
+      "distanceKm": 65,
+      "contract": "CDI",
+      "salaryNet": 0,
+      "hours": "39H/semaine\nTravail en journée...",
+      "description": "Qui sommes-nous ?\nH2EM est une PME spécialisée dans la distribution de solutions électriques et énergétiques à destination des professionnels des secteurs des vans aménagés, du nautisme et de l'énergie pour l'habitat.\nDans le cadre de notre développement, nous recherchons un(e) Assistant(e) administratif(ve) et commercial(e) polyvalent(e) pour accompagner notre activité et assurer le suivi administratif et comptable quotidien de l'entreprise.\n\nVos missions :\nAu sein d'une équipe à taille humaine, et en lien direct avec la direction et le responsable des opérations et du développement commercial, vous interviendrez sur plusieurs domaines :\nGestion administrative et commerciale\n- Assurer le traitement des courriels et le suivi administratif courant.\n- Assurer la facturation et le suivi des dossiers clients.\n- Participer au traitement des demandes après-vente, retours et litiges.\n- Organiser le classement et l'archivage des documents.\n\nGestion des expéditions et des fournisseurs\n- Organiser les expéditions et les enlèvements avec les transporteurs.\n- Préparer les documents de transport et assurer le suivi des livraisons.\n- Assurer les échanges avec les transporteurs et le suivi des éventuelles anomalies.\n- Suivre administrativement les commandes fournisseurs, les livraisons et les factures.\n\nSuivi comptable courant\n- Saisir et contrôler les factures clients et fournisseurs.\n- Suivre les échéances de règlement.\n- Effectuer les rapprochements bancaires courants.\n- Préparer les éléments nécessaires aux règlements et aux prélèvements SEPA.\n- Préparer les documents à transmettre au cabinet d'expertise comptable.\n- Participer à la mise à jour des tableaux de suivi mensuel.\n\nFormalités douanières et suivi d'activité\n- Préparer les déclarations douanières et statistiques périodiques.\n- Collecter et vérifier les informations nécessaires aux formalités liées aux échanges internationaux.\n- Mettre à jour les tableaux de suivi et les statistiques commerciales.\n- Participer à l'amélioration des procédures administratives internes.\n\nVotre profil :\nVous êtes issu(e) idéalement d'une formation Bac +2 en gestion de PME, assistanat administratif et commercial ou comptabilité, et disposez d'une première expérience réussie sur un poste polyvalent.\n\nVous maîtrisez les outils bureautiques, et êtes à l'aise avec les logiciels de gestion.\nLa connaissance d'Odoo, des procédures logistiques ou des formalités douanières constitue un atout, mais n'est pas indispensable.\n\nNous recherchons avant tout une personne :\n- Rigoureuse, organisée et méthodique.\n- Autonome, réactive et polyvalente.\n- À l'aise avec les chiffres et les outils informatiques.\n- Capable de gérer plusieurs dossiers et de respecter les échéances.\n- Dotée d'un bon relationnel et appréciant le travail en équipe.\n\nPourquoi rejoindre H2EM ?\n- Un poste polyvalent avec des missions variées.\n- Une entreprise à taille humaine, favorisant les échanges directs.\n- Une activité en développement sur plusieurs marchés professionnels.\n- Un environnement de travail où l'autonomie, la rigueur et l'esprit d'équipe sont essentiels.\n\nInformations pratiques\nLocalisation : Carcassonne (11)\nContrat : CDI\nTemps de travail : 35h ou 39h\nRémunération : Selon profil et expérience\nPrise de poste : Immédiat",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215HYJJ",
+      "created": "16/10/2026"
+    },
+    {
       "externalId": "7989829",
       "title": "Secrétaire administratif / Secrétaire administrative (H/F)",
       "company": "AUREIS FORMATION",
@@ -217,6 +249,52 @@
       "hours": "35H/semaine\nHoraires annuels",
       "description": "Offre collectée par La bonne alternance : Réalise le traitement administratif de dossiers (frappe de courrier, mise en forme de document, ...) et transmet les informations (e-mail, notes, fax, ...) pour le compte d'un ou plusieurs services ou d'un responsable selon l'organisation de l'entreprise. Peut prendre en charge le suivi complet de dossiers (contrats de maintenance des équipements, de la structure, ...). Peut coordonner une équipe. Le salaire d'un apprenti est fixé par la réglementation en vigueur. Il dépend de plusieurs facteurs. Un simulateur à jour est disponible à l'adresse https://labonnealternance.apprentissage.beta.gouv.fr/salaire-alternant",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7989829",
+      "created": "16/10/2026"
+    },
+    {
+      "externalId": "215JBVC",
+      "title": "Agréeur (h/f) (H/F)",
+      "company": "ADECCO FRANCE",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Perpignan",
+      "minutes": 46,
+      "distanceKm": 29,
+      "contract": "Intérim - 6 Mois",
+      "salaryNet": 0,
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Adecco recrute pour le compte de l'un de ses clients, acteur spécialisé dans le commerce de gros de fruits et légumes, un-e Agréeur (H/F) basé-e à Perpignan (66000), pour une mission d'intérim de 6 mois à pourvoir dès que possible, en horaires de journée à temps plein. \n\nVous intervenez au cœur de la chaîne de réception des produits, en garantissant leur conformité et leur qualité avant mise à disposition des clients.\nCette société évolue dans un environnement exigeant, où la qualité des produits frais, la réactivité opérationnelle et le respect des normes d'hygiène alimentaire sont essentiels.\n- Au sein de l'équipe logistique et qualité, vous contribuez à sécuriser les arrivages de fruits et légumes. \n- Votre rôle consiste à contrôler les marchandises réceptionnées, à valider leur conformité aux cahiers des charges et à tracer les non-conformités. \n- Vous réalisez l'agréage des lots à la réception, en effectuant les contrôles visuels et quantitatifs nécessaires pour vérifier l'aspect, le calibre, la fraîcheur et l'état sanitaire des produits.\n- Vous appliquez la politique qualité de l'entreprise et les référentiels en place, en intégrant les principes de la méthode HACCP et des contrôles sanitaires obligatoires. \n- Vous renseignez les documents de suivi, fiches d'agréage et cartes de contrôle, et contribuez à la gestion des non-conformités en lien avec les interlocuteurs internes. \n- Vous échangez avec les équipes opérationnelles pour décider de l'acceptation, du tri ou du retour fournisseur, et participez à l'amélioration des pratiques de contrôle.\n\nCe poste s'adresse à une personne rigoureuse, organisée et attachée à la fiabilité des contrôles. Vous appréciez de travailler au plus près du terrain, en lien avec les équipes de réception et les services qualité, tout en respectant des procédures précises et des exigences élevées en matière de sécurité sanitaire des aliments. Une première expérience dans un environnement agroalimentaire, logistique ou de contrôle qualité est un atout.\nCompétences comportementales\n\n - Vous faites preuve de rigueur et d'exigence dans l'application des procédures et la traçabilité de vos contrôles.\n - Vous avez le sens des responsabilités et savez prendre des décisions argumentées sur la conformité des produits.\n - Vous appréciez le travail en équipe et communiquez de manière claire avec les interlocuteurs internes.\nCompétences techniques\n\n - Vous maîtrisez les bases du contrôle qualité, de la politique qualité et de la gestion des non-conformités.\n - Vous connaissez les principes de l'HACCP et les exigences en matière d'hygiène alimentaire et de contrôles sanitaires.\n - Vous savez réaliser un agréage structuré, exploiter des cartes de contrôle et effectuer des contrôles visuels sur produits frais.\nVous êtes titulaire d'un diplôme de niveau Bac+2 dans le domaine de la qualité, de l'agroalimentaire ou équivalent. Ce contrat d'intérim de 6 mois, à temps plein en journée, basé à Perpignan, offre un cadre professionnel structuré où vos compétences seront valorisées. Postulez pour rejoindre cette entreprise engagée dans la qualité de ses produits.\nAdecco s'engage à promouvoir la diversité et l'égalité des chances. Toute information liée à la candidature est traitée avec la plus stricte confidentialité.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215JBVC",
+      "created": "16/10/2026"
+    },
+    {
+      "externalId": "8018808",
+      "title": "Assistant(e) administrative et commerciale (H/F)",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "11 - Villepinte",
+      "contract": "Intérim - 3 Mois",
+      "salaryNet": 0,
+      "hours": "",
+      "description": "Nous recherchons un Assistant administratif et commercial polyvalent (H/F) sur Villepinte. Tu conduiras une diversité de missions commerciales et administratives, en vue de soutenir le développement de l'activité Foires et expositions. Ce poste te donnera l'opportunité de faire preuve de réactivité, d'organisation et de travailler étroitement avec notre réseau international.Tes futures missions :- Support commercial : envoi de leads au réseau Clasquin et aux agents- Contacts internationaux fréquents- Support au développement de l'activité Foires et expositions- Création et envoi de mailings et courriers commerciaux- Réalisation de diverses tâches administratives- Reporting mensuel auprès du directeur- Gestion des ouvertures de comptes clients et fournisseurs- Suivi et relances clients- Ouverture et suivi des dossiers dans Cargo Wise- Contrôle des factures fournisseurs et des rentabilités des dossiers- Gestion des litiges et des contrats intérimaires- Aide au traitement des appels d'offres avec le directeurOù : Villepinte, FrancePour combien : 36KEURType de contrat : intérim",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8018808",
+      "created": "16/10/2026"
+    },
+    {
+      "externalId": "215HYCJ",
+      "title": "Assistant(e) administrative (H/F)",
+      "company": "CC DE LA MONTAGNE NOIRE",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "11 - LES ILHES",
+      "minutes": 125,
+      "distanceKm": 79,
+      "contract": "CDD - 12 Mois",
+      "salaryNet": 0,
+      "hours": "Temps partiel - 17H30/semaine\nTravail en journée",
+      "description": "Un(e) assistant(te) administratif(ve) pour les Services Enfance Jeunesse et Ecoles/ALAE\nDurée de travail totale : 17.5 heures\nPoste ouvert aux fonctionnaires et aux agents contractuels en application de l'article L.332-8 3° du Code général de la fonction publique.\n CDD du 01/01/2027 au 31/12/2027 \n\nCadre d'emploi : Adjoints administratifs territoriaux\nGrade : adjoint administratif territorial\nRémunération : selon grille de rémunération de la FPT correspondante\nAvantages sociaux : CIOS, participation complémentaire santé et prévoyance (sous conditions)\nLieu d'activité : Les Ilhes-Cabardès\n\nDescriptif du poste\n- Assure un soutien administratif aux services Enfance-Jeunesse et Écoles-ALAE afin de contribuer au bon fonctionnement des équipements\n- Assure des missions d'exécution administrative, de suivi et de préparation des dossiers\n\nMissions\n- Organisation de remplacements d'agents \n- Gestion/suivi du planning mensuel de l'agent volant du service ainsi que ses frais de déplacement\n- Participation à l'organisation des formations en intra (5 journées/an)\n- Gestion et suivi des conventions de stage\n- Rédaction de courriers ou mails divers \n- Déclaration et suivi de sinistres auprès de l'assurance\n- Participation à l'inventaire matériel informatique et mobilier \n- Participation à l'organisation d'évènements \n- Gestion des bâtiments et suivi des petits travaux en collaboration avec les deux responsables de service : suivi maintenances annuelles, recensement des besoins de petits travaux \n- Participation au classement et archivage des dossiers\n - Continuité des services en l'absence des responsables\n- Appui administratif ponctuel lors des périodes de forte activité (rentrée scolaire, inscriptions ALSH, vacances scolaires, manifestations).\nSelon profil candidat :\n- Suivi facturation ALAE + régies crèches et ALSH\n- Suivi impayés + relance familles (Ecoles-ALAE)\n- Traitement commandes fourniture d'entretien et consommables des structures\n\nSelon l'évolution d'un projet de mutualisation de services de secrétariat mutualisé avec les communes, une évolution à temps complet est potentiellement possible. (accueil, gestion du courrier, préparation des délibérations, appui aux opération comptables courantes, secrétariat de mairie)\n\n\nCompétences/exigences \n- Placé sous l'autorité des Responsables du Service Enfance Jeunesse et Ecole/ALAE\n- Connaissance du fonctionnement des collectivités territoriales\n- Notions de l'environnement scolaire, périscolaire, extrascolaire et de la petite enfance\n- Capacité rédactionnelle \n- Maîtrise des outils bureautiques\n- Accueil et renseignement des usagers\n- Organisation de son travail et gestion des priorités\n- Capacité à travailler en autonomie et en équipe\n- Adaptabilité \n- Rapidité d'exécution et efficacité\n- Qualités relationnelles\n- Discrétion professionnelle\n- Polyvalence\n       \nQualifications\nTitulaire du permis B et motorisé\nUne expérience sur un poste similaire ou mobilisant les mêmes compétences sera appréciée",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215HYCJ",
       "created": "16/10/2026"
     },
     {
@@ -280,7 +358,7 @@
     {
       "externalId": "215GYJZ",
       "title": "HÔTE (SSE)  D'ACCUEIL, RÉSERVATIONS & SECRÉTARIAT (H/F)",
-      "company": "LE CLOS DES LYS",
+      "company": "Entreprise non précisée",
       "source": "France Travail",
       "profil": "Assistanat administratif",
       "location": "66 - PERPIGNAN",
@@ -412,12 +490,12 @@
       "source": "France Travail",
       "profil": "Assistanat administratif",
       "location": "66 - Perpignan",
-      "minutes": 48,
-      "distanceKm": 30,
+      "minutes": 46,
+      "distanceKm": 29,
       "contract": "CDI",
       "salaryNet": 12,
       "hours": "Temps partiel - 20H/semaine\nTravail en journée",
-      "description": "En tant que Formateur pour les Titres Professionnels : Secrétaire Assistant, Assistant de direction.\n\nVos principales missions seront les suivantes :\n\nAnimer des sessions de formation :\nPréparer et dispenser des cours théoriques et pratiques adaptés aux programmes des titres professionnels.\nAccompagner les apprenants dans l'acquisition des compétences nécessaires à la réussite de leur certification.\nMettre en place des évaluations pour suivre la progression des étudiants.\nAssurer la liaison avec les entreprises partenaires pour suivre les périodes en entreprise et évaluer les compétences acquises.\nAccompagnement pédagogique :\nAnimer des ateliers pratiques en lien avec les métiers du secrétariat et Assistant de direction .\nAider à la mise en situation professionnelle des apprenants à travers des études de cas, des simulations, etc.\nAssurer un suivi individualisé des apprenants en veillant à leur réussite professionnelle.\nCollaboration avec l'équipe pédagogique :\nTravailler en étroite collaboration avec les autres formateurs pour assurer la cohérence pédagogique.\nParticiper aux réunions pédagogiques et contribuer à l'amélioration des programmes de formation.\nVeiller au respect des normes et des exigences réglementaires liées à la formation.\n\nUne expérience en tant que formateur ou dans un rôle similaire est un plus.\nNiveau C1 en Anglais, \nVous êtes passionné(e) par la formation et avez à cœur d'accompagner les jeunes dans leur parcours professionnel.",
+      "description": "En tant que Formateur pour les Titres Professionnels CADGA et Assistant de direction.\n\nVos principales missions seront les suivantes :\n\nAnimer des sessions de formation :\nPréparer et dispenser des cours théoriques et pratiques adaptés aux programmes des titres professionnels.\nAccompagner les apprenants dans l'acquisition des compétences nécessaires à la réussite de leur certification.\nMettre en place des évaluations pour suivre la progression des étudiants.\nAssurer la liaison avec les entreprises partenaires pour suivre les périodes en entreprise et évaluer les compétences acquises.\nAccompagnement pédagogique :\nAnimer des ateliers pratiques en lien avec les métiers du secrétariat et Assistant de direction .\nAider à la mise en situation professionnelle des apprenants à travers des études de cas, des simulations, etc.\nAssurer un suivi individualisé des apprenants en veillant à leur réussite professionnelle.\nCollaboration avec l'équipe pédagogique :\nTravailler en étroite collaboration avec les autres formateurs pour assurer la cohérence pédagogique.\nParticiper aux réunions pédagogiques et contribuer à l'amélioration des programmes de formation.\nVeiller au respect des normes et des exigences réglementaires liées à la formation.\n\nUne expérience en tant que formateur ou dans un rôle similaire est un plus.\nNiveau C1 en Anglais, \nVous êtes passionné(e) par la formation et avez à cœur d'accompagner les jeunes dans leur parcours professionnel.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215BTRB",
       "created": "12/10/2026"
     },
@@ -558,36 +636,6 @@
       "created": "05/10/2026"
     },
     {
-      "externalId": "7590951",
-      "title": "Assistant(e) administrative et commerciale (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "11 - Villepinte",
-      "contract": "Intérim - 3 Mois",
-      "salaryNet": 0,
-      "hours": "",
-      "description": "Nous recherchons un Assistant administratif et commercial polyvalent (H/F) sur Villepinte. Tu conduiras une diversité de missions commerciales et administratives, en vue de soutenir le développement de l'activité Foires et expositions. Ce poste te donnera l'opportunité de faire preuve de réactivité, d'organisation et de travailler étroitement avec notre réseau international.Tes futures missions :- Support commercial : envoi de leads au réseau Clasquin et aux agents- Contacts internationaux fréquents- Support au développement de l'activité Foires et expositions- Création et envoi de mailings et courriers commerciaux- Réalisation de diverses tâches administratives- Reporting mensuel auprès du directeur- Gestion des ouvertures de comptes clients et fournisseurs- Suivi et relances clients- Ouverture et suivi des dossiers dans Cargo Wise- Contrôle des factures fournisseurs et des rentabilités des dossiers- Gestion des litiges et des contrats intérimaires- Aide au traitement des appels d'offres avec le directeurOù : Villepinte, FrancePour combien : 36KEURType de contrat : intérim",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7590951",
-      "created": "02/10/2026"
-    },
-    {
-      "externalId": "214QXSV",
-      "title": "Secrétaire comptable",
-      "company": "LES VIGNOBLES PLAZA TEDALDI",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "11 - BADENS",
-      "minutes": 101,
-      "distanceKm": 64,
-      "contract": "CDI",
-      "salaryNet": 0,
-      "hours": "Temps partiel - 20H/semaine\nTravail en horaires fixes",
-      "description": "Vous interviendrez comme secrétaire comptable dans un domaine viticole qui est aussi tourné vers l'œnotourisme et donc loue des gites et des chambres d'hôtes. Vous aurez à effectuer toute les taches de saisie comptable : achats, ventes, relevé bancaires. Mais aussi les bulletins de paie.\n\nVous devrez aussi répondre au téléphone, surveiller les mails entrants et répondre aux mails les plus urgents.\nCe poste peut convenir à un senior.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214QXSV",
-      "created": "01/10/2026"
-    },
-    {
       "externalId": "7556171",
       "title": "ADJOINT PEM/GEM - H/F",
       "company": "Entreprise non précisée",
@@ -614,6 +662,22 @@
       "description": "Description :\n\n\nConsultations PMC - Hospitalisations 3ème étage\n\nMissions annexes / spécifiques (non exhaustives)\n Accueil des patients des consultations,\n Saisie des consultations et actes externes,\n Prise des rendez-vous pour la Cardiologie - plateau technique, Néphrologie,\n Gestion des messages des patients de Cardiologie et de Néphrologie,\n Gestion des messages médicaux de Cardiologie et de Néphrologie,\n Gestion des Bons de consultations interservices (distribution et saisie).\n\n \n\nDescription des taches de selon les postes (non exhaustives)\nSECRETARIAT :\n Relecture et correction des courriers de consultation et/ou hospitalisation en renfort des services : HDS ; HDJ ; Cardiologie ; USIC ; UHCI ; Néphrologie,\n Gestion des consultations pour les spécialités de Cardiologie et de Néphrologie - Prise des rendez-vous planning des consultations médicales de Cardiologie et de Néphrologie,\n Prise des rendez-vous du plateau technique de Cardiologie (Holter ; épreuve d'effort, écho de stress,.),\n Tableau de bord informatique des médecins avec impression des courriers validés électroniquement et envois aux destinataires concernés,\n Relecture et correction des courriers de sortie des patients des services : HDS ; HDJ ; Cardiologie ; USIC ; UHCI ; Néphrologie,\n Prise des messages pour les médecins (demandes de RDV urgents, ordonnances, communication de résultats),\n Réceptionne et distribue les courriers extérieurs et Bons 2C' (Médecins ; technicienne Holter, ETO, ETT,..).\n Saisie les consultations et actes externes et interservices (Bons 2C'),\n Répond aux demandes des médecins (RDV urgents, documents à renvoyer, services à joindre.),\n Gestion des tableaux des gardes médicales Cardiologie et Néphrologie,\n Gestion des dossiers hospitaliers,\n Lien avec les unités de Cardiologie, Néphrologie pour la sortie des patients,\n Distribution des dossiers médicaux dans les bureaux des médecins lorsque les courriers sont en attente de dictée.\n\nConditions d'exercice\nRythme de travail :\nJOUR  Amplitude : 7 H 40 du lundi au vendredi.\nHoraires consultations : 08h50-16h30 ou 09h00-17h40\nHoraires hospitalisations : 09h00-16h40 ou 09h20-17h00\n Polyvalence sur l'ensemble des postes des services (prise de rdv, accueil, frappe des CR, registres.) ; roulement.\nExigences relationnelles :\n- Discrétion,\n- Ecoute et disponibilité,\n- Réactivité,\n- Travail en équipe,\n- Polyvalence,\n- Adaptabilité,\nLogiciels utilisés :\n- HOPITAL MANAGER,\n- WORD,\n- EXCEL,\n- Outlook,\n- Internet et Intranet.\n\n \n\nLIENS FONCTIONNELS \n\nINTERNES\n- Chef de pôle,\n- Chefs des Unités Médicales d'Activité,\n- Praticiens hospitaliers des Unités Médicales d'Activité,\n- Cadres de santé,\n- Médecins Responsables des UMA,\n- AMA référentes de pôle (coordination),\n- Personnel.\n\nEXTERNES\n- Secrétariats médicaux du Centre Hospitalier,\n- Personnel médical, paramédical et administratif du CH,\n- Médecins et secrétaires extra hospitaliers,\n- Usagers externes.\n\n \n\nLIENS HIERARCHIQUES \n\nHIERARCHIE ADMINISTRATIVE\n- Direction des Ressources Humaines,\n- AAH - Responsable des secrétariats médicaux,\n- AMA référente de pôle (coordination).\n\n HIERARCHIE FONCTIONNELLE\n- Chef de Pôle,\n- Chef d'UMA,\n- Praticiens hospitaliers du service,\n- Cadre supérieur de Santé co-gestionnaire de pôle,\n- Cadre de Santé du service.\n\n  \n  \nProfil recherché :\n  \n  \nProfil\nPré requis obligatoires :\n Aisance à la saisie des comptes rendus,\n Maîtrise de la terminologie médicale,\n Savoir-être.\nPré requis souhaités\n Compétences techniques :\n- Maîtrise des outils informatiques, facilités d'adaptation aux nouvelles techniques,\n- Maîtrise de la fonction d'accueil,\n Connaissances associées : législation et réglementation de l'assurance maladie, droits du patient hospitalisé.\n Compétences sociales :\n- Travail en équipe,\n- Transmission de l'information,\n-Coordination avec les équipes médicales et soignantes pour la prise en charge globale du patient.\n Compétences organisationnelles :\n- Facilités d'adaptation à la polyvalence,\n- Facilités d'adaptation aux nouvelles techniques organisationnelles.\n",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7430783",
       "created": "26/09/2026"
+    },
+    {
+      "externalId": "214KMQX",
+      "title": "Attaché administratif comptable (H/F)",
+      "company": "APAJH AUDE",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "11 - CARCASSONNE",
+      "minutes": 102,
+      "distanceKm": 65,
+      "contract": "CDI",
+      "salaryNet": 2257,
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "L'attaché administratif effectue des tâches complexes dans le domaine administratif impliquant l'analyse, la synthèse et l'exploitation des informations liées à l'un des services de l'entreprise.\nPrincipales missions : \n'- Révision des comptabilités des établissements\n- Production des rapports annuels et annexes (bilans, comptes de résultats, suivi budgétaire):  rapport d'activité / ERRD/EPRD et PPI de son périmètre;\n- Clôture des exercices et états de fin d'année\n- Suivi et point tableau de bord trimestriel, tableau de bord ANAP\n- Lettrage des comptes\n- Supervision des processus comptables complexes (multi-sites)\n- Appui et conseil aux directeurs en matière de comptabilité, finances, fiscalité, subventions : relation directe avec la direction des établissements\n- Veille au respect des échéances et réalisation des déclarations administratives et fiscales\n- Mise en œuvre d'une organisation de maîtrise des coûts et d'amélioration continue",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214KMQX",
+      "created": "25/09/2026"
     },
     {
       "externalId": "214HMZV",
