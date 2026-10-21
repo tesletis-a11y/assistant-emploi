@@ -1,6 +1,6 @@
 {
-  "communeInsee": "66230",
-  "distanceKm": 70,
+  "communeInsee": "66320",
+  "distanceKm": 40,
   "typesContrat": ["CDD", "MIS", "CDI"],
   "profils": [
     { "nom": "Recouvrement / contentieux", "motsCles": "recouvrement" },
