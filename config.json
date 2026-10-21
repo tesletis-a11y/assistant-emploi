@@ -1,0 +1,15 @@
+{
+  "communeInsee": "66230",
+  "distanceKm": 70,
+  "typesContrat": ["CDD", "MIS", "CDI"],
+  "profils": [
+    { "nom": "Recouvrement / contentieux", "motsCles": "recouvrement" },
+    { "nom": "Contentieux / juridique", "motsCles": "contentieux" },
+    { "nom": "Gestion administrative", "motsCles": "gestionnaire administratif" },
+    { "nom": "Banque / back-office", "motsCles": "back-office" },
+    { "nom": "Organismes sociaux (CAF, CPAM...)", "motsCles": "gestionnaire prestations" },
+    { "nom": "Assistanat administratif", "motsCles": "assistant administratif" },
+    { "nom": "Secrétariat", "motsCles": "secrétaire" },
+    { "nom": "Agent administratif", "motsCles": "agent administratif" }
+  ]
+}
