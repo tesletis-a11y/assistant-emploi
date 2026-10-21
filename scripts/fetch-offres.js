@@ -1,78 +1,95 @@
 /**
  * fetch-offres.js
  * ------------------------------------------------------------
- * Se connecte à l'API officielle "Offres d'emploi" de France Travail
- * (ex Pôle emploi), lance plusieurs recherches selon les profils de
- * métiers voulus, et écrit le résultat dans offres.json à la racine
- * du projet. Ce fichier est ensuite lu automatiquement par index.html.
+ * Se connecte à l'API officielle "Offres d'emploi" de France Travail,
+ * lance les recherches décrites dans config.json (à la racine du projet)
+ * et écrit le résultat dans offres.json, lu ensuite par index.html.
  *
- * Ce script est fait pour être exécuté :
- *   - soit automatiquement chaque jour par GitHub Actions (voir
- *     .github/workflows/sync-offres.yml)
- *   - soit à la main sur ton ordinateur si tu as Node.js installé :
- *       FT_CLIENT_ID=xxx FT_CLIENT_SECRET=yyy node scripts/fetch-offres.js
+ * Tes critères de recherche (ville, rayon, contrats, mots-clés) se
+ * modifient dans config.json, depuis la page "Collecte" de l'appli :
+ * pas besoin de toucher à ce fichier.
  *
- * Il n'expose JAMAIS le client_secret au navigateur : ce script tourne
- * côté serveur (GitHub Actions ou ta machine), jamais dans la page web.
+ * Exécuté chaque jour par GitHub Actions, et aussi à chaque modification
+ * de config.json. Le client_secret n'est jamais exposé au navigateur.
  * ------------------------------------------------------------
  */
 
-import { writeFile } from "node:fs/promises";
+import { readFile, writeFile } from "node:fs/promises";
 
-// ---------- CONFIGURATION (à adapter si besoin) ----------
-
-// Identifiants de l'application francetravail.io — jamais écrits en dur ici,
-// toujours fournis via variables d'environnement / secrets.
+// Identifiants de l'application francetravail.io : fournis par les secrets GitHub.
 const CLIENT_ID = process.env.FT_CLIENT_ID;
 const CLIENT_SECRET = process.env.FT_CLIENT_SECRET;
 
-// Code INSEE de la commune de référence (Vinça = 66230). Change-le si besoin.
-const COMMUNE_INSEE = process.env.FT_COMMUNE || "66230";
-
-// Rayon de recherche en kilomètres autour de la commune. Après une semaine
-// de test, un rayon de 50 km ne remontait quasiment aucune offre nouvelle
-// dans ce bassin d'emploi rural : on élargit à 70 km. Le score de l'appli
-// pénalise déjà fortement les trajets longs, donc élargir ici ne pollue pas
-// tes résultats — ça donne juste plus de matière au moteur de tri.
-const DISTANCE_KM = Number(process.env.FT_DISTANCE_KM || 70);
-
-// Coordonnées de Vinça, utilisées uniquement pour estimer un temps de
-// trajet approximatif (pas fourni tel quel par l'API).
+// Coordonnées de Vinça, utilisées uniquement pour estimer un temps de trajet
+// approximatif depuis ton domicile (pas fourni tel quel par l'API).
 const ORIGIN = { lat: 42.6461, lon: 2.5294 };
 
-// Vitesse moyenne supposée pour convertir une distance à vol d'oiseau en
-// une estimation de temps de trajet. En zone de montagne/rurale (comme
-// les Pyrénées-Orientales), les routes sont plus sinueuses et lentes qu'en
-// plaine : on part sur une vitesse basse par défaut pour ne pas sous-estimer
-// le trajet réel. Ajuste selon ton expérience concrète des routes locales.
+// Vitesse moyenne supposée pour convertir une distance à vol d'oiseau en minutes.
 const AVG_SPEED_KMH = Number(process.env.FT_AVG_SPEED_KMH || 38);
 
-// Types de contrats recherchés (codes France Travail) :
-// CDI, CDD, MIS (intérim), SAI (saisonnier), LIB (libéral), etc.
-const TYPES_CONTRAT = (process.env.FT_TYPES_CONTRAT || "CDD,MIS,CDI").split(",");
-
-// Profils de recherche : mots-clés courts (1-2 mots), correspondant à tes
-// priorités. Plus il y a de mots dans motsCles, plus la recherche devient
-// stricte (l'offre doit contenir TOUS les mots) — mieux vaut rester large
-// ici et laisser le scoring de l'appli affiner ensuite. Après une semaine
-// à 0 nouvelle offre/jour avec 4 profils très ciblés, la liste est élargie :
-// plus de profils = plus de chances de capter une offre pertinente chaque
-// jour, sans risque de pollution puisque le scoring trie tout ensuite.
-const PROFILES = [
-  { name: "Recouvrement / contentieux", motsCles: "recouvrement" },
-  { name: "Contentieux / juridique", motsCles: "contentieux" },
-  { name: "Gestion administrative", motsCles: "gestionnaire administratif" },
-  { name: "Banque / back-office", motsCles: "back-office" },
-  { name: "Organismes sociaux (CAF, CPAM...)", motsCles: "gestionnaire prestations" },
-  { name: "Assistanat administratif", motsCles: "assistant administratif" },
-  { name: "Secrétariat", motsCles: "secrétaire" },
-  { name: "Agent administratif", motsCles: "agent administratif" },
-];
+// Valeurs utilisées si config.json est absent.
+const DEFAULT_CONFIG = {
+  communeInsee: "66230",
+  distanceKm: 70,
+  typesContrat: ["CDD", "MIS", "CDI"],
+  profils: [
+    { nom: "Recouvrement / contentieux", motsCles: "recouvrement" },
+    { nom: "Contentieux / juridique", motsCles: "contentieux" },
+    { nom: "Gestion administrative", motsCles: "gestionnaire administratif" },
+    { nom: "Banque / back-office", motsCles: "back-office" },
+    { nom: "Organismes sociaux (CAF, CPAM...)", motsCles: "gestionnaire prestations" },
+    { nom: "Assistanat administratif", motsCles: "assistant administratif" },
+    { nom: "Secrétariat", motsCles: "secrétaire" },
+    { nom: "Agent administratif", motsCles: "agent administratif" },
+  ],
+};
+const CONTRATS_AUTORISES = ["CDI", "CDD", "MIS"];
 
 const TOKEN_URL =
   "https://entreprise.francetravail.fr/connexion/oauth2/access_token?realm=/partenaire";
 const SEARCH_URL = "https://api.francetravail.io/partenaire/offresdemploi/v2/offres/search";
 const SCOPE = "api_offresdemploiv2 o2dsoffre";
+
+// ---------- CONFIGURATION ----------
+
+async function loadConfig() {
+  let fromFile = {};
+  try {
+    fromFile = JSON.parse(await readFile(new URL("../config.json", import.meta.url), "utf-8"));
+    console.log("config.json chargé.");
+  } catch (e) {
+    if (e.code === "ENOENT") console.log("config.json absent : valeurs par défaut utilisées.");
+    else throw new Error(`config.json est illisible (erreur de syntaxe ?) : ${e.message}`);
+  }
+  const cfg = { ...DEFAULT_CONFIG, ...fromFile };
+
+  if (!/^(\d{5}|2[AB]\d{3})$/i.test(String(cfg.communeInsee))) {
+    throw new Error(`config.json : "communeInsee" doit être un code INSEE à 5 chiffres (reçu : ${cfg.communeInsee}).`);
+  }
+  cfg.distanceKm = Number(cfg.distanceKm);
+  if (!(cfg.distanceKm > 0 && cfg.distanceKm <= 200)) {
+    throw new Error(`config.json : "distanceKm" doit être compris entre 1 et 200 (reçu : ${cfg.distanceKm}).`);
+  }
+  if (!Array.isArray(cfg.typesContrat) || cfg.typesContrat.length === 0) {
+    throw new Error('config.json : "typesContrat" doit contenir au moins un contrat (CDI, CDD, MIS).');
+  }
+  cfg.typesContrat = cfg.typesContrat.map((t) => String(t).toUpperCase());
+  for (const t of cfg.typesContrat) {
+    if (!CONTRATS_AUTORISES.includes(t)) {
+      throw new Error(`config.json : contrat "${t}" inconnu (valeurs possibles : ${CONTRATS_AUTORISES.join(", ")}).`);
+    }
+  }
+  if (!Array.isArray(cfg.profils) || cfg.profils.length === 0) {
+    throw new Error('config.json : "profils" doit contenir au moins une recherche.');
+  }
+  cfg.profils = cfg.profils.map((p, i) => {
+    const nom = String(p?.nom ?? "").trim();
+    const motsCles = String(p?.motsCles ?? "").trim();
+    if (!nom || !motsCles) throw new Error(`config.json : la recherche n°${i + 1} doit avoir un "nom" et des "motsCles".`);
+    return { nom, motsCles };
+  });
+  return cfg;
+}
 
 // ---------- FONCTIONS ----------
 
@@ -100,29 +117,25 @@ async function getAccessToken() {
   return data.access_token;
 }
 
-async function searchOffers(token, profile) {
+async function searchOffers(token, profil, cfg) {
   const params = new URLSearchParams({
-    motsCles: profile.motsCles,
-    commune: COMMUNE_INSEE,
-    distance: String(DISTANCE_KM),
-    typeContrat: TYPES_CONTRAT.join(","),
+    motsCles: profil.motsCles,
+    commune: cfg.communeInsee,
+    distance: String(cfg.distanceKm),
+    typeContrat: cfg.typesContrat.join(","),
     sort: "1", // tri par date de création décroissante
   });
   const res = await fetch(`${SEARCH_URL}?${params.toString()}`, {
     headers: { Authorization: `Bearer ${token}`, Accept: "application/json" },
   });
-  // L'API répond :
-  //  200/206 = résultats trouvés (206 si pagination partielle)
-  //  204     = recherche réussie mais aucune offre ne correspond (normal, pas une erreur)
-  if (res.status === 204) {
-    return [];
-  }
+  // 200/206 = résultats ; 204 = aucune offre ne correspond (normal, pas une erreur)
+  if (res.status === 204) return [];
   if (res.status !== 200 && res.status !== 206) {
-    console.error(`⚠️ Recherche "${profile.name}" a échoué : ${res.status} ${await res.text()}`);
+    console.error(`⚠️ Recherche "${profil.nom}" a échoué : ${res.status} ${await res.text()}`);
     return [];
   }
   const data = await res.json();
-  return (data.resultats || []).map((o) => normalizeOffer(o, profile.name));
+  return (data.resultats || []).map((o) => normalizeOffer(o, profil.nom));
 }
 
 function haversineKm(lat1, lon1, lat2, lon2) {
@@ -135,12 +148,34 @@ function haversineKm(lat1, lon1, lat2, lon2) {
   return R * 2 * Math.atan2(Math.sqrt(a), Math.sqrt(1 - a));
 }
 
-function extractSalaryNet(salaireLibelle) {
-  if (!salaireLibelle) return 0;
-  // Cherche le plus petit nombre mentionné (ex: "Mensuel de 1800.0 Euros à 2000.0 Euros")
-  const nums = salaireLibelle.match(/\d+([.,]\d+)?/g);
-  if (!nums) return 0;
-  return Math.round(parseFloat(nums[0].replace(",", ".")));
+/**
+ * Lit le libellé de salaire France Travail (ex. "Mensuel de 1800.0 Euros à
+ * 2000.0 Euros sur 12.0 mois", "Annuel de 28000 Euros", "Horaire de 12.5 Euros")
+ * et le convertit en BRUT MENSUEL ÉQUIVALENT SUR 12 MOIS, temps plein.
+ * Renvoie {} si le libellé n'est pas exploitable.
+ */
+export function parseSalary(libelle) {
+  if (!libelle) return {};
+  const raw = String(libelle).trim();
+  const num = (s) => parseFloat(String(s).replace(/\s/g, "").replace(",", "."));
+  const m = raw.match(
+    /(mensuel|annuel|horaire)\s+de\s+([\d\s.,]+?)\s*(?:euros?|€)(?:\s+à\s+([\d\s.,]+?)\s*(?:euros?|€))?(?:\s+sur\s+([\d.,]+)\s*mois)?/i
+  );
+  if (!m) return { salaryRaw: raw };
+  const type = m[1].toLowerCase();
+  const a = num(m[2]);
+  const b = m[3] ? num(m[3]) : a;
+  const months = m[4] ? num(m[4]) : 12;
+  if (!isFinite(a) || !isFinite(b)) return { salaryRaw: raw };
+  const conv = (v) => {
+    if (type === "mensuel") return (v * months) / 12;
+    if (type === "annuel") return v / 12;
+    return v * 151.67; // horaire, 35 h/semaine
+  };
+  const lo = Math.round(Math.min(conv(a), conv(b)));
+  const hi = Math.round(Math.max(conv(a), conv(b)));
+  if (lo < 500 || hi > 20000) return { salaryRaw: raw }; // valeur improbable : on ignore
+  return { salaryMinBrut: lo, salaryMaxBrut: hi, salaryRaw: raw };
 }
 
 function normalizeOffer(o, profileName) {
@@ -162,7 +197,7 @@ function normalizeOffer(o, profileName) {
     minutes,
     distanceKm,
     contract: o.typeContratLibelle || o.typeContrat || "",
-    salaryNet: extractSalaryNet(o.salaire?.libelle) || 0,
+    ...parseSalary(o.salaire?.libelle),
     hours: o.dureeTravailLibelle || "",
     description: o.description || "",
     url: o.origineOffre?.urlOrigine || `https://candidat.francetravail.fr/offres/recherche/detail/${o.id}`,
@@ -179,13 +214,17 @@ function dedupe(offers) {
 }
 
 async function main() {
+  const cfg = await loadConfig();
+  console.log(
+    `Critères : commune ${cfg.communeInsee}, rayon ${cfg.distanceKm} km, contrats ${cfg.typesContrat.join("/")}, ${cfg.profils.length} recherche(s).`
+  );
   console.log("Authentification à France Travail…");
   const token = await getAccessToken();
 
   let all = [];
-  for (const profile of PROFILES) {
-    console.log(`Recherche : ${profile.name}`);
-    const results = await searchOffers(token, profile);
+  for (const profil of cfg.profils) {
+    console.log(`Recherche : ${profil.nom} (${profil.motsCles})`);
+    const results = await searchOffers(token, profil, cfg);
     console.log(`  → ${results.length} offre(s) trouvée(s)`);
     all = all.concat(results);
     // Respecte le quota de l'API (max 4 appels/seconde/application).
@@ -196,8 +235,12 @@ async function main() {
   const output = {
     generatedAt: new Date().toISOString(),
     source: "France Travail (API officielle)",
-    communeInsee: COMMUNE_INSEE,
-    distanceKm: DISTANCE_KM,
+    configUsed: {
+      communeInsee: cfg.communeInsee,
+      distanceKm: cfg.distanceKm,
+      typesContrat: cfg.typesContrat,
+      profils: cfg.profils.map((p) => `${p.nom} (${p.motsCles})`),
+    },
     count: offres.length,
     offres,
   };
@@ -206,7 +249,10 @@ async function main() {
   console.log(`✅ ${offres.length} offre(s) unique(s) écrite(s) dans offres.json`);
 }
 
-main().catch((err) => {
-  console.error("❌ Erreur :", err.message);
-  process.exit(1);
-});
+// Ne lance la collecte que si le fichier est exécuté directement (pas lors d'un import de test).
+if (import.meta.url === new URL(process.argv[1], "file://").href) {
+  main().catch((err) => {
+    console.error("❌ Erreur :", err.message);
+    process.exit(1);
+  });
+}
