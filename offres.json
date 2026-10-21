@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T08:21:56.723Z",
+  "generatedAt": "2026-10-21T08:28:04.203Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66320",
@@ -17,7 +17,9 @@
       "Organismes sociaux (CAF, CPAM...) (gestionnaire prestations)",
       "Assistanat administratif (assistant administratif)",
       "Secrétariat (secrétaire)",
-      "Agent administratif (agent administratif)"
+      "Agent administratif (agent administratif)",
+      "Gestionnaire de créances (Gestionnaire de créances)",
+      "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
   "count": 0,
