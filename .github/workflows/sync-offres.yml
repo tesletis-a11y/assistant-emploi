@@ -4,8 +4,12 @@ on:
   schedule:
     # Tous les jours à 06:00 UTC (≈ 07:00 ou 08:00 heure française selon la saison)
     - cron: "0 6 * * *"
+  # Se relance aussi toute seule quand tu modifies tes critères de recherche
+  push:
+    paths:
+      - "config.json"
+  # Permet aussi de lancer la synchro à la main depuis l'onglet "Actions" de GitHub
   workflow_dispatch: {}
-    # Permet aussi de lancer la synchro à la main depuis l'onglet "Actions" de GitHub
 
 permissions:
   contents: write
@@ -34,4 +38,5 @@ jobs:
           git config user.email "actions@users.noreply.github.com"
           git add offres.json
           git diff --staged --quiet || git commit -m "Synchronisation automatique des offres ($(date -u +%Y-%m-%d))"
+          git pull --rebase
           git push
