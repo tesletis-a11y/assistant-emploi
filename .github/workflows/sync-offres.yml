@@ -2,8 +2,11 @@ name: Synchronisation quotidienne France Travail
 
 on:
   schedule:
-    # Tous les jours à 06:00 UTC (≈ 07:00 ou 08:00 heure française selon la saison)
-    - cron: "0 6 * * *"
+    # Deux passages par jour, à des minutes "creuses" : GitHub retarde ou supprime
+    # parfois les passages programmés, surtout pile à l'heure. Heures en UTC :
+    # 05:23 = 06:23 ou 07:23 en France, 09:17 = 10:17 ou 11:17.
+    - cron: "23 5 * * *"
+    - cron: "17 9 * * *"
   # Se relance aussi toute seule quand tu modifies tes critères de recherche
   push:
     paths:
