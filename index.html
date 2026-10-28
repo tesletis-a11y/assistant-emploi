@@ -116,7 +116,7 @@ let cfgDraft=JSON.parse(JSON.stringify(defaultSearchCfg)),cfgLoaded=false;
 async function loadConfig(){try{const r=await fetch('./config.json',{cache:'no-store'});if(r.ok){const c=await r.json();cfgDraft={...defaultSearchCfg,...c};cfgLoaded=true}}catch(e){console.warn('config.json indisponible :',e.message)}if(state.page==='collector')render()}
 function cfgClean(){return{communeInsee:String(cfgDraft.communeInsee||'').trim(),distanceKm:Number(cfgDraft.distanceKm),typesContrat:cfgDraft.typesContrat,profils:cfgDraft.profils.map(p=>({nom:(p.nom||'').trim(),motsCles:(p.motsCles||'').trim()}))}}
 function cfgJson(){return JSON.stringify(cfgClean(),null,2)}
-function cfgErrors(){const c=cfgClean(),e=[];if(!/^(\d{5}|2[AB]\d{3})$/i.test(c.communeInsee))e.push('Le code INSEE doit avoir 5 chiffres (Vinça : 66230).');if(!(c.distanceKm>0&&c.distanceKm<=200))e.push('Le rayon doit être compris entre 1 et 200 km.');if(!c.typesContrat.length)e.push('Coche au moins un type de contrat.');if(!c.profils.length)e.push('Ajoute au moins une recherche.');c.profils.forEach((p,i)=>{if(!p.nom||!p.motsCles)e.push('La recherche n°'+(i+1)+' doit avoir un nom et des mots-clés.')});return e}
+function cfgErrors(){const c=cfgClean(),e=[];if(communeBad)e.push("Le code de la commune n'est pas un code INSEE connu (code postal ?).");if(!/^(\d{5}|2[AB]\d{3})$/i.test(c.communeInsee))e.push('Le code INSEE doit avoir 5 chiffres (Vinça : 66230).');if(!(c.distanceKm>0&&c.distanceKm<=200))e.push('Le rayon doit être compris entre 1 et 200 km.');if(!c.typesContrat.length)e.push('Coche au moins un type de contrat.');if(!c.profils.length)e.push('Ajoute au moins une recherche.');c.profils.forEach((p,i)=>{if(!p.nom||!p.motsCles)e.push('La recherche n°'+(i+1)+' doit avoir un nom et des mots-clés.')});return e}
 function refreshCfgOut(){const el=document.getElementById('cfgOut');if(el)el.value=cfgJson()}
 function setCfg(k,v){cfgDraft[k]=v;refreshCfgOut()}
 function setProfil(i,k,v){cfgDraft.profils[i][k]=v;refreshCfgOut()}
@@ -131,15 +131,29 @@ function syncBlock(){const a=state.lastSync?(Date.now()-new Date(state.lastSync)
  const warn=a!==null&&a>30?`<p style="color:#b45309"><strong>⚠️ La dernière synchronisation date de ${Math.round(a)} h.</strong> Le passage automatique de GitHub a probablement été retardé ou sauté. Lance-la à la main avec le lien ci-dessous.</p>`:'';
  const link=rb?`<p class="muted"><a href="${rb}/actions/workflows/sync-offres.yml" target="_blank" rel="noopener">▶️ Ouvrir la page de synchronisation GitHub</a>, puis « Run workflow » (environ une minute, ensuite recharge cette page).</p>`:'';
  return warn+link}
+let communeBad=false,communeTimer=null;
+function checkCommune(v){
+ clearTimeout(communeTimer);communeBad=false;
+ const set=(t,c)=>{const el=document.getElementById('communeInfo');if(el){el.textContent=t;el.style.color=c||''}};
+ v=String(v||'').trim();set('');
+ if(!/^(\d{5}|2[AB]\d{3})$/i.test(v))return;
+ communeTimer=setTimeout(async()=>{
+  try{
+   const r=await fetch('https://geo.api.gouv.fr/communes/'+encodeURIComponent(v)+'?fields=nom,code');
+   if(r.status===404){communeBad=true;set(" ⚠️ Ce code n'existe pas comme code INSEE : c'est peut-être un code postal.",'#b45309')}
+   else if(r.ok){const c=await r.json();set(' ✅ '+c.nom)}
+  }catch(e){}
+ },400)
+}
 function cfgView(){
  const c=cfgDraft,u=ghUrl(),L=state.lastConfig;
  const used=L?`Réglages appliqués lors de la dernière collecte : commune ${esc(String(L.communeInsee))}, rayon ${esc(String(L.distanceKm))} km, contrats ${esc((L.typesContrat||[]).join('/'))}, ${(L.profils||[]).length} recherche(s).`:'';
  return `<h2 class="section-title">🎯 Mes critères de recherche</h2>
  <div class="card"><p class="muted">Ces réglages décident quelles offres sont récupérées chaque jour sur France Travail. Modifie-les ici, puis applique-les avec les 3 étapes plus bas.</p>
  ${used?`<p class="muted">${used}</p>`:''}
- <div class="two"><label>Ville de référence (code INSEE)<input value="${esc(String(c.communeInsee))}" oninput="setCfg('communeInsee',this.value)"></label>
+ <div class="two"><label>Ville de référence (code INSEE, pas le code postal)<input value="${esc(String(c.communeInsee))}" oninput="setCfg('communeInsee',this.value);checkCommune(this.value)"><span id="communeInfo" class="muted"></span></label>
  <label>Rayon de recherche (km)<input type="number" min="1" max="200" value="${esc(String(c.distanceKm))}" oninput="setCfg('distanceKm',this.value)"></label></div>
- <p class="muted">Vinça = 66230. Pour une autre ville, cherche « code INSEE » suivi de son nom.</p>
+ <p class="muted">Vinça : code INSEE 66230 (son code postal, 66320, ne convient pas). Pour une autre ville, cherche « code INSEE » suivi de son nom.</p>
  <h3>Types de contrat</h3><div class="row">${[['CDI','CDI'],['CDD','CDD'],['MIS','Intérim']].map(([k,l])=>`<label><input type="checkbox" ${c.typesContrat.includes(k)?'checked':''} onchange="toggleContrat('${k}',this.checked)"> ${l}</label>`).join('')}</div>
  <h3>Recherches (1 à 2 mots-clés chacune)</h3>
  <p class="muted">Plus il y a de mots dans une recherche, moins elle remonte d'offres (l'offre doit tous les contenir). Mieux vaut plusieurs recherches courtes qu'une longue.</p>
@@ -415,6 +429,7 @@ function render(){
  nav();const app=document.getElementById('app');
  app.innerHTML=state.page==='home'?home():state.page==='offers'?offers():state.page==='saved'?saved():state.page==='apps'?apps():state.page==='sources'?sourcePanel():state.page==='collector'?collector():profile();
  if(state.page==='offers')renderOffers();
+ if(state.page==='collector')checkCommune(cfgDraft.communeInsee);
 }
 async function loadAutoOffers(){
  try{
