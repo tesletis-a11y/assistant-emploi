@@ -125,17 +125,61 @@ async function searchOffers(token, profil, cfg) {
     typeContrat: cfg.typesContrat.join(","),
     sort: "1", // tri par date de création décroissante
   });
-  const res = await fetch(`${SEARCH_URL}?${params.toString()}`, {
-    headers: { Authorization: `Bearer ${token}`, Accept: "application/json" },
-  });
+  let res;
+  try {
+    res = await fetch(`${SEARCH_URL}?${params.toString()}`, {
+      headers: { Authorization: `Bearer ${token}`, Accept: "application/json" },
+    });
+  } catch (e) {
+    console.error(`⚠️ Recherche "${profil.nom}" impossible (réseau) : ${e.message}`);
+    return { offers: [], failed: true };
+  }
   // 200/206 = résultats ; 204 = aucune offre ne correspond (normal, pas une erreur)
-  if (res.status === 204) return [];
+  if (res.status === 204) return { offers: [], failed: false };
   if (res.status !== 200 && res.status !== 206) {
     console.error(`⚠️ Recherche "${profil.nom}" a échoué : ${res.status} ${await res.text()}`);
-    return [];
+    return { offers: [], failed: true };
   }
   const data = await res.json();
-  return (data.resultats || []).map((o) => normalizeOffer(o, profil.nom));
+  return { offers: (data.resultats || []).map((o) => normalizeOffer(o, profil.nom)), failed: false };
+}
+
+/**
+ * Vérifie que le code saisi est bien un code INSEE de commune (et pas un code postal),
+ * grâce à l'API officielle geo.api.gouv.fr. Si ce service est injoignable, on continue.
+ */
+class ConfigError extends Error {}
+async function checkCommune(cfg) {
+  const base = "https://geo.api.gouv.fr/communes";
+  try {
+    const res = await fetch(`${base}/${encodeURIComponent(cfg.communeInsee)}?fields=nom,code`);
+    if (res.status === 404) {
+      let hint = "";
+      try {
+        const r2 = await fetch(`${base}?codePostal=${encodeURIComponent(cfg.communeInsee)}&fields=nom,code`);
+        if (r2.ok) {
+          const list = await r2.json();
+          if (Array.isArray(list) && list.length) {
+            hint = ` ${cfg.communeInsee} est un code postal. Code(s) INSEE correspondant(s) : ${list
+              .map((c) => `${c.code} (${c.nom})`)
+              .join(", ")}.`;
+          }
+        }
+      } catch (_) {}
+      throw new ConfigError(
+        `config.json : "${cfg.communeInsee}" n'existe pas comme code INSEE de commune.${hint} Il faut le code INSEE, pas le code postal.`
+      );
+    }
+    if (!res.ok) {
+      console.warn(`⚠️ Vérification du code commune impossible (geo.api.gouv.fr : ${res.status}), on continue.`);
+      return;
+    }
+    const c = await res.json();
+    console.log(`Commune de référence : ${c.nom} (INSEE ${c.code}).`);
+  } catch (e) {
+    if (e instanceof ConfigError) throw e;
+    console.warn(`⚠️ Vérification du code commune impossible (${e.message}), on continue.`);
+  }
 }
 
 function haversineKm(lat1, lon1, lat2, lon2) {
@@ -218,18 +262,30 @@ async function main() {
   console.log(
     `Critères : commune ${cfg.communeInsee}, rayon ${cfg.distanceKm} km, contrats ${cfg.typesContrat.join("/")}, ${cfg.profils.length} recherche(s).`
   );
+  await checkCommune(cfg);
   console.log("Authentification à France Travail…");
   const token = await getAccessToken();
 
   let all = [];
+  let failed = 0;
   for (const profil of cfg.profils) {
     console.log(`Recherche : ${profil.nom} (${profil.motsCles})`);
-    const results = await searchOffers(token, profil, cfg);
-    console.log(`  → ${results.length} offre(s) trouvée(s)`);
-    all = all.concat(results);
+    const r = await searchOffers(token, profil, cfg);
+    console.log(`  → ${r.offers.length} offre(s) trouvée(s)${r.failed ? " (recherche en échec)" : ""}`);
+    if (r.failed) failed++;
+    all = all.concat(r.offers);
     // Respecte le quota de l'API (max 4 appels/seconde/application).
-    await new Promise((r) => setTimeout(r, 400));
+    await new Promise((r2) => setTimeout(r2, 400));
   }
+
+  // Si TOUTES les recherches ont échoué, on s'arrête en erreur sans toucher à offres.json
+  // (sinon un fichier vide remplacerait les offres existantes sans que personne ne le voie).
+  if (failed === cfg.profils.length) {
+    throw new Error(
+      `Les ${failed} recherche(s) ont échoué : offres.json n'a pas été modifié. Voir les messages ci-dessus (critères de config.json ?).`
+    );
+  }
+  if (failed > 0) console.warn(`⚠️ ${failed} recherche(s) sur ${cfg.profils.length} en échec : résultats partiels.`);
 
   const offres = dedupe(all);
   const output = {
