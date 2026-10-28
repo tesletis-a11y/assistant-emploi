@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T11:25:55.049Z",
+  "generatedAt": "2026-10-28T16:04:32.222Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -182,8 +182,8 @@
       "source": "France Travail",
       "profil": "Assistanat administratif",
       "location": "66 - Perpignan",
-      "minutes": 46,
-      "distanceKm": 29,
+      "minutes": 48,
+      "distanceKm": 31,
       "contract": "CDD - 6 Mois",
       "salaryMinBrut": 1867,
       "salaryMaxBrut": 1867,
