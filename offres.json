@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T10:58:40.950Z",
+  "generatedAt": "2026-10-31T15:21:10.138Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 25,
+  "count": 26,
   "offres": [
     {
       "externalId": "214YYCH",
@@ -101,6 +101,19 @@
       "hours": "",
       "description": "Description du poste :\n\nAssistant Qualité (H/F)\n\nNotre agence de recrutement accompagne l'un de ses clients dans la recherche d'un(e) Assistant(e) Qualité . Vous intégrerez le service qualité afin d'épauler le Responsable Qualité dans le suivi des exigences en matière de qualité, d'hygiène et de sécurité alimentaire.\n\nVos missions\n\nAu quotidien, vous participerez au bon fonctionnement du système qualité et veillerez au respect des exigences liées à la sécurité des produits.\n\nAssurer le suivi des contrôles qualité et hygiène\nVérifier la conformité des produits finis\nParticiper aux audits internes et aux contrôles sur le terrain\nAssurer le suivi des réclamations clients et fournisseurs\nMettre à jour les documents qualité : procédures, instructions, formulaires, etc.\nContribuer au déploiement de la démarche HACCP et de la Food Safety Culture\nSensibiliser et accompagner les équipes sur les bonnes pratiques d'hygiène et de sécurité\nParticiper aux actions d' amélioration continue et au suivi des mesures correctives\nSuivre les contrôles concernant le nettoyage , l' hygiène et la sécurité alimentaire\n\nVous serez en lien régulier avec les équipes de production ainsi qu'avec les différents organismes de contrôle.\n\nDescription du profil :\n\nLe profil recherché\n\nFormation dans le domaine de la qualité ou de l'agroalimentaire\nConnaissances des référentiels IFS / BRC et de la méthode HACCP\nRigueur, capacité d'analyse et sens de l'organisation\nAisance relationnelle et aptitude à travailler en équipe\nAutonomie, réactivité et capacité à s'adapter\n\nUne première expérience dans le secteur agroalimentaire constitue un plus.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8429446",
+      "created": "31/10/2026"
+    },
+    {
+      "externalId": "8447215",
+      "title": "Assistant qualité services H/F/X",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Rivesaltes",
+      "contract": "Intérim - 1 Mois",
+      "hours": "",
+      "description": "Vos responsabilités seront les suivantes :\n- Contrôle hygiène et sécurité,\n- Sureté du site,\n- Animation et communication,\n- Règlementation, référentiel, suivi qualité",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8447215",
       "created": "31/10/2026"
     },
     {
