@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T19:30:08.178Z",
+  "generatedAt": "2026-11-03T12:52:29.347Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 28,
+  "count": 25,
   "offres": [
     {
       "externalId": "214YYCH",
@@ -43,19 +43,6 @@
       "created": "08/10/2026"
     },
     {
-      "externalId": "8471283",
-      "title": "Gestionnaire administratif / Gestionnaire administrative ressources humaines (H/F)",
-      "company": "Armée De L'Air Et De L'Espace",
-      "source": "France Travail",
-      "profil": "Gestion administrative",
-      "location": "66 - Pyrénées-Orientales",
-      "contract": "CDI",
-      "hours": "",
-      "description": "Le gestionnaire RH est un sous-officier spécialisé dans la gestion administrative du personnel. Il travaille au sein d'un bureau RH ou d'un service administration du personnel sur base aérienne. Il traite les dossiers liés à la carrière des militaires : recrutement, intégration, mutations, promotions, formations, paie, congés, retraites. Il accompagne également les aviateurs dans leurs démarches personnelles ou professionnelles, et contribue au bon fonctionnement des effectifs dans chaque unité.\nUn salaire égal entre homme et femme à poste et niveau hiérarchique équivalents., 45 jours de permissions par an., Des tarifs préférentiels auprès de la SNCF, jusqu'à -75 % pour vous et -50% pour votre famille., Un hébergement gratuit sur base pour les nouvelles recrues ou une aide au logement pour se loger à l'extérieur. Chaque jour, les Aviateurs de l'Armé de l'Air et de l'Espace servent la France en protégeant, intervenant et dissuadant. Leur expertise fait voler nos avions, hélicoptères et drones, assurant la sécurité nationale. Passion et engagement au service de la nation.\n",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8471283",
-      "created": "02/11/2026"
-    },
-    {
       "externalId": "215WPGL",
       "title": "Gestionnaire administratif / Gestionnaire administrative ressourc (H/F)",
       "company": "BT CORP.",
@@ -72,22 +59,6 @@
       "description": "L'ENTREPRISE : BT CORP est une entreprise spécialisée dans la gestion de fonds.\nDans le cadre du remplacement de notre Responsable des Ressources Humaines, nous recherchons un(e) Assistant(e) administratif(ve) & RH fiable et autonome, qui assurera le suivi des missions administratives et RH au quotidien,  avec l'accompagnement de sa responsable.\n\nVOS MISSIONS :\nRattaché(e) à l'entreprise et en lien avec les différents interlocuteurs internes, vous intervenez sur un périmètre varié, alliant ressources humaines, gestion administrative et soutien opérationnel.\n\n- Assurer la gestion administrative du personnel et le suivi des dossiers salariés\n- Suivre les temps de travail, les congés et les absences\n- Préparer les éléments variables de paie et assurer leur transmission dans les délais impartis\n- Participer au processus de recrutement et à l'intégration des nouveaux collaborateurs : recueillir le besoin des sites, créer les offres d'emploi et les diffuser.\n- Répondre aux demandes administratives courantes des salariés\n- Veiller à la bonne tenue et à la confidentialité des documents RH\n- Participer à l'élaboration du plan de formation individuelle\n- Créer et suivre les dossiers de demande de formation auprès des OPCO\n- Organiser les visites médicales des salariés\n- Optimiser l'utilisation de notre outil de paie SILAE et créations des procédures idoines\n- Calculer les avantages en nature des salariés concernés\n\nCette diversité de missions nécessite de savoir gérer les priorités, de faire preuve de réactivité et de travailler avec méthode.\n\nVOTRE PROFIL :\n\nVous êtes reconnu(e) pour votre rigueur, votre organisation et votre capacité à gérer plusieurs sujets en parallèle.\nVous disposez idéalement :\n\n- D'une formation en gestion administrative, ressources humaines ou équivalent.\n- D'une expérience en assistanat administratif et/ou RH.\n- D'une bonne maîtrise des outils bureautiques.\n- De bonnes qualités rédactionnelles et relationnelles.\n- D'un réel sens de la confidentialité, notamment dans le traitement des données du personnel.\n\nAutonomie, polyvalence, discrétion et esprit d'équipe sont les qualités essentielles pour réussir dans ce poste.\n\n-ENVIE DE NOUS REJOINDRE ?\n\nVous souhaitez vous investir dans un poste polyvalent, où votre sens de l'organisation et votre implication contribueront directement au bon fonctionnement de l'entreprise ?\n\nNous serons ravis d'étudier votre candidature !\nMerci d'adresser votre CV accompagné de quelques mots sur votre motivation.\nÀ bientôt chez BT corp. !",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215WPGL",
       "created": "30/10/2026"
-    },
-    {
-      "externalId": "7680938",
-      "title": "Adjoint.e en gestion administrative et pédagogique (département de droit) H/F",
-      "company": "Université de Perpignan Via Domitia",
-      "source": "France Travail",
-      "profil": "Gestion administrative",
-      "location": "66 - Perpignan",
-      "contract": "CDD - 9 Mois",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1867,
-      "salaryRaw": "Mensuel de 1867.02 Euros à 1867.02 Euros",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "RESPONSABILITÉS : \n\nLa Faculté Droit et Sciences Économiques (DSE) de l'Université Perpignan Via Domitia recrute un.e adjoint en gestion administrative et pédagogique (département de droit) afin de contribuer à l'organisation et au bon fonctionnement des formations du département de Droit. Véritable interlocuteur.trice des enseignants, étudiants et intervenants extérieurs, vous assurerez la gestion administrative de la formation et participerez à la vie du campus Mailly à travers les missions suivantes :\n - Assurer la gestion administrative du département de Droit (enseignants, intervenants extérieurs et étudiants) ;\n - Organiser et planifier les enseignements de la Capacité en droit ainsi que des deux premières années de Licence de Droit de Perpignan (cours magistraux et travaux dirigés) ;\n - Répondre aux demandes de la responsable de la Capacité et de la Licence de Droit ainsi que de la direction des études de la Licence 1, en lien avec l'organisation des formations ;\n - Assurer l'accueil administratif du campus Mailly sur certains créneaux horaires.\n\nPROFIL RECHERCHÉ : \n\nPoste ouvert aux contractuels de catégorie C\nLes dossiers complets (lettre de motivation et CV) sont à transmettre pour le 05 novembre 2026, délai de rigueur.\nCDD à 100% du 04/01/2027 au 31/08/2027\n\n\nConnaissances et compétences opérationnelles : maîtrise des outils bureautiques courants, aptitude à rédiger et mettre en forme des documents administratifs, avoir le sens de l'organisation, être rigoureux.se. Capacités d'initiatives, d'anticipation et d'adaptation. Savoir faire preuve de réactivité, avoir le sens de l'accueil (aptitudes relationnelles) et avoir le sens du service public\nTemps de travail : 37h30 par semaine\nSalaire mensuel : 1867,02€ brut par mois\nAvantages sociaux (sous conditions) : Les personnels bénéficient notamment d'une contribution mutuelle, d'une prise en charge partielle des titres ou abonnements de transport, d'un accès aux tarifs préférentiels des services universitaires : restaurant universitaire, bibliothèque, salle de sports..., d'un supplément familial de traitement (si enfants mineurs à charge), de 57 jours de congés annuels.\nLieu de travail : Campus Mailly (Perpignan)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7680938",
-      "created": "06/10/2026"
     },
     {
       "externalId": "8141602",
@@ -198,19 +169,6 @@
       "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8258791",
       "created": "25/10/2026"
-    },
-    {
-      "externalId": "8229300",
-      "title": "Secrétaire à la Direction Générale (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "contract": "CDD - 1 Mois",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "RESPONSABILITÉS : \n\nOrganisation du travail :\n - Poste à temps plein partagé sur 2 services - Direction Informatique - Direction Générale\n - 45 minutes de pause déjeuner\n - 25 jours de CA + 14 jours de RTT\n\n\n\nActivités - Missions à la Direction Générale :\n - Traitement courriers, mails, fax (réception, enregistrement, tri et diffusion)\n - Accueil physique et téléphonique : filtrage, orientation\n - Gestion des agendas du Directeur et de la Directrice de la stratégie (positionnement de rendez-vous ou des réunions)\n - Commande de prestations (repas, réservation véhicule, salles, reprographie, matériels...)\n - Traitement, préparation et mise en forme de courriers divers, dossiers, note de service et d'information, ordre de mission, avis de décès, remerciement, réclamation, demande de dossier médical\n - Classement et archivage papier et dématérialisé\n - Gestion du circuit des parapheurs\n - Publication des notes de service et notes d'information sur l'intranet\n - Tenue des plannings des congés pour le Directeur et les Directeurs-adjoints sur AGILETIME, édition des états compteurs et suivi du CET du Directeur\n - Suivi des tableaux de garde de direction, diffusion du directeur de garde auprès des services concernés tous les jeudis\n - Saisie du tableau de garde sur l'intranet\n - Enregistrement, archivage et diffusion des conventions après signature\n - Envoi des vœux selon liste préétablie et validée par le DG\nRelations professionnelles :\n - Le directeur Général\n - L'ensemble de l'équipe de Direction, les attachés d'administration hospitalière, les chefs de pôles\n - L'ARS, sa Délégation territoriale et les autres administrations\n - Les structures de soins publiques, privées\n - Les usagers, les associations\n\nPROFIL RECHERCHÉ : \n\nNiveau de formation et d'expérience :\n\n - BAC secrétariat obligatoire\n - BTS secrétariat recommandé\n - 2 années d'expérience professionnelle à minima.\n\nSavoir-faire et compétences attendus :\n\n- Polycompétences\n- Identifier les informations communicables à autrui en respectant le secret professionnel et la discrétion\n- Sens du relationnel et de la hiérarchie\n- Connaissance de l'établissement (fiabilité des informations)\n- Rigueur et rapidité dans l'exécution des tâches\n- Adapter et utiliser un plan de classement et d'archivage, un système de gestion documentaire\n- Optimiser les plannings de travail, de rendez-vous, de visites\n- Travail en équipe\nConnaissances requises (description / degré) :\n- Accueil téléphonique\n- Secrétariat\n- Bureautique\n- Technologies de l'information et de la communication (NTIC)\n- Classement et archivage\n- Communication / relations interpersonnelles\n- Organisation et fonctionnement interne de l'établissement\n- Droit hospitalier\n- Droit de la fonction publique",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8229300",
-      "created": "24/10/2026"
     },
     {
       "externalId": "8224600",
