@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-03T17:05:14.626Z",
+  "generatedAt": "2026-11-04T12:48:35.069Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 25,
+  "count": 22,
   "offres": [
     {
       "externalId": "214YYCH",
@@ -77,6 +77,21 @@
       "created": "22/10/2026"
     },
     {
+      "externalId": "215ZVMB",
+      "title": "Apprenti secrétaire assistant médico-administratif (H/F)",
+      "company": "CFA AEP",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - PERPIGNAN",
+      "minutes": 46,
+      "distanceKm": 29,
+      "contract": "CDD - 12 Mois",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Votre mission :\nEn tant que Secrétaire médicale en alternance, vous intégrerez une équipe dynamique et participerez activement au bon fonctionnement administratif de la structure. Votre rôle consistera à assister les professionnels de santé dans la gestion des dossiers administratifs des patients.\n\nPrincipales Responsabilités :\n1. Accueil physique et téléphonique des patients.\n2. Gestion des rendez-vous et des plannings.\n3. Saisie et mise à jour des dossiers médicaux.\n4. Collaboration avec les différents services de l'entreprise.\n5. Participer à l'organisation des événements internes.\n\nProfil Recherché :\n- Intérêt prononcé pour le domaine médico-social.\n- Sens de l'organisation et de la rigueur.\n- Bonnes compétences en communication écrite et orale.\n- Autonomie et proactivité.\n\nConditions de l'Alternance :\n- Alternance organisée sur la base d'1 jour en CFA et 4 jours en entreprise",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215ZVMB",
+      "created": "04/11/2026"
+    },
+    {
       "externalId": "8429446",
       "title": "Assistant administratif / Assistante administrative de projet (H/F)",
       "company": "Groupe ATOLL",
@@ -118,22 +133,6 @@
       "hours": "35H/semaine\nTravail en journée",
       "description": "Vous rêvez d'intégrer une entreprise en plein développement à la pointe du diagnostic et de la technique ? Vous êtes à la recherche de nouveaux challenges et avez envie de participer à une mission de santé publique ?\n\nEn tant que Manager du Secrétariat Médical en Anatomopathologie, vous êtes garant(e) de la bonne organisation du service, de l'accompagnement de votre équipe et de la qualité des prestations délivrées aux patients et aux correspondants médicaux.\n\nManagement et pilotage de l'activité : \n\n * Encadrer, animer et accompagner au quotidien une équipe de secrétaires médicales.\n * Organiser l'activité du service et coordonner la répartition des tâches afin de garantir la continuité de service.\n * Élaborer et suivre les plannings de l'équipe.\n * Accompagner la montée en compétences des collaborateurs et veiller à leur intégration.\n * Suivre les indicateurs d'activité, réaliser les reportings et proposer les actions d'amélioration nécessaires.\n * Garantir le respect des procédures, des bonnes pratiques et des exigences qualité du laboratoire.\n * Être l'interlocuteur privilégié des équipes médicales et des différentes fonctions support.\n\nParticipation à l'activité de secrétariat médical : \n\nParce que vous êtes pleinement intégré(e) à l'équipe, vous participez également à l'activité opérationnelle du secrétariat médical :\n\n * Assurer l'identification et la gestion administrative des dossiers patients, de l'enregistrement des prélèvements jusqu'à la facturation.\n * Participer au traitement des demandes des patients et des professionnels de santé.\n * Assurer l'accueil téléphonique et le renseignement des interlocuteurs.\n * Gérer les courriers, la mise sous pli et l'envoi des comptes-rendus.\n * Réaliser les opérations d'archivage et de gestion documentaire.\n * Contribuer au bon fonctionnement quotidien du service en apportant un soutien opérationnel à l'équipe.\n\n\nAlors, vous avez envie d'apporter votre pierre à l'édifice dans le diagnostic du cancer ?\n\nDe formation secrétariat médical, vous avez une forte expérience en management d'équipe ? Vous êtes force de proposition et êtes reconnu pour votre rapidité de prise de décision ? \n\nNotre métier a fort enjeux pour les patients, votre rigueur sera une qualité essentielle pour occuper le poste.\n\nCe poste est fait pour vous !\n\nEt sinon, travailler chez MEDIPATH, c'est :\n\n * Tous vos week-end et nuits de libres \n * Des MEDI'PTIT DEJ \n * Des jeux concours \n * Une prime de fin d'année \n * Une prime de participation & intéressement (selon CA) \n * Un plan épargne entreprise avec abondement de la société \n * Avantages CSE",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215VGLC",
-      "created": "29/10/2026"
-    },
-    {
-      "externalId": "8402314",
-      "title": "Gestionnaire Santé Sécurité au Travail (SST) (H/F)",
-      "company": "MSA GRAND SUD",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "contract": "CDI",
-      "salaryMinBrut": 2070,
-      "salaryMaxBrut": 2070,
-      "salaryRaw": "Annuel de 24839.0 Euros",
-      "hours": "35H/semaine",
-      "description": "Entreprise \n\nDeuxième régime de protection sociale en France, la Mutualité sociale agricole (MSA) assure la totalité de la couverture sociale des salariés, non-salariés et entreprises agricoles.\n\nElle est l'interlocuteur unique de ses adhérents en gérant l'ensemble des branches de la sécurité sociale (retraite, maladie, ATMP, famille, recouvrement).\n\nElle prend également en charge l'action sociale, la médecine du travail et la prévention des risques professionnels.\n\nCe guichet unique simplifie les démarches administratives en permettant d'apporter un service complet à l'adhérent.\n\n \n\nIntégrée dans le réseau des MSA, la MSA Grand-Sud est un organisme de plus de 320 collaborateurs répartis sur les sites de Carcassonne et de Perpignan.\n\nElle gère une population de 157.000 ressortissants salariés et non-salariés agricoles sur les départements de l'Aude (11) et des Pyrénées-Orientales (66)\n\n  \n  \n\n\nPoste \n\nRejoignez une équipe pluridisciplinaire au service de la santé et de la Sécurité au travail !\n\nPoste CDI- 35 heures - 24 839 € bruts annuels sur 13 mois -Site de Perpignan\n\nHoraires variables, prime d'intéressement, complément enfant à charge, mutuelle intéressante, CSE\n\nCe poste est une opportunité idéale pour contribuer à un environnement professionnel stimulant, où votre sens de l'organisation et vos qualités relationnelles feront la différence.\n\nVous apporterez un appui administratif à l'équipe pluridisciplinaire de santé au travail dans ses activités et vous contribuerez à :\n\n\\- organiser le planning des Médecins et des Infirmières.\n\n\\- assister les Médecins et les Infirmières dans la préparation matérielle des dossiers et des réunions,\n\n\\- assurer l'accueil physique et téléphonique des adhérents et des interlocuteurs des Médecins et des Infirmières,\n\n\\- assurer la gestion administrative du courrier des Médecins et des Infirmières.\n\nEnvoyez-nous votre CV et lettre de motivation avant le 09/11/2026 pour rejoindre une structure où votre travail aura un impact concret.\n\nPrêt-e à relever le défi ? Postulez dès maintenant et devenez un maillon essentiel de notre équipe !\n\n \n\nProfil \n\n###  Ce qui vous rend unique :\n\n Un relationnel naturel : Votre écoute et votre aisance à communiquer (à l'oral comme à l'écrit) font de vous un-e interlocuteur-rice apprécié-e. \n\n Un sens aigu du service : Vous aimez travailler en équipe et contribuer à un collectif soudé.\n\n Une éthique irréprochable : Le respect du secret médical et de la confidentialité sont pour vous une évidence.\n\n###  Vos atouts techniques :\n\nUne plume agile : Vous rédigez avec précision et clarté\n\n Une maîtrise des outils : Word et Excel n'ont (presque) aucun secret pour vous.\n\n Un esprit organisé : Vous intégrez facilement les normes et procédures pour garantir un travail irréprochable.\n\n### Ce qui nous unit :\n\n Un dialogue bienveillant : Vous cultivez des relations professionnelles basées sur le respect, en interne comme avec nos partenaires.\n\nUne adaptabilité à toute épreuve : Vous savez vous ajuster à différents interlocuteurs et situations avec professionnalisme.\n\nSi ces qualités vous correspondent, votre place est parmi nous !\n",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8402314",
       "created": "29/10/2026"
     },
     {
@@ -274,24 +273,6 @@
       "created": "15/10/2026"
     },
     {
-      "externalId": "215HDXW",
-      "title": "Secrétaire Administratif Polyvalent (H/F)",
-      "company": "UNION HEALTHCARE",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - RIVESALTES",
-      "minutes": 49,
-      "distanceKm": 31,
-      "contract": "CDI",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1867,
-      "salaryRaw": "Horaire de 12.31 Euros - Selon expérience",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Depuis plus de 25 ans le Groupe Union Healthcare, exerce son activité dans le domaine de la distribution (vente et location) de matériel médical.\n\nLe groupe s'est construit sur des valeurs de solidarité, proximité, performance et engagement.\n\nNous recrutons un(e) Secrétaire Administratif(ve) :\n\nMissions :\n- Gestion administrative du Service Après-Vente (S.A.V.) Curatif et préventif\n- Suivi administratif des contrats de maintenance\n- Prospection, Planification et coordination des interventions\n- Gestion des dossiers clients et mise à jour des bases de données\n- Suivi des rapports d'intervention et facturation/télétransmission associée\n- Interface entre les clients, les techniciens et les services internes\n\n- Gestion administrative Pôle Marché Public\n- Assure la saisie des commandes clients du service AO.\n- Assure le suivi des litiges transporteurs et le traitement des litiges clients.\n- Gestion du suivi des stocks (stock sécurité) en lien avec la logistique et le responsable.\n- Gestion des appels téléphoniques.\n\n- Gestion administrative Grands Comptes\n- Accompagner le service dans la gestion et le suivi des activités liées aux clients grands comptes,\n- Intervenir en soutien administratif pour garantir le bon déroulement des missions du service.\n\nProfil recherché : \n\nFormation : BTS Gestion PME PMI ou équivalent\nExpérience : 2 ans minimum sur un poste administratif similaire (S.A.V. et/ou Marché Public appréciés)\nCompétences :\nMaîtrise du Pack Office\nRigueur, sens de l'organisation et respect des délais\nAisance relationnelle et rédactionnelle\nCapacité à gérer plusieurs dossiers en parallèle",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215HDXW",
-      "created": "15/10/2026"
-    },
-    {
       "externalId": "7979523",
       "title": "Secrétaire Médical en alternance F/H - Walter Learning",
       "company": "Walter Learning",
@@ -338,39 +319,6 @@
       "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7975588",
       "created": "15/10/2026"
-    },
-    {
-      "externalId": "215BTRB",
-      "title": "Formateur / Formatrice secrétariat (H/F)",
-      "company": "SKOOL N'JOB",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "minutes": 46,
-      "distanceKm": 29,
-      "contract": "CDI",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 2275,
-      "salaryRaw": "Horaire de 12.31 Euros à 15.0 Euros",
-      "hours": "Temps partiel - 20H/semaine\nTravail en journée",
-      "description": "En tant que Formateur pour les Titres Professionnels CADGA et Assistant de direction.\n\nVos principales missions seront les suivantes :\n\nAnimer des sessions de formation :\nPréparer et dispenser des cours théoriques et pratiques adaptés aux programmes des titres professionnels.\nAccompagner les apprenants dans l'acquisition des compétences nécessaires à la réussite de leur certification.\nMettre en place des évaluations pour suivre la progression des étudiants.\nAssurer la liaison avec les entreprises partenaires pour suivre les périodes en entreprise et évaluer les compétences acquises.\nAccompagnement pédagogique :\nAnimer des ateliers pratiques en lien avec les métiers du secrétariat et Assistant de direction .\nAider à la mise en situation professionnelle des apprenants à travers des études de cas, des simulations, etc.\nAssurer un suivi individualisé des apprenants en veillant à leur réussite professionnelle.\nCollaboration avec l'équipe pédagogique :\nTravailler en étroite collaboration avec les autres formateurs pour assurer la cohérence pédagogique.\nParticiper aux réunions pédagogiques et contribuer à l'amélioration des programmes de formation.\nVeiller au respect des normes et des exigences réglementaires liées à la formation.\n\nUne expérience en tant que formateur ou dans un rôle similaire est un plus.\nNiveau C1 en Anglais, \nVous êtes passionné(e) par la formation et avez à cœur d'accompagner les jeunes dans leur parcours professionnel.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215BTRB",
-      "created": "12/10/2026"
-    },
-    {
-      "externalId": "215CBKK",
-      "title": "Secrétaire de mairie",
-      "company": "MAIRIE",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - MOLITG LES BAINS",
-      "minutes": 18,
-      "distanceKm": 12,
-      "contract": "CDD - 5 Mois",
-      "hours": "Temps partiel - 18H/semaine\nTravail en journée",
-      "description": "Sous l'autorité directe de Monsieur le Maire, votre rôle est essentiel pour assurer la continuité du service public et l'accompagnement des administrés.\n\nVos missions principales :\nComptabilité : Suivi budgétaire, mandatement et gestion des recettes.\nAccueil : Accueil physique et téléphonique de la population.\nGestion administrative : Gestion des mails et de la correspondance administrative.\nService aux administrés : Réponse aux besoins et renseignements des habitants.\nÉtat civil : Gestion des actes de naissance, de mariage et de décès.\n\nPROFIL RECHERCHÉ\nCe poste exige une grande autonomie et une maîtrise immédiate des procédures administratives.\n\nCompétences et qualités requises :\nExpérience indispensable : Une expérience réussie sur un poste similaire est obligatoire. Le poste ne prévoit pas de période de formation métier.\nMaîtrise administrative : Excellente capacité rédactionnelle et gestion rigoureuse des dossiers.\nCompétences techniques : Maîtrise des outils bureautiques et, idéalement, des logiciels de gestion de mairie.\nSens du service public : Accueil bienveillant, discrétion absolue et sens de l'écoute auprès des administrés.\nPolyvalence : Capacité à passer de la gestion comptable à l'accueil du public avec efficacité.\n\nPrise de poste dès que possible / poste à mi-temps pouvant évoluer\nPoste de préférence sur les après-midi à négocier suivant profil",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CBKK",
-      "created": "12/10/2026"
     },
     {
       "externalId": "7734941",
