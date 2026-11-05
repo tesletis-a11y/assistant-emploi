@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T17:16:31.514Z",
+  "generatedAt": "2026-11-05T13:18:49.777Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,8 +22,26 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 22,
+  "count": 24,
   "offres": [
+    {
+      "externalId": "216CFTT",
+      "title": "Chargé de territoire (H/F)",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Recouvrement / contentieux",
+      "location": "66 - PERPIGNAN",
+      "minutes": 46,
+      "distanceKm": 29,
+      "contract": "CDI",
+      "salaryMinBrut": 2250,
+      "salaryMaxBrut": 2250,
+      "salaryRaw": "Annuel de 27000.0 Euros",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Basé au sein de la Direction de la Gestion Locative et de la proximité sous la responsabilité du responsable de bureau de proximité.\n\nLe/la chargé(e) de territoire a pour mission principale d'assurer sur un secteur donné la gestion technique courante du patrimoine, d'en apprécier l'état, de déclencher les travaux nécessaires, d'en suivre la réalisation dans le cadre d'un budget.\n\nIl/elle anime l'équipe de proximité (gardien et agent d'entretien et de surveillance) et supervise leur travail sur les aspects propreté, sécurité des immeubles et menues réparations.\nIl/elle est l'interlocuteur privilégié des locataires sur son territoire pour la gestion des demandes d'interventions techniques de l'entrée jusqu'à la sortie du logement ainsi que sur les problèmes courants.\nLe titulaire de ce poste est basé en bureau de proximité. Il ou elle  peut assurer des permanences en antenne décentralisée en fonction de la localisation du secteur qu'il gère.\nIl ou elle contribue à assurer la pérennité technique du patrimoine de l'organisme et à développer l'attractivité de l'offre de logement. \nPoste à la fois technique et de management qui implique de nombreux déplacements.\n\nNombreuses interactions :\n\n- En interne : les équipes de la proximité, les équipes d'accompagnement social ainsi que du développement et du patrimoine.\n- En externe : avec les prestataires de maintenance et les locataires.\n\nProfil\n\nSAVOIR-FAIRE\nConnaissance dans le secteur de la maintenance du bâtiment\nConnaissance des techniques de management\nConnaissance de la règlementation hlm\nConnaissance de la gestion budgétaire\nConnaissance du droit des contrats de locations\nComprendre les besoins et les attentes des locataires\nConnaitre les procédures d'accompagnement social\nMaitrise du pack office\n\nSAVOIR-ÊTRE\nCapacité à travailler en équipe\nÉcoute et diplomatie\nSens du contact et empathie\n\nPROFIL\nDe formation BAC +2/3 idéalement titulaire d'un BTS Bâtiment\nExpérience professionnelle souhaitée\nPermis B requis.\nAvantages\n\n13ème mois, participation de l'entreprise à la mutuelle, place de parking, prime vacances.\nOffres et prises en charge du CSE (Arbre et colis de Noël ; tickets piscine ; chèques vacances, participation aux frais de garde jeunes enfants 0-3 ans, participation sport - spectacle et aide aux vacances, location du chalet du CSE aux Angles).",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216CFTT",
+      "created": "05/11/2026"
+    },
     {
       "externalId": "214YYCH",
       "title": "Gestionnaire de Garanties Automobile (H/F)",
@@ -44,7 +62,7 @@
     },
     {
       "externalId": "215WPGL",
-      "title": "Gestionnaire administratif / Gestionnaire administrative ressourc (H/F)",
+      "title": "Gestionnaire en ressources humaines (H/F)",
       "company": "BT CORP.",
       "source": "France Travail",
       "profil": "Gestion administrative",
@@ -89,6 +107,19 @@
       "hours": "35H/semaine\nTravail en journée",
       "description": "Votre mission :\nEn tant que Secrétaire médicale en alternance, vous intégrerez une équipe dynamique et participerez activement au bon fonctionnement administratif de la structure. Votre rôle consistera à assister les professionnels de santé dans la gestion des dossiers administratifs des patients.\n\nPrincipales Responsabilités :\n1. Accueil physique et téléphonique des patients.\n2. Gestion des rendez-vous et des plannings.\n3. Saisie et mise à jour des dossiers médicaux.\n4. Collaboration avec les différents services de l'entreprise.\n5. Participer à l'organisation des événements internes.\n\nProfil Recherché :\n- Intérêt prononcé pour le domaine médico-social.\n- Sens de l'organisation et de la rigueur.\n- Bonnes compétences en communication écrite et orale.\n- Autonomie et proactivité.\n\nConditions de l'Alternance :\n- Alternance organisée sur la base d'1 jour en CFA et 4 jours en entreprise",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215ZVMB",
+      "created": "04/11/2026"
+    },
+    {
+      "externalId": "8555251",
+      "title": "ASSISTANT DENTAIRE EN ALTERNANCE (H/F)",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Pyrénées-Orientales",
+      "contract": "CDD - 6 Mois",
+      "hours": "",
+      "description": "Vous souhaitez devenir Assistant(e) dentaire ? Cette annonce est faite pour vous !\n\nFormation & Santé est un centre de formation spécialisé dans le domaine des professions paramédicales. Depuis  il vous permet de suivre la formation d'assistant(e) dentaire en alternance.\nNous recherchons, pour nos entreprises partenaires, des assistant(e)s dentaires H/F en alternance pour plusieurs postes à pourvoir.\nLa formation (sans frais pour le candidat) dure 18 mois et se déroule en CDD en contrat de professionnalisation ou d'apprentissage avec pour objectif le titre professionnel d'assistant(e) dentaire. (Titre de niveau IV inscrit au RNCP).\nAvantages :\n * Remboursement des transports à 50%\n\n \n\nVos Missions en cabinet :\n * Gestion administrative et de l'agenda du cabinet\n * Installation des salles de soins et des instruments, travail au fauteuil avec le praticien, aide aux soins\n * Stérilisation du matériel et maintien de l'hygiène du cabinet\n * Participation à la communication avec les patients et gestion des rendez-vous\n * Collaboration avec l'équipe dentaire pour assurer un service de qualité\n\n\n \n\nNous recherchons un(e) candidat(e) qui :\n * Est motivé(e) et désireux(se) d'apprendre dans le domaine dentaire\n * A une première expérience dans le commerce, la restauration, l'aide à la personne ou dans le secteur médical\n * Possède de bonnes compétences en communication et en travail d'équipe\n * A une capacité d'analyse et de gestion de projet\n * Est titulaire d'un titre de niveau 3 (CAP-BEP) pour entrer en formation\n\nLa formation se déroule sur 18 mois en alternance, avec un rythme de 1 jour de cours par semaine et 4 jours en cabinet dentaire. Le diplôme visé est le titre professionnel d'Assistant Dentaire (Titre de niveau IV inscrit au RNCP).\n#IND/CFA ",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8555251",
       "created": "04/11/2026"
     },
     {
@@ -181,19 +212,6 @@
       "description": "Nous recherchons un(e) Secrétaire administratif(ve) pour une de nos entreprises partenaires.\n \nVous épaulez l'équipe au quotidien : accueil, documents, dossiers, vous faites en sorte que tout soit prêt et à jour. Vous préparez en parallèle un titre professionnel reconnu par l'État, (entièrement financé) et vous êtes rémunéré dès le premier jour.\n \n \n \nVos missions :\n \n- \nAccueillir les visiteurs et répondre au téléphone.\n \n- \nRédiger et mettre en forme les courriers et documents professionnels.\n \n- \nSaisir et mettre à jour les données et les dossiers.\n \n- \nSuivre les demandes et les commandes, et faire les relances nécessaires.\n \n- \nClasser, archiver et assurer le suivi administratif courant.- \nAucun diplôme n'est exigé pour débuter la formation.\n \n- \nVous êtes organisé(e) et rigoureux(euse)\n \n- \nVous savez utiliser un ordinateur : traitement de texte, tableur, messagerie.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8224600",
       "created": "23/10/2026"
-    },
-    {
-      "externalId": "8168549",
-      "title": "Elsan - Assistant / Assistante qualité services (H/F)",
-      "company": "Elsan",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Saint-Estève",
-      "contract": "CDD - 1 Mois",
-      "hours": "",
-      "description": "Profil recherché\nUne expérience professionnelle en qualité au sein d'un établissement de santé est obligatoire.\n\nBonne connaissance des démarches qualité et de la certification HAS.\nMaîtrise des outils bureautiques.\nRigueur, autonomie, organisation et réactivité.\nBon relationnel et capacité à travailler avec des équipes pluridisciplinaires.\n\nConditions du poste\n\nContrat : CDD d'un mois.\nLieu : Saint-Estève (66).\nPrise de poste : dès que possible.\nRémunération : selon profil et expérience.\n",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8168549",
-      "created": "22/10/2026"
     },
     {
       "externalId": "215NMZY",
@@ -319,6 +337,21 @@
       "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7975588",
       "created": "15/10/2026"
+    },
+    {
+      "externalId": "215CBKK",
+      "title": "Secrétaire de mairie",
+      "company": "MAIRIE",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - MOLITG LES BAINS",
+      "minutes": 18,
+      "distanceKm": 12,
+      "contract": "CDD - 5 Mois",
+      "hours": "Temps partiel - 18H/semaine\nTravail en journée",
+      "description": "Sous l'autorité directe de Monsieur le Maire, votre rôle est essentiel pour assurer la continuité du service public et l'accompagnement des administrés.\n\nVos missions principales :\nComptabilité : Suivi budgétaire, mandatement et gestion des recettes.\nAccueil : Accueil physique et téléphonique de la population.\nGestion administrative : Gestion des mails et de la correspondance administrative.\nService aux administrés : Réponse aux besoins et renseignements des habitants.\nÉtat civil : Gestion des actes de naissance, de mariage et de décès.\n\nPROFIL RECHERCHÉ\nCe poste exige une grande autonomie et une maîtrise immédiate des procédures administratives.\n\nCompétences et qualités requises :\nExpérience indispensable : Une expérience réussie sur un poste similaire est obligatoire. Le poste ne prévoit pas de période de formation métier.\nMaîtrise administrative : Excellente capacité rédactionnelle et gestion rigoureuse des dossiers.\nCompétences techniques : Maîtrise des outils bureautiques et, idéalement, des logiciels de gestion de mairie.\nSens du service public : Accueil bienveillant, discrétion absolue et sens de l'écoute auprès des administrés.\nPolyvalence : Capacité à passer de la gestion comptable à l'accueil du public avec efficacité.\n\nPrise de poste dès que possible / poste à mi-temps pouvant évoluer\nPoste de préférence sur les après-midi à négocier suivant profil",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CBKK",
+      "created": "12/10/2026"
     },
     {
       "externalId": "7734941",
