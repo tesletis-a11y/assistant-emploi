@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T15:58:59.598Z",
+  "generatedAt": "2026-11-09T14:01:59.586Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 23,
+  "count": 21,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -43,42 +43,6 @@
       "created": "05/11/2026"
     },
     {
-      "externalId": "214YYCH",
-      "title": "Gestionnaire de Garanties Automobile (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Recouvrement / contentieux",
-      "location": "66 - ST LAURENT DE LA SALANQUE",
-      "minutes": 63,
-      "distanceKm": 40,
-      "contract": "CDI",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1867,
-      "salaryRaw": "Mensuel de 1867.02 Euros",
-      "hours": "35H/semaine\nTravail en journée...",
-      "description": "Garage Peugeot implanté au nord de Perpignan recherche\n un(e) Gestionnaire de Garanties Automobile assurant également le secrétariat et la comptabilité (H/F)\nCDI 35h - Prise de poste rapide\n\nMissions principales :\n- Gestion des garanties constructeur Stellantis (Activité principale) :\n   - Saisie, analyse et codage des pannes selon les barèmes constructeur (réseau Peugeot / Stellantis).\n   - Établissement et suivi des demandes d'accord préalable (DAP).\n   - Validation, facturation des dossiers et suivi des recouvrements / avoirs garanties.\n   - Suivi administratif et gestion du retour des pièces sous garantie.\n\n- Secrétariat et comptabilité (Missions secondaires) :\n    - Accueil physique et téléphonique de la clientèle.\n    - Saisie de la comptabilité.\n    - Gestion des encaissements, relances factures.\n    - Traitement du courrier et gestion administrative courante.\n\nPROFIL RECHERCHÉ :\n\nExpérience :\nExigée de 3 ans minimum sur la gestion des garanties en réseau automobile (une connaissance de la marque Peugeot / groupe Stellantis est un plus).\n\nCompétences :\nMaîtris\ne des outils informatiques de gestion de garanties automobile et notions solides en comptabilité.\n\nSavoir-être : \nRigueur, autonomie, sens de l'organisation et bon relationnel client.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214YYCH",
-      "created": "08/10/2026"
-    },
-    {
-      "externalId": "215WPGL",
-      "title": "Gestionnaire en ressources humaines (H/F)",
-      "company": "BT CORP.",
-      "source": "France Travail",
-      "profil": "Gestion administrative",
-      "location": "66 - RIVESALTES",
-      "minutes": 49,
-      "distanceKm": 31,
-      "contract": "CDD - 6 Mois",
-      "salaryMinBrut": 2000,
-      "salaryMaxBrut": 2200,
-      "salaryRaw": "Annuel de 24000.0 Euros à 26400.0 Euros - selon profil et expérience",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "L'ENTREPRISE : BT CORP est une entreprise spécialisée dans la gestion de fonds.\nDans le cadre du remplacement de notre Responsable des Ressources Humaines, nous recherchons un(e) Assistant(e) administratif(ve) & RH fiable et autonome, qui assurera le suivi des missions administratives et RH au quotidien,  avec l'accompagnement de sa responsable.\n\nVOS MISSIONS :\nRattaché(e) à l'entreprise et en lien avec les différents interlocuteurs internes, vous intervenez sur un périmètre varié, alliant ressources humaines, gestion administrative et soutien opérationnel.\n\n- Assurer la gestion administrative du personnel et le suivi des dossiers salariés\n- Suivre les temps de travail, les congés et les absences\n- Préparer les éléments variables de paie et assurer leur transmission dans les délais impartis\n- Participer au processus de recrutement et à l'intégration des nouveaux collaborateurs : recueillir le besoin des sites, créer les offres d'emploi et les diffuser.\n- Répondre aux demandes administratives courantes des salariés\n- Veiller à la bonne tenue et à la confidentialité des documents RH\n- Participer à l'élaboration du plan de formation individuelle\n- Créer et suivre les dossiers de demande de formation auprès des OPCO\n- Organiser les visites médicales des salariés\n- Optimiser l'utilisation de notre outil de paie SILAE et créations des procédures idoines\n- Calculer les avantages en nature des salariés concernés\n\nCette diversité de missions nécessite de savoir gérer les priorités, de faire preuve de réactivité et de travailler avec méthode.\n\nVOTRE PROFIL :\n\nVous êtes reconnu(e) pour votre rigueur, votre organisation et votre capacité à gérer plusieurs sujets en parallèle.\nVous disposez idéalement :\n\n- D'une formation en gestion administrative, ressources humaines ou équivalent.\n- D'une expérience en assistanat administratif et/ou RH.\n- D'une bonne maîtrise des outils bureautiques.\n- De bonnes qualités rédactionnelles et relationnelles.\n- D'un réel sens de la confidentialité, notamment dans le traitement des données du personnel.\n\nAutonomie, polyvalence, discrétion et esprit d'équipe sont les qualités essentielles pour réussir dans ce poste.\n\n-ENVIE DE NOUS REJOINDRE ?\n\nVous souhaitez vous investir dans un poste polyvalent, où votre sens de l'organisation et votre implication contribueront directement au bon fonctionnement de l'entreprise ?\n\nNous serons ravis d'étudier votre candidature !\nMerci d'adresser votre CV accompagné de quelques mots sur votre motivation.\nÀ bientôt chez BT corp. !",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215WPGL",
-      "created": "30/10/2026"
-    },
-    {
       "externalId": "8141602",
       "title": "Technical Account Manager (TAM) (H/F)",
       "company": "Mercato de l'emploi",
@@ -93,6 +57,19 @@
       "description": "RESPONSABILITÉS : \n\nEn tant que Technical Account Manager, vous rejoindrez une équipe d'une dizaine de personnes. Vous serez le principal interlocuteur technique entre l'entreprise et les clients.\n\n\nVos missions :\n - Gérer les intégrations, implémentations de tags et solutions publicitaires personnalisées (HTML, CSS, JavaScript)\n - Garantir un onboarding fluide et une mise en place technique optimale des nouveaux clients\n - Diagnostiquer et résoudre les problèmes de performance technique\n - Collaborer avec les équipes internes (AdOps, Produit, Ingénierie, Account Management) pour résoudre les enjeux techniques\n - Animer des revues techniques et présenter des insights basés sur les données\n - Identifier des opportunités d'optimisation et conseiller le client sur les meilleures pratiques\n - Documenter les processus d'implémentation et partager les meilleures pratiques\n - Assurer une veille technologique sur les évolutions du secteur Ad Tech et programmatique\n\n\nLa plupart des échanges avec les clients seront par mail ou par visioconférence. Des deplacements ponctuels sont a prevoir, notamment chez vos plus gros clients (Paris, Lyon, voire à l'étranger), intégralement pris en charge.\n\n\nLe travail se déroulera dans un environnement convivial et collaboratif, encourageant l'innovation et la prise d'initiative.\nLa taille de l'equipe favorise un esprit d'entraide et une culture de partage de connaissances.\nVous travaillerez dans un cadre international et collaborerez avec des éditeurs mondiaux et les technologies publicitaires les plus avancées.\n\nPROFIL RECHERCHÉ : \n\nLe Header Biding et GAM sont vos amis ? La condition indispensable pour ce poste est la maîtrise de l'optimisation d'espaces publicitaires. C'est un domaine très particulier de la programmatique en AdTech qu'il faudra mettre en avant dans vos candidatures.\n\n\nProfil recherché :\n - Bac +3 à +5 en informatique, publicité digitale ou équivalent\n - Minimum 3 ans d'expérience en Technical Account Management ou poste technique orienté client dans l'Ad Tech, la programmatique ou la\n - Compétences solides en HTML, CSS et JavaScript\n - Connaissance des plateformes publicitaires et systèmes de tracking (GAM, Prebid, Header Bidding, etc.)\n - Excellente capacité d'analyse et résolution de problèmes techniques\n - Aisance à vulgariser des concepts techniques\n - Proactif(ve), rigoureux(se) et orienté(e) résultats\n - Maîtrise du français et de l'anglais (écrit et oral), l'espagnol serait un plus\n - Une expérience dans la relation commerciale serait un plus également\n\n\nPoste en CDI, statut Cadre, basé au Boulou (66) mais le télétravail est envisageable à temps plein.\nCe poste peut s'envisager sur des clients US et/ou internationaux avec des horaires adaptés.\n\n\nPrise de poste dès que possible\nSalaire fixe à partir de 60 000 bruts annuels + Variable sur objectif.\nEvolution avec des formations techniques et soft skills continues\n\n\nEn plus de compétences techniques et relationnelles, nous recherchons une personne dynamique, autonome et orientée résultats. La capacité à travailler en équipe et à collaborer avec différents départements pour atteindre des objectifs communs est essentielle. Le candidat doit faire preuve de polyvalence et d'adaptabilité, qualité indispensable dans un environnement en constante évolution.\n\n\nSi vous vous reconnaissez dans ce profil, postulez des aujourd'hui et saisissez l'opportunite de faire evoluer votre carriere tout en contribuant au succes de nos clients.\n\n\nLe premier entretien se fera avec une personne du Mercato de l'emploi. Vous aurez ensuite 2 entretiens dans l'entreprise : avec le manager puis avec l'un des co-fondateurs avec un test technique entre les 2 rdv.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8141602",
       "created": "22/10/2026"
+    },
+    {
+      "externalId": "8649108",
+      "title": "Secrétaire / secrétaire de direction (H/F)",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Boulou",
+      "contract": "CDI",
+      "hours": "",
+      "description": "Activités principalesvaluer avec la personne hospitalisée (et/ou son entourage) sa situation en vue d'établir un diagnostic des incidences de sa situation médicale, familiale, sociale, financière et environnementale\n-      Informer et conseiller la personne  et son entourage sur leurs droits et devoirs, les dispositifs d'aide existants et proposer le dispositif le mieux adapté à la situation\n-      Agir pour le maintien des liens sociaux et familiaux\n-      Apporter un soutien psychosocial à la personne  et à son entourage familial et social et accompagner l'élaboration du projet personnalislaborer, en lien avec les équipes pluridisciplinaires, des plans d'aide individuels et collectifs à l'insertion ou à la réinsertion sociale et / ou professionnelle\n-      Instruire des dossiers en vue de l'obtention ou du rétablissement des droits de la personne  et négocier pour elle, si besoin est, avec les associations, institutions et services publics\n-      Mettre en place des actions préventives ou curatives en vue du retour, du maintien à domicile ou du placement, organiser le transfert vers un établissement spécialisInformer la personne  et son entourage sur l'évolution du dossier et sur d'éventuelles décisions à prendre\n-      Développer des partenariats en amont et aval avec les institutions, associations et services publics pour assurer des relais à l'extérieur de l'établissement\n-      Renseigner le dossier social et le dossier du patient sur sa situation, sur les projets d'aide mis en place et leur degré de réalisation, rédiger des rapports sociaux et des signalements\n-      Contribuer au développement de la qualité et de la gestion des risques\n\n-      Diplôme d'Etat d'assistant de service social\nSAVOIRSMaîtriser les techniques d'entretien et de communicationConnaître et utiliser la méthodologie d'élaboration, de gestion et d'évaluation de projetConnaître et respecter la législation de la Sécurité Sociale, l'organisation du système de protection sociale et posséder des notions de droit (travail, familleConnaître et utiliser les techniques de diagnostic et d'intervention sociale et de mise en œuvre d'une relation d'aideConnaître et exploiter les réseaux et organismes locaux ainsi que l'environnement institutionnelConnaître l'organisation hospitalière, sanitaire et médicosocialeConnaître les différents courants théoriques de l'action sociale et des notions de psychologie, sociologie, psychosociologie et économie et s'y référerConnaître les notions de bases des pathologies, handicaps et protocoles de soins et de leurs répercussions au niveau de l'autonomie sociale et professionnelle des personnes et s'y référerConnaître et utiliser les dispositifs en faveur des personnes confrontées ou susceptibles de l'être à un problème de santé, de perte d'autonomie ou de situation de handicapConnaître les autres métiers de l'équipe pluridisciplinaire, leurs objectifs, contraintes et méthodes et les solliciterConnaître et respecter les règles du secret professionnel liées à son activité",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8649108",
+      "created": "07/11/2026"
     },
     {
       "externalId": "8625654",
@@ -325,21 +302,6 @@
       "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7975588",
       "created": "15/10/2026"
-    },
-    {
-      "externalId": "215CBKK",
-      "title": "Secrétaire de mairie",
-      "company": "MAIRIE",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - MOLITG LES BAINS",
-      "minutes": 18,
-      "distanceKm": 12,
-      "contract": "CDD - 5 Mois",
-      "hours": "Temps partiel - 18H/semaine\nTravail en journée",
-      "description": "Sous l'autorité directe de Monsieur le Maire, votre rôle est essentiel pour assurer la continuité du service public et l'accompagnement des administrés.\n\nVos missions principales :\nComptabilité : Suivi budgétaire, mandatement et gestion des recettes.\nAccueil : Accueil physique et téléphonique de la population.\nGestion administrative : Gestion des mails et de la correspondance administrative.\nService aux administrés : Réponse aux besoins et renseignements des habitants.\nÉtat civil : Gestion des actes de naissance, de mariage et de décès.\n\nPROFIL RECHERCHÉ\nCe poste exige une grande autonomie et une maîtrise immédiate des procédures administratives.\n\nCompétences et qualités requises :\nExpérience indispensable : Une expérience réussie sur un poste similaire est obligatoire. Le poste ne prévoit pas de période de formation métier.\nMaîtrise administrative : Excellente capacité rédactionnelle et gestion rigoureuse des dossiers.\nCompétences techniques : Maîtrise des outils bureautiques et, idéalement, des logiciels de gestion de mairie.\nSens du service public : Accueil bienveillant, discrétion absolue et sens de l'écoute auprès des administrés.\nPolyvalence : Capacité à passer de la gestion comptable à l'accueil du public avec efficacité.\n\nPrise de poste dès que possible / poste à mi-temps pouvant évoluer\nPoste de préférence sur les après-midi à négocier suivant profil",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CBKK",
-      "created": "12/10/2026"
     },
     {
       "externalId": "7734941",
