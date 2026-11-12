@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-11T17:08:27.391Z",
+  "generatedAt": "2026-11-12T09:55:44.496Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 21,
+  "count": 20,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -57,24 +57,6 @@
       "description": "RESPONSABILITÉS : \n\nEn tant que Technical Account Manager, vous rejoindrez une équipe d'une dizaine de personnes. Vous serez le principal interlocuteur technique entre l'entreprise et les clients.\n\n\nVos missions :\n - Gérer les intégrations, implémentations de tags et solutions publicitaires personnalisées (HTML, CSS, JavaScript)\n - Garantir un onboarding fluide et une mise en place technique optimale des nouveaux clients\n - Diagnostiquer et résoudre les problèmes de performance technique\n - Collaborer avec les équipes internes (AdOps, Produit, Ingénierie, Account Management) pour résoudre les enjeux techniques\n - Animer des revues techniques et présenter des insights basés sur les données\n - Identifier des opportunités d'optimisation et conseiller le client sur les meilleures pratiques\n - Documenter les processus d'implémentation et partager les meilleures pratiques\n - Assurer une veille technologique sur les évolutions du secteur Ad Tech et programmatique\n\n\nLa plupart des échanges avec les clients seront par mail ou par visioconférence. Des deplacements ponctuels sont a prevoir, notamment chez vos plus gros clients (Paris, Lyon, voire à l'étranger), intégralement pris en charge.\n\n\nLe travail se déroulera dans un environnement convivial et collaboratif, encourageant l'innovation et la prise d'initiative.\nLa taille de l'equipe favorise un esprit d'entraide et une culture de partage de connaissances.\nVous travaillerez dans un cadre international et collaborerez avec des éditeurs mondiaux et les technologies publicitaires les plus avancées.\n\nPROFIL RECHERCHÉ : \n\nLe Header Biding et GAM sont vos amis ? La condition indispensable pour ce poste est la maîtrise de l'optimisation d'espaces publicitaires. C'est un domaine très particulier de la programmatique en AdTech qu'il faudra mettre en avant dans vos candidatures.\n\n\nProfil recherché :\n - Bac +3 à +5 en informatique, publicité digitale ou équivalent\n - Minimum 3 ans d'expérience en Technical Account Management ou poste technique orienté client dans l'Ad Tech, la programmatique ou la\n - Compétences solides en HTML, CSS et JavaScript\n - Connaissance des plateformes publicitaires et systèmes de tracking (GAM, Prebid, Header Bidding, etc.)\n - Excellente capacité d'analyse et résolution de problèmes techniques\n - Aisance à vulgariser des concepts techniques\n - Proactif(ve), rigoureux(se) et orienté(e) résultats\n - Maîtrise du français et de l'anglais (écrit et oral), l'espagnol serait un plus\n - Une expérience dans la relation commerciale serait un plus également\n\n\nPoste en CDI, statut Cadre, basé au Boulou (66) mais le télétravail est envisageable à temps plein.\nCe poste peut s'envisager sur des clients US et/ou internationaux avec des horaires adaptés.\n\n\nPrise de poste dès que possible\nSalaire fixe à partir de 60 000 bruts annuels + Variable sur objectif.\nEvolution avec des formations techniques et soft skills continues\n\n\nEn plus de compétences techniques et relationnelles, nous recherchons une personne dynamique, autonome et orientée résultats. La capacité à travailler en équipe et à collaborer avec différents départements pour atteindre des objectifs communs est essentielle. Le candidat doit faire preuve de polyvalence et d'adaptabilité, qualité indispensable dans un environnement en constante évolution.\n\n\nSi vous vous reconnaissez dans ce profil, postulez des aujourd'hui et saisissez l'opportunite de faire evoluer votre carriere tout en contribuant au succes de nos clients.\n\n\nLe premier entretien se fera avec une personne du Mercato de l'emploi. Vous aurez ensuite 2 entretiens dans l'entreprise : avec le manager puis avec l'un des co-fondateurs avec un test technique entre les 2 rdv.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8141602",
       "created": "22/10/2026"
-    },
-    {
-      "externalId": "216GDBD",
-      "title": "SECRÉTAIRE ADMINISTRATIF(VE) (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - PONTEILLA",
-      "minutes": 41,
-      "distanceKm": 26,
-      "contract": "CDI",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 2067,
-      "salaryRaw": "Mensuel de 1867.02 Euros à 2067.02 Euros",
-      "hours": "35H/semaine\nTravail en journée...",
-      "description": "Entreprise spécialisée dans la plomberie, le dépannage d'urgence et l'assainissement, recherche un(e) secrétaire administratif(ve) pour renforcer son équipe.\n\nVos principales missions :\n\nAssurer l'accueil téléphonique et la gestion du standard.\nRédiger et mettre en forme les rapports d'intervention.\nAssurer le suivi des impayés et effectuer les relances clients.\nParticiper aux différentes tâches administratives, avec des missions susceptibles d'évoluer selon les besoins de l'entreprise.\nVotre profil :\n\nVous êtes organisé(e), rigoureux(se) et réactif(ve). Vous savez gérer les priorités et vous adapter aux urgences.\n\nÀ l'aise au téléphone, vous savez accueillir, renseigner et rassurer les clients, notamment lors de demandes de dépannage urgent.\n\nVous possédez un bon relationnel, de bonnes qualités rédactionnelles et maîtrisez les outils informatiques. Vous appréciez le travail en équipe.\n\nConditions du poste :\n\nCDD ou CDI à temps plein, 35 heures par semaine.\n\nLieu du poste : En présentiel",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GDBD",
-      "created": "09/11/2026"
     },
     {
       "externalId": "8649108",
