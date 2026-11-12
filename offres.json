@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T09:55:44.496Z",
+  "generatedAt": "2026-11-12T13:51:26.141Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 20,
+  "count": 23,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -57,6 +57,58 @@
       "description": "RESPONSABILITÉS : \n\nEn tant que Technical Account Manager, vous rejoindrez une équipe d'une dizaine de personnes. Vous serez le principal interlocuteur technique entre l'entreprise et les clients.\n\n\nVos missions :\n - Gérer les intégrations, implémentations de tags et solutions publicitaires personnalisées (HTML, CSS, JavaScript)\n - Garantir un onboarding fluide et une mise en place technique optimale des nouveaux clients\n - Diagnostiquer et résoudre les problèmes de performance technique\n - Collaborer avec les équipes internes (AdOps, Produit, Ingénierie, Account Management) pour résoudre les enjeux techniques\n - Animer des revues techniques et présenter des insights basés sur les données\n - Identifier des opportunités d'optimisation et conseiller le client sur les meilleures pratiques\n - Documenter les processus d'implémentation et partager les meilleures pratiques\n - Assurer une veille technologique sur les évolutions du secteur Ad Tech et programmatique\n\n\nLa plupart des échanges avec les clients seront par mail ou par visioconférence. Des deplacements ponctuels sont a prevoir, notamment chez vos plus gros clients (Paris, Lyon, voire à l'étranger), intégralement pris en charge.\n\n\nLe travail se déroulera dans un environnement convivial et collaboratif, encourageant l'innovation et la prise d'initiative.\nLa taille de l'equipe favorise un esprit d'entraide et une culture de partage de connaissances.\nVous travaillerez dans un cadre international et collaborerez avec des éditeurs mondiaux et les technologies publicitaires les plus avancées.\n\nPROFIL RECHERCHÉ : \n\nLe Header Biding et GAM sont vos amis ? La condition indispensable pour ce poste est la maîtrise de l'optimisation d'espaces publicitaires. C'est un domaine très particulier de la programmatique en AdTech qu'il faudra mettre en avant dans vos candidatures.\n\n\nProfil recherché :\n - Bac +3 à +5 en informatique, publicité digitale ou équivalent\n - Minimum 3 ans d'expérience en Technical Account Management ou poste technique orienté client dans l'Ad Tech, la programmatique ou la\n - Compétences solides en HTML, CSS et JavaScript\n - Connaissance des plateformes publicitaires et systèmes de tracking (GAM, Prebid, Header Bidding, etc.)\n - Excellente capacité d'analyse et résolution de problèmes techniques\n - Aisance à vulgariser des concepts techniques\n - Proactif(ve), rigoureux(se) et orienté(e) résultats\n - Maîtrise du français et de l'anglais (écrit et oral), l'espagnol serait un plus\n - Une expérience dans la relation commerciale serait un plus également\n\n\nPoste en CDI, statut Cadre, basé au Boulou (66) mais le télétravail est envisageable à temps plein.\nCe poste peut s'envisager sur des clients US et/ou internationaux avec des horaires adaptés.\n\n\nPrise de poste dès que possible\nSalaire fixe à partir de 60 000 bruts annuels + Variable sur objectif.\nEvolution avec des formations techniques et soft skills continues\n\n\nEn plus de compétences techniques et relationnelles, nous recherchons une personne dynamique, autonome et orientée résultats. La capacité à travailler en équipe et à collaborer avec différents départements pour atteindre des objectifs communs est essentielle. Le candidat doit faire preuve de polyvalence et d'adaptabilité, qualité indispensable dans un environnement en constante évolution.\n\n\nSi vous vous reconnaissez dans ce profil, postulez des aujourd'hui et saisissez l'opportunite de faire evoluer votre carriere tout en contribuant au succes de nos clients.\n\n\nLe premier entretien se fera avec une personne du Mercato de l'emploi. Vous aurez ensuite 2 entretiens dans l'entreprise : avec le manager puis avec l'un des co-fondateurs avec un test technique entre les 2 rdv.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8141602",
       "created": "22/10/2026"
+    },
+    {
+      "externalId": "216JCVC",
+      "title": "Secrétaire/adjoint de régulation (h/f) (H/F)",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - CERET",
+      "minutes": 40,
+      "distanceKm": 25,
+      "contract": "CDD - 6 Mois",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1867,
+      "salaryRaw": "Horaire de 12.31 Euros",
+      "hours": "35H/semaine\nTravail en horaires fixes",
+      "description": "Société d'ambulances dynamique, acteur clé du transport sanitaire sur le secteur recherche une secrétaire/adjoint de régulation (h/f)\n\nMissions principales\n\n-Gestion administrative : Suivi des dossiers patients, mise à jour des bases de données et archivage.\n\n-Planification des transports : Organisation des tournées de véhicules en respectant strictement la réglementation en vigueur (priorisation des urgences, optimisation des trajets).\n\n-Accueil téléphonique : Réception des appels (particuliers, hôpitaux, services d'urgence), évaluation du besoin et gestion du stress.\n\n-Facturation : Établissement des factures, gestion des feuilles de soins et suivi des règlements.\n\nProfil recherché:\n\n-Réactivité : Capacité à gérer les imprévus et à prendre des décisions rapides face à l'urgence.\n\n-Esprit d'équipe : Collaboration étroite avec les ambulanciers et la direction.\n\n-Rigueur : Respect des procédures réglementaires et précision administrative.\n\n-Sens du service : Empathie et courtoisie lors des échanges téléphoniques.\n\nAccompagnement et intégration : Le processus d'embauche inclut une période d'immersion de quelques jours pour découvrir l'environnement, suivie d'une formation interne approfondie via le dispositif de Préparation Opérationnelle à l'Emploi (POE).",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216JCVC",
+      "created": "12/11/2026"
+    },
+    {
+      "externalId": "216HZRQ",
+      "title": "A001- Secrétaire d'intendance - Collège - Lycée P. de Coubertin  FONT-ROMEU (66) (H/F)",
+      "company": "RECTORAT DE L'ACADEMIE DE MONTPELLIER",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Pyrénées-Orientales",
+      "contract": "CDD - 3 Mois",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1867,
+      "salaryRaw": "Mensuel de 1867.02 Euros",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Dans les collèges et lycées, en appui du ou de la secrétaire général(e), le ou la secrétaire d'intendance assure de façon autonome l'analyse, le suivi et la réalisation de dossiers et ressources touchant des domaines divers (notamment matériels et financiers) et concourant au fonctionnement général de l'établissement.\n\nActivités principales :\n -assurer les tâches administratives et budgétaires liées au secrétariat d'intendance\n -Suivi des commandes et des dépenses de l'établissement\n -Suivi des dossiers de bourses (de la demande à la mise en paiement)\n -Suivi de la situation des créances et des créances contentieuses\n -Établissement des documents financiers\n -Appui administratif\n\nConditions particulières d'exercice : \n\nTemps de travail annualisé soumis au calendrier des vacances scolaires et permanences éventuelles.\n\nProfil recherché : \n\nConnaissances :\n -Maitrise des outils informatiques et bureautique\nConnaissances souhaitées :\n -Maitrise des compétences techniques du domaine (exemple : achat public, comptabilité publique.)\n -Connaissances de l'environnement professionnel (fonctionnement d'un établissement scolaire)\nCompétences opérationnelles :\n -Organiser son travail en respectant les calendriers et les procédures\n -Appliquer des procédures et des règles administratives\n -Inscrire son travail dans une organisation collective et un cadre hiérarchique, coopérer au sein d'une équipe et rendre compte de son activité\n -Etre en relation avec différents interlocuteurs : usagers (élèves, familles), personnels (enseignants et administratifs), services extérieurs (rectorat, collectivités territoriales)\nCompétences comportementales :\n -Esprit d'équipe\n -Sens de l'organisation\n -Capacité d'adaptation\n -Rigueur / Fiabilité\n -Capacité à rendre compte\n ",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216HZRQ",
+      "created": "12/11/2026"
+    },
+    {
+      "externalId": "216GKYY",
+      "title": "Assistant administratif polyvalent (H/F)",
+      "company": "C.MULTISERV",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - LE SOLER",
+      "minutes": 35,
+      "distanceKm": 22,
+      "contract": "CDD - 3 Mois",
+      "salaryMinBrut": 1868,
+      "salaryMaxBrut": 1868,
+      "salaryRaw": "Mensuel de 1868.0 Euros",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "CDD de 3 mois (35 heures / semaine) à pourvoir.\nLes principales missions de ce poste sont : \n- Gestion administrative des dossiers clients (constitution des dossiers, suivi, développement et fidélisation)\n- Gestion de planning (sous logiciels informatiques)\n- Prise de rendez-vous et d'appels téléphoniques. (50% du temps de travail. Nombreux appels à traiter)\n- Maitrise des coûts d'intervention (savoir compter, rédiger et être force de propositions)\n- Négociation commerciale \n- Rédaction de compte-rendu (appétence pour la communication et la rédaction)\n\nVous appréciez le travail d'équipe, êtes une personne dynamique et réactive. \nVous avez le sens des responsabilités et du service rendu.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GKYY",
+      "created": "10/11/2026"
     },
     {
       "externalId": "8649108",
