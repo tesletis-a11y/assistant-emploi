@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-12T17:36:49.632Z",
+  "generatedAt": "2026-11-13T13:13:54.729Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 23,
+  "count": 21,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -59,22 +59,55 @@
       "created": "22/10/2026"
     },
     {
-      "externalId": "216JCVC",
-      "title": "Secrétaire/adjoint de régulation (h/f) (H/F)",
+      "externalId": "216JYTX",
+      "title": "Assistante Administrative (H/F)",
+      "company": "MISSIONS INTERIM PERPIGNAN",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - LE SOLER",
+      "minutes": 35,
+      "distanceKm": 22,
+      "contract": "Intérim - 6 Mois",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1867,
+      "salaryRaw": "Mensuel de 1867.02 Euros",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Description du poste\nNous recherchons une Assistante Administrative (H/F) disposant d'une solide expérience dans l'assistanat administratif, ainsi que d'une bonne connaissance du secteur automobile, afin d'assurer la gestion et le suivi des tâches administratives de l'entreprise.\n\nVos missions\nAssurer la gestion administrative quotidienne de l'entreprise.\nGérer les appels téléphoniques, les mails et les courriers.\nAssurer le suivi et le classement des dossiers administratifs.\nRédiger et mettre en forme les documents administratifs.\nEffectuer la saisie et le suivi des données sur les logiciels internes.\nAssurer le suivi des dossiers liés à l'activité automobile.\nGérer les échanges avec les clients, fournisseurs et partenaires.\nVeiller au bon suivi des procédures administratives.\n\nProfil recherché\nVous justifiez d'une expérience de 10 ans minimum dans l'assistanat administratif.\nVous avez une bonne connaissance de l'environnement et du secteur automobile.\nVous maîtrisez les outils informatiques et bureautiques.\nVous êtes rigoureux(se), organisé(e), autonome et polyvalent(e).\nVous avez un excellent relationnel et un bon sens de la communication.\nVous êtes capable de gérer plusieurs tâches simultanément et de travailler en équipe.\n\nConditions de travail\nPoste en entreprise.\nHoraires selon les besoins de l'entreprise.\nRémunération selon profil et expérience.\n\nCandidature\nVous souhaitez mettre votre expérience et vos compétences au service d'une entreprise dynamique ? Envoyez-nous votre candidature dès maintenant !",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216JYTX",
+      "created": "13/11/2026"
+    },
+    {
+      "externalId": "216KGVR",
+      "title": "Assistant(e) administratif(ve) et support clients (H/F)",
       "company": "Entreprise non précisée",
       "source": "France Travail",
       "profil": "Assistanat administratif",
-      "location": "66 - CERET",
-      "minutes": 40,
-      "distanceKm": 25,
-      "contract": "CDD - 6 Mois",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1867,
-      "salaryRaw": "Horaire de 12.31 Euros",
-      "hours": "35H/semaine\nTravail en horaires fixes",
-      "description": "Société d'ambulances dynamique, acteur clé du transport sanitaire sur le secteur recherche une secrétaire/adjoint de régulation (h/f)\n\nMissions principales\n\n-Gestion administrative : Suivi des dossiers patients, mise à jour des bases de données et archivage.\n\n-Planification des transports : Organisation des tournées de véhicules en respectant strictement la réglementation en vigueur (priorisation des urgences, optimisation des trajets).\n\n-Accueil téléphonique : Réception des appels (particuliers, hôpitaux, services d'urgence), évaluation du besoin et gestion du stress.\n\n-Facturation : Établissement des factures, gestion des feuilles de soins et suivi des règlements.\n\nProfil recherché:\n\n-Réactivité : Capacité à gérer les imprévus et à prendre des décisions rapides face à l'urgence.\n\n-Esprit d'équipe : Collaboration étroite avec les ambulanciers et la direction.\n\n-Rigueur : Respect des procédures réglementaires et précision administrative.\n\n-Sens du service : Empathie et courtoisie lors des échanges téléphoniques.\n\nAccompagnement et intégration : Le processus d'embauche inclut une période d'immersion de quelques jours pour découvrir l'environnement, suivie d'une formation interne approfondie via le dispositif de Préparation Opérationnelle à l'Emploi (POE).",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216JCVC",
-      "created": "12/11/2026"
+      "location": "66 - Perpignan",
+      "minutes": 46,
+      "distanceKm": 29,
+      "contract": "CDI",
+      "salaryMinBrut": 2026,
+      "salaryMaxBrut": 2026,
+      "salaryRaw": "Horaire de 13.36 Euros",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "L'entreprise\n\nÉditeur de logiciels SaaS et créateur de sites web, nous développons et commercialisons nos propres logiciels de gestion auprès de professionnels partout en France. Notre petite équipe grandit et nous renforçons l'accueil et le suivi de nos clients.\n\nVos missions\n\nVous êtes le premier contact de nos clients et prospects, et vous assurez le suivi administratif de l'activité.\n\nAccueil et support clients :\n\nRépondre aux appels entrants, identifier la demande et orienter vers le bon interlocuteur\nTraiter les demandes d'assistance par téléphone, e-mail et tickets, et en garder la trace\nAccompagner les clients dans la prise en main du logiciel (questions d'utilisation courantes)\nTransmettre à l'équipe technique les demandes qui le nécessitent et tenir le client informé\nRappeler les clients et relancer les demandes en attente\n\nGestion administrative et commerciale :\n\nTenir à jour les fiches clients et prospects dans notre outil de suivi\nRépondre aux demandes de contact et de démonstration, planifier les rendez-vous\nPréparer les contrats et suivre leur signature\nÉtablir les factures, suivre les règlements et relancer les impayés\nGérer le courrier, les e-mails et le classement des documents\n\nProfil recherché\n\nFormation Bac à Bac+2 en assistanat, gestion ou relation client\nExcellente expression orale et écrite, orthographe irréprochable\nAisance au téléphone, sens de l'écoute et patience\nÀ l'aise avec les outils informatiques et curieux(se) d'apprendre un logiciel métier\nRigueur, organisation et discrétion (données confidentielles)\nUne expérience en support client est un plus\n\nConditions\n\nPoste basé à Perpignan, du lundi au vendredi\nFormation à nos logiciels assurée à la prise de poste",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216KGVR",
+      "created": "13/11/2026"
+    },
+    {
+      "externalId": "216KCZF",
+      "title": "Assistant (e) administratif (ve) H/F (H/F)",
+      "company": "UNION FRANCAISE CENTRE VACANCES LOISIRS",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Perpignan",
+      "minutes": 46,
+      "distanceKm": 29,
+      "contract": "CDI",
+      "hours": "Temps partiel - 28H/semaine\nTravail en journée",
+      "description": "L'UFCV, au sein de sa Délégation Occitanie et plus particulièrement de son secteur animation territoriale des Pyrénées Orientales (L'UFCV gère plusieurs crèches, accueils de loisirs périscolaires et extrascolaires sur la commune de Perpignan) recherche son ou sa futur.e assistant.e des activités.\n\nAppuyé.e par les services administratifs de l'UFCV, vous êtes en charge de la gestion administrative de l'activité.\n\nLa délégation de Perpignan gère principalement les activités d'animation territoriale du département. Elle est également ouverte au public pour tout renseignement sur l'ensemble de ses activités.\n\nLe personnel administratif travaille également en lien avec les différents sites de l'UFCV en Occitanie.\n\nLe poste est sous la responsabilité hiérarchique de la déléguée régionale et sous la responsabilité opérationnelle du responsable animation territoriale, et vous réalisez vos actions en étant appuyé.e par vos collègues du secteur administratif de l'UFCV Occitanie.\n\nVous êtes en relation principalement avec vos collègues directeurs et coordinateurs ALAE et ALSH du marché de Perpignan pour la gestion administrative de l'activité, mais aussi avec l'équipe administrative de l'UFCV en Occitanie répartis sur toute la région. Vous veillez à la continuité du service proposé aux bénéficiaires tout en respectant les différentes procédures mises en place par l'UFCV.\n\nVos principales missions seront : \nAssurer la gestion administrative auprès des familles, de l'inscription à la facturation via un logiciel métier spécifique.\nAssurer l'accueil téléphonique et physique de qualité auprès des différents publics\nAssurer une qualité dans les renseignements donnés\nContribuer au bon fonctionnement général de la délégation\nContribuer au suivi administratif des différentes activités de l'UFCV sur la région.\n\nFonctions et responsabilités :\n\nGestion administrative des inscriptions :\nSuivi des demandes d'inscription des familles et de la bonne réception des différentes pièces nécessaires\nCréation, saisie et suivi des dossiers d'inscriptions des enfants par le biais d'un logiciel spécifique de gestion des accueils de loisirs\nSuivre et vérifier les pointages journaliers\nVérification et édition des facturations mensuelles\nEncaissements\nSuivi et relance des impayés\nRangement, et classement des dossiers administratifs\nEnregistrement et suivi des aides financeurs/preneurs en charge\n\nPermanence physique et téléphonique\nAssurer des réponses qualitatives aux familles, être à leur écoute, répondre à leurs demandes et savoir les rassurer ; respect du secret professionnel et confidentialité indispensable.\nÊtre la courroie de transmission des informations en direction des professionnels auprès des enfants et des équipes de direction.\n\nCentralisation de transmission des données\nEffectifs\nEngagement des dépenses\nProgrammes d'activité\n\nTravailler en collaboration permanente avec l'équipe de coordination sur l'ensemble des autres tâches administratives et organisationnelles nécessaires au bon fonctionnement de la délégation et des ALAE/ALSH :\nCommandes des repas, réception des commandes, lien aux fournisseurs, .\nParticipation aux réunions d'équipes, aux formations et aux divers évènements organisés avec les familles et les enfants\n\nDans les premières semaines de l'embauche, 2 jours de formation continue sont prévus à Toulouse ou Perpignan.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216KCZF",
+      "created": "13/11/2026"
     },
     {
       "externalId": "216HZRQ",
@@ -91,24 +124,6 @@
       "description": "Dans les collèges et lycées, en appui du ou de la secrétaire général(e), le ou la secrétaire d'intendance assure de façon autonome l'analyse, le suivi et la réalisation de dossiers et ressources touchant des domaines divers (notamment matériels et financiers) et concourant au fonctionnement général de l'établissement.\n\nActivités principales :\n -assurer les tâches administratives et budgétaires liées au secrétariat d'intendance\n -Suivi des commandes et des dépenses de l'établissement\n -Suivi des dossiers de bourses (de la demande à la mise en paiement)\n -Suivi de la situation des créances et des créances contentieuses\n -Établissement des documents financiers\n -Appui administratif\n\nConditions particulières d'exercice : \n\nTemps de travail annualisé soumis au calendrier des vacances scolaires et permanences éventuelles.\n\nProfil recherché : \n\nConnaissances :\n -Maitrise des outils informatiques et bureautique\nConnaissances souhaitées :\n -Maitrise des compétences techniques du domaine (exemple : achat public, comptabilité publique.)\n -Connaissances de l'environnement professionnel (fonctionnement d'un établissement scolaire)\nCompétences opérationnelles :\n -Organiser son travail en respectant les calendriers et les procédures\n -Appliquer des procédures et des règles administratives\n -Inscrire son travail dans une organisation collective et un cadre hiérarchique, coopérer au sein d'une équipe et rendre compte de son activité\n -Etre en relation avec différents interlocuteurs : usagers (élèves, familles), personnels (enseignants et administratifs), services extérieurs (rectorat, collectivités territoriales)\nCompétences comportementales :\n -Esprit d'équipe\n -Sens de l'organisation\n -Capacité d'adaptation\n -Rigueur / Fiabilité\n -Capacité à rendre compte\n ",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/216HZRQ",
       "created": "12/11/2026"
-    },
-    {
-      "externalId": "216GKYY",
-      "title": "Assistant administratif polyvalent (H/F)",
-      "company": "C.MULTISERV",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - LE SOLER",
-      "minutes": 35,
-      "distanceKm": 22,
-      "contract": "CDD - 3 Mois",
-      "salaryMinBrut": 1868,
-      "salaryMaxBrut": 1868,
-      "salaryRaw": "Mensuel de 1868.0 Euros",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "CDD de 3 mois (35 heures / semaine) à pourvoir.\nLes principales missions de ce poste sont : \n- Gestion administrative des dossiers clients (constitution des dossiers, suivi, développement et fidélisation)\n- Gestion de planning (sous logiciels informatiques)\n- Prise de rendez-vous et d'appels téléphoniques. (50% du temps de travail. Nombreux appels à traiter)\n- Maitrise des coûts d'intervention (savoir compter, rédiger et être force de propositions)\n- Négociation commerciale \n- Rédaction de compte-rendu (appétence pour la communication et la rédaction)\n\nVous appréciez le travail d'équipe, êtes une personne dynamique et réactive. \nVous avez le sens des responsabilités et du service rendu.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GKYY",
-      "created": "10/11/2026"
     },
     {
       "externalId": "8649108",
@@ -198,24 +213,6 @@
       "created": "29/10/2026"
     },
     {
-      "externalId": "215VLXX",
-      "title": "Secrétaire général(e) d'EPLE - Lycée Font Romeu (H/F)",
-      "company": "RECTORAT DE L'ACADEMIE DE MONTPELLIER",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Font-Romeu-Odeillo-Via",
-      "minutes": 69,
-      "distanceKm": 44,
-      "contract": "CDD - 2 Mois",
-      "salaryMinBrut": 1920,
-      "salaryMaxBrut": 2400,
-      "salaryRaw": "Mensuel de 1920.36 Euros à 2400.0 Euros",
-      "hours": "36H/semaine\nTravail en journée",
-      "description": "Le/la secrétaire général(e) d'EPLE participe à la politique éducative de l'établissement scolaire qui contribue à la réussite des élèves. Adjoint(e) au chef d'établissement, il/elle assure le pilotage administratif et financier de l'établissement scolaire. En charge du suivi du budget de l'établissement, il/elle assure également la gestion matérielle dans les domaines de l'entretien, de la sécurité et de la restauration. A ce titre, il/elle dirige une équipe et doit savoir déléguer certaines tâches pour organiser son service. Interlocuteur/trice de différents usagers il/elle est doté(e) d'un grand sens relationnel. \nDans un établissement sportif, accueillant des élèves 7/7 jrs, ses capacités doivent lui permettent de s'adapter rapidement et d'analyser les situations qui caractérisent le mode de fonctionnement de son environnement. \nLe poste de secrétaire général(e) du collège/lycée Pierre de Coubertin demande une grande implication et de la disponibilité.\n\n\nProfil recherché : \n\nConnaissances :\n -Maîtrise des logiciels et applications suivants : OP@LE (comptabilité budgétaire et régie), SIECLE (base élèves, GFE, bourses des collèges/lycée), Turboself, Pronote, Mobilisco, CARL, DEMACT.\n -Connaissances juridiques solides portant sur l'organisation des EPLE, l'hygiène et la sécurité, les règles budgétaires et comptables, les compétences des collectivités locales, les statuts et la gestion des personnels, etc.\n\nCompétences :\n -Capacité d'encadrement affirmée\n -Rigueur et organisation\nSavoir être :\n -Esprit d'analyse et de synthèse\n -Disponibilité et patience\n -Travail en équipe",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215VLXX",
-      "created": "29/10/2026"
-    },
-    {
       "externalId": "8258791",
       "title": "Secrétaire Médical en alternance F/H - Walter Learning",
       "company": "Walter Learning",
@@ -245,24 +242,6 @@
       "created": "23/10/2026"
     },
     {
-      "externalId": "215LXPV",
-      "title": "Assistant/e administratif/ve (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "minutes": 48,
-      "distanceKm": 31,
-      "contract": "CDD - 6 Mois",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1867,
-      "salaryRaw": "Horaire de 12.31 Euros",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Nous recherchons un/une assistant/te administrative / facturation \nSous la responsabilité de la direction, vous assurerez la gestion et le suivi des dossiers administratifs stagiaires du centre de formation.\nVous participerez à l'organisation générale du centre, vous veillerez au respect des procédures qualité et travaillerez en lien étroit avec l'équipe pédagogique. \nVous devez avoir une bonne maîtrise de Word et Excel, avoir le sens de l'accueil physique et téléphonique.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215LXPV",
-      "created": "21/10/2026"
-    },
-    {
       "externalId": "7989829",
       "title": "Secrétaire administratif / Secrétaire administrative (H/F)",
       "company": "AUREIS FORMATION",
@@ -274,22 +253,6 @@
       "description": "Offre collectée par La bonne alternance : Réalise le traitement administratif de dossiers (frappe de courrier, mise en forme de document, ...) et transmet les informations (e-mail, notes, fax, ...) pour le compte d'un ou plusieurs services ou d'un responsable selon l'organisation de l'entreprise. Peut prendre en charge le suivi complet de dossiers (contrats de maintenance des équipements, de la structure, ...). Peut coordonner une équipe. Le salaire d'un apprenti est fixé par la réglementation en vigueur. Il dépend de plusieurs facteurs. Un simulateur à jour est disponible à l'adresse https://labonnealternance.apprentissage.beta.gouv.fr/salaire-alternant",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7989829",
       "created": "16/10/2026"
-    },
-    {
-      "externalId": "7930940",
-      "title": "Assistant Médico-Administratif (H/F)",
-      "company": "YouSchool",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "contract": "CDD - 12 Mois",
-      "salaryMinBrut": 783,
-      "salaryMaxBrut": 1823,
-      "salaryRaw": "Mensuel de 783.0 Euros à 1823.0 Euros",
-      "hours": "",
-      "description": "Description du poste :\n\nOffre d'alternance - Secrétaire Médico-Administratif(ve) (Formation à distance avec YouSchool)\n\nLieu : Perpignan (66000)\n\nContrat : Alternance\n\nFormation : Titre Professionnel de Secrétaire Assistant Médico-Administratif (YouSchool - 100% à distance)\n\nDescription du poste\n\nDans le cadre de son développement, notre entreprise partenaire située à Perpignan (66000) recherche un(e) Secrétaire Médico-Administratif(ve) en alternance. Ce poste est à pourvoir immédiatement, en lien avec notre organisme de formation YouSchool, spécialiste de la formation à distance.\n\nVOS MISSIONS\n\nEncadré(e) par une équipe bienveillante et professionnelle, vous interviendrez sur les missions suivantes Accueillir et orienter les patients ou usagers, physiquement et par téléphone\n- Gérer les rendez-vous, les plannings médicaux et les agendas des professionnels\n- Assurer le suivi administratif des dossiers médicaux (création, mise à jour, archivage)\n- Rédiger, mettre en forme et traiter les courriers, comptes rendus et documents médicaux\n- Utiliser les outils bureautiques et logiciels spécialisés pour le traitement des informations\n- Collaborer avec les professionnels de santé et coordonner les échanges avec les services internes et externes\n- Suivre les démarches administratives liées à la prise en charge des patients (droits, mutuelles, hospitalisation)\n\nCE QUE NOUS PROPOSONS***Une alternance enrichissante dans un environnement stimulant***Un accompagnement personnalisé par YouSchool et l'entreprise***Une formation 100% à distance, flexible et professionnalisante***Rythme : 4 jours en entreprise, 1 jour en formation à distance, depuis chez vous. Votre employeur fixera le jour de formation.\n\nComment postuler ?\n\nEnvoyez-nous dès aujourd'hui votre candidature. Après réception, vous serez rapidement contacté(e) pour un premier échange avec nos recruteurs.\n\nLieu du poste :\n\nPerpignan (66000)\n\nDate de début prévue :\n\nDisponible immédiatement\n\nDescription du profil :\n\nVOTRE PROFIL***Vous souhaitez suivre la formation Titre Professionnel de Secrétaire Assistant Médico-Administratif à distance avec YouSchool***Pré-requis : diplôme niveau CAP/BEP minimum***Vous êtes organisé(e) avec un bon niveau de français (écrit + oral)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7930940",
-      "created": "15/10/2026"
     },
     {
       "externalId": "7979523",
