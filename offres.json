@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T13:47:08.085Z",
+  "generatedAt": "2026-11-16T19:37:58.120Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 22,
+  "count": 24,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -95,6 +95,21 @@
       "created": "16/11/2026"
     },
     {
+      "externalId": "216MCFK",
+      "title": "SECRETAIRE ADMINISTRATIF AUTOMOBILE (H/F)",
+      "company": "GARAGE PEUGEOT - CITROEN - EGAT AUTOMOBI",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - EGAT",
+      "minutes": 71,
+      "distanceKm": 45,
+      "contract": "CDI",
+      "hours": "39H/semaine\nTravail en journée...",
+      "description": "Nous recherchons un(e) Secrétaire administratif automobile, dynamique et organisé(e) pour rejoindre notre équipe.\nDans ce rôle essentiel, vous serez en charge des tâches administratives, en assurant une communication fluide entre l'atelier, les fournisseurs et les clients. Vous jouerez un rôle clé dans la coordination des tâches quotidiennes, la gestion des dossiers et le support administratif pour garantir le bon fonctionnement des services mécanique et carrosserie. Votre énergie et votre souci du détail contribueront à maintenir un environnement de travail efficace et professionnel.\n\nHoraires : 39h - du lundi au vendredi \n\nRattaché(e) au Responsable d'Atelier, vos missions principales seront :\nAccueillir les clients et répondre aux appels téléphoniques.\nRépondre aux demandes de renseignements et prise des rendez-vous.\nParticiper à la gestion administrative quotidienne pour assurer une communication claire et efficace au sein de l'équipe.\nRéaliser les tâches administratives relatives à l'après-vente : prise de rendez-vous, encaissement, ouverture des OR, dossiers garanties, dossiers assurances, gestion des véhicules de prêt\nLa gestion administrative des garanties et des contrats de maintenance\nLe suivi et la facturation des contrats de maintenance\nSuivre les dossiers clients atelier/mécanique/carrosserie\nClasser et archiver les ordres de réparation\nMettre à jour les fiches client/matériel\nAccueillir les clients pour l'atelier\n\nProfil recherché :\nVous disposez d'une expérience réussie sur un poste similaire, idéalement acquise dans le secteur automobile.\nVous êtes une personne investie, polyvalente et motivée et vous avez le goût du travail en équipe.\nVous disposez d'un excellent relationnel et votre dynamisme et votre sourire sont vos atouts principaux,",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216MCFK",
+      "created": "16/11/2026"
+    },
+    {
       "externalId": "216LBKD",
       "title": "Secretaire (H/F)",
       "company": "CAPDET SERVICE",
@@ -160,6 +175,24 @@
       "description": "Dans les collèges et lycées, en appui du ou de la secrétaire général(e), le ou la secrétaire d'intendance assure de façon autonome l'analyse, le suivi et la réalisation de dossiers et ressources touchant des domaines divers (notamment matériels et financiers) et concourant au fonctionnement général de l'établissement.\n\nActivités principales :\n -assurer les tâches administratives et budgétaires liées au secrétariat d'intendance\n -Suivi des commandes et des dépenses de l'établissement\n -Suivi des dossiers de bourses (de la demande à la mise en paiement)\n -Suivi de la situation des créances et des créances contentieuses\n -Établissement des documents financiers\n -Appui administratif\n\nConditions particulières d'exercice : \n\nTemps de travail annualisé soumis au calendrier des vacances scolaires et permanences éventuelles.\n\nProfil recherché : \n\nConnaissances :\n -Maitrise des outils informatiques et bureautique\nConnaissances souhaitées :\n -Maitrise des compétences techniques du domaine (exemple : achat public, comptabilité publique.)\n -Connaissances de l'environnement professionnel (fonctionnement d'un établissement scolaire)\nCompétences opérationnelles :\n -Organiser son travail en respectant les calendriers et les procédures\n -Appliquer des procédures et des règles administratives\n -Inscrire son travail dans une organisation collective et un cadre hiérarchique, coopérer au sein d'une équipe et rendre compte de son activité\n -Etre en relation avec différents interlocuteurs : usagers (élèves, familles), personnels (enseignants et administratifs), services extérieurs (rectorat, collectivités territoriales)\nCompétences comportementales :\n -Esprit d'équipe\n -Sens de l'organisation\n -Capacité d'adaptation\n -Rigueur / Fiabilité\n -Capacité à rendre compte\n ",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/216HZRQ",
       "created": "12/11/2026"
+    },
+    {
+      "externalId": "216GZTD",
+      "title": "Job Dating Handicap - Secrétaire / Facturière H/F",
+      "company": "PEREZ NETTOYAGE",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - ST ANDRE",
+      "minutes": 60,
+      "distanceKm": 38,
+      "contract": "CDI",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1867,
+      "salaryRaw": "Horaire de 12.31 Euros",
+      "hours": "Temps partiel - 20H/semaine\nTravail en journée",
+      "description": "Vous travaillerez au siège d'une société spécialisée dans le nettoyage.\nVous saisirez classerez les devis, saisirez les bons de commandes les factures\nVous assurerez le suivi administratif des dossiers clients et fournisseurs les dossiers clients.\nVous travaillerez sur informatique et notamment des tableurs et le pack office.\nVous devez avoir de bonnes notions en comptabilité pour pouvoir postuler.\n\nVous travaillerez à mi-temps du lundi au vendredi : 08h30 - 12h00\nVous avez impérativement votre permis B en cours de validité et dans l'idéal un moyen de locomotion pour vous déplacer jusqu'à l'entreprise.\n\nJob dating Handicap mardi 17 Novembre 2026 :\nMairie de Perpignan, Espace citoyen Firmin Bauby, 11 rue Nature, 66000 Perpignan. 09h-13H.\nVous devez impérativement vous inscrire sur Mes Evènements Emploi (job dating Nettoyage du 17 Novembre) pour pouvoir participer au Job dating.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GZTD",
+      "created": "10/11/2026"
     },
     {
       "externalId": "8649108",
