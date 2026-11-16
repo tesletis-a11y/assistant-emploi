@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-15T16:22:50.990Z",
+  "generatedAt": "2026-11-16T13:47:08.085Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -43,6 +43,24 @@
       "created": "05/11/2026"
     },
     {
+      "externalId": "214YYCH",
+      "title": "Gestionnaire de Garanties Automobile (H/F)",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Recouvrement / contentieux",
+      "location": "66 - ST LAURENT DE LA SALANQUE",
+      "minutes": 63,
+      "distanceKm": 40,
+      "contract": "CDI",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1867,
+      "salaryRaw": "Mensuel de 1867.02 Euros",
+      "hours": "35H/semaine\nTravail en journée...",
+      "description": "Garage Peugeot implanté au nord de Perpignan recherche\n un(e) Gestionnaire de Garanties Automobile assurant également le secrétariat et la comptabilité (H/F)\nCDI 35h - Prise de poste rapide\n\nMissions principales :\n- Gestion des garanties constructeur Stellantis (Activité principale) :\n   - Saisie, analyse et codage des pannes selon les barèmes constructeur (réseau Peugeot / Stellantis).\n   - Établissement et suivi des demandes d'accord préalable (DAP).\n   - Validation, facturation des dossiers et suivi des recouvrements / avoirs garanties.\n   - Suivi administratif et gestion du retour des pièces sous garantie.\n\n- Secrétariat et comptabilité (Missions secondaires) :\n    - Accueil physique et téléphonique de la clientèle.\n    - Saisie de la comptabilité.\n    - Gestion des encaissements, relances factures.\n    - Traitement du courrier et gestion administrative courante.\n\nPROFIL RECHERCHÉ :\n\nExpérience :\nExigée de 3 ans minimum sur la gestion des garanties en réseau automobile (une connaissance de la marque Peugeot / groupe Stellantis est un plus).\n\nCompétences :\nMaîtris\ne des outils informatiques de gestion de garanties automobile et notions solides en comptabilité.\n\nSavoir-être : \nRigueur, autonomie, sens de l'organisation et bon relationnel client.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/214YYCH",
+      "created": "08/10/2026"
+    },
+    {
       "externalId": "8141602",
       "title": "Technical Account Manager (TAM) (H/F)",
       "company": "Mercato de l'emploi",
@@ -57,6 +75,42 @@
       "description": "RESPONSABILITÉS : \n\nEn tant que Technical Account Manager, vous rejoindrez une équipe d'une dizaine de personnes. Vous serez le principal interlocuteur technique entre l'entreprise et les clients.\n\n\nVos missions :\n - Gérer les intégrations, implémentations de tags et solutions publicitaires personnalisées (HTML, CSS, JavaScript)\n - Garantir un onboarding fluide et une mise en place technique optimale des nouveaux clients\n - Diagnostiquer et résoudre les problèmes de performance technique\n - Collaborer avec les équipes internes (AdOps, Produit, Ingénierie, Account Management) pour résoudre les enjeux techniques\n - Animer des revues techniques et présenter des insights basés sur les données\n - Identifier des opportunités d'optimisation et conseiller le client sur les meilleures pratiques\n - Documenter les processus d'implémentation et partager les meilleures pratiques\n - Assurer une veille technologique sur les évolutions du secteur Ad Tech et programmatique\n\n\nLa plupart des échanges avec les clients seront par mail ou par visioconférence. Des deplacements ponctuels sont a prevoir, notamment chez vos plus gros clients (Paris, Lyon, voire à l'étranger), intégralement pris en charge.\n\n\nLe travail se déroulera dans un environnement convivial et collaboratif, encourageant l'innovation et la prise d'initiative.\nLa taille de l'equipe favorise un esprit d'entraide et une culture de partage de connaissances.\nVous travaillerez dans un cadre international et collaborerez avec des éditeurs mondiaux et les technologies publicitaires les plus avancées.\n\nPROFIL RECHERCHÉ : \n\nLe Header Biding et GAM sont vos amis ? La condition indispensable pour ce poste est la maîtrise de l'optimisation d'espaces publicitaires. C'est un domaine très particulier de la programmatique en AdTech qu'il faudra mettre en avant dans vos candidatures.\n\n\nProfil recherché :\n - Bac +3 à +5 en informatique, publicité digitale ou équivalent\n - Minimum 3 ans d'expérience en Technical Account Management ou poste technique orienté client dans l'Ad Tech, la programmatique ou la\n - Compétences solides en HTML, CSS et JavaScript\n - Connaissance des plateformes publicitaires et systèmes de tracking (GAM, Prebid, Header Bidding, etc.)\n - Excellente capacité d'analyse et résolution de problèmes techniques\n - Aisance à vulgariser des concepts techniques\n - Proactif(ve), rigoureux(se) et orienté(e) résultats\n - Maîtrise du français et de l'anglais (écrit et oral), l'espagnol serait un plus\n - Une expérience dans la relation commerciale serait un plus également\n\n\nPoste en CDI, statut Cadre, basé au Boulou (66) mais le télétravail est envisageable à temps plein.\nCe poste peut s'envisager sur des clients US et/ou internationaux avec des horaires adaptés.\n\n\nPrise de poste dès que possible\nSalaire fixe à partir de 60 000 bruts annuels + Variable sur objectif.\nEvolution avec des formations techniques et soft skills continues\n\n\nEn plus de compétences techniques et relationnelles, nous recherchons une personne dynamique, autonome et orientée résultats. La capacité à travailler en équipe et à collaborer avec différents départements pour atteindre des objectifs communs est essentielle. Le candidat doit faire preuve de polyvalence et d'adaptabilité, qualité indispensable dans un environnement en constante évolution.\n\n\nSi vous vous reconnaissez dans ce profil, postulez des aujourd'hui et saisissez l'opportunite de faire evoluer votre carriere tout en contribuant au succes de nos clients.\n\n\nLe premier entretien se fera avec une personne du Mercato de l'emploi. Vous aurez ensuite 2 entretiens dans l'entreprise : avec le manager puis avec l'un des co-fondateurs avec un test technique entre les 2 rdv.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8141602",
       "created": "22/10/2026"
+    },
+    {
+      "externalId": "216LKTQ",
+      "title": "Agent administratif / Agente administrative",
+      "company": "SARL MAILLOLES",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - PERPIGNAN",
+      "minutes": 46,
+      "distanceKm": 29,
+      "contract": "CDI",
+      "salaryMinBrut": 2093,
+      "salaryMaxBrut": 2093,
+      "salaryRaw": "Horaire de 13.8 Euros",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Vous maîtrisez parfaitement le chinois et souhaitez mettre vos compétences linguistiques et administratives au service d'une entreprise tournée vers l'international ? Rejoignez notre entreprise pour assurer la liaison avec nos clients et partenaires basés à Shanghai et participer au suivi administratif et douanier des opérations commerciales.\n\nAu sein de l'entreprise, vous assurez l'interface administrative et commerciale entre l'entreprise et ses clients et partenaires chinois situés à Shanghai.\n\nÀ ce titre, vos missions seront les suivantes :\n- Assurer les échanges quotidiens avec les clients et partenaires chinois, principalement en langue mandarine\n- Assurer la traduction et la transmission des informations commerciales et administratives entre les interlocuteurs français et chinois.\n- Gérer le suivi administratif des commandes : réception, saisie, suivi et mise à jour des dossiers.\n- Assurer le suivi des expéditions et des flux de marchandises à destination de la Chine.\n- Participer à la préparation et au suivi des documents nécessaires aux opérations d'import-export.\n- Vérifier et assurer le suivi des documents douaniers et des formalités de dédouanement.\n- Coordonner les échanges avec les transporteurs, transitaires et prestataires logistiques.\n- Veiller au respect des délais et au bon déroulement des opérations.\n- Assurer le classement, l'archivage et la mise à jour des documents administratifs.\nProfil recherché\n\nVous justifiez d'une première expérience sur un poste administratif ou dans un environnement international.\n\nCompétences indispensables :\n- Maîtrise courante du chinois mandarin, à l'oral comme à l'écrit, indispensable pour échanger avec les interlocuteurs basés à Shanghai.\n- Connaissances des procédures douanières et des formalités liées à l'import-export.\n- Connaissance des documents de transport et des échanges internationaux.\n- Maîtrise des outils bureautiques (Word, Excel, messagerie électronique).\n\nQualités attendues :\n- Excellent sens de l'organisation et rigueur administrative.\n- Bon relationnel et aisance dans les échanges interculturels.\n- Autonomie, réactivité et capacité à gérer plusieurs dossiers simultanément.\n- Discrétion et respect de la confidentialité des échanges commerciaux.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216LKTQ",
+      "created": "16/11/2026"
+    },
+    {
+      "externalId": "216LBKD",
+      "title": "Secretaire (H/F)",
+      "company": "CAPDET SERVICE",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - PERPIGNAN",
+      "minutes": 46,
+      "distanceKm": 29,
+      "contract": "CDD - 6 Mois",
+      "salaryMinBrut": 1870,
+      "salaryMaxBrut": 1900,
+      "salaryRaw": "Mensuel de 1870.0 Euros à 1900.0 Euros",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "entreprise bâtiment second oeuvre 19 salariés\nplomberie , électricité, climatisation, chauffage , électroménager\nréception appel téléphonique\nplanification interventions techniciens et traitement des interventions",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216LBKD",
+      "created": "16/11/2026"
     },
     {
       "externalId": "216KTZZ",
@@ -77,24 +131,6 @@
       "created": "14/11/2026"
     },
     {
-      "externalId": "216JYTX",
-      "title": "Assistante Administrative (H/F)",
-      "company": "MISSIONS INTERIM PERPIGNAN",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - LE SOLER",
-      "minutes": 35,
-      "distanceKm": 22,
-      "contract": "Intérim - 6 Mois",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1867,
-      "salaryRaw": "Mensuel de 1867.02 Euros",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Description du poste\nNous recherchons une Assistante Administrative (H/F) disposant d'une solide expérience dans l'assistanat administratif, ainsi que d'une bonne connaissance du secteur automobile, afin d'assurer la gestion et le suivi des tâches administratives de l'entreprise.\n\nVos missions\nAssurer la gestion administrative quotidienne de l'entreprise.\nGérer les appels téléphoniques, les mails et les courriers.\nAssurer le suivi et le classement des dossiers administratifs.\nRédiger et mettre en forme les documents administratifs.\nEffectuer la saisie et le suivi des données sur les logiciels internes.\nAssurer le suivi des dossiers liés à l'activité automobile.\nGérer les échanges avec les clients, fournisseurs et partenaires.\nVeiller au bon suivi des procédures administratives.\n\nProfil recherché\nVous justifiez d'une expérience de 10 ans minimum dans l'assistanat administratif.\nVous avez une bonne connaissance de l'environnement et du secteur automobile.\nVous maîtrisez les outils informatiques et bureautiques.\nVous êtes rigoureux(se), organisé(e), autonome et polyvalent(e).\nVous avez un excellent relationnel et un bon sens de la communication.\nVous êtes capable de gérer plusieurs tâches simultanément et de travailler en équipe.\n\nConditions de travail\nPoste en entreprise.\nHoraires selon les besoins de l'entreprise.\nRémunération selon profil et expérience.\n\nCandidature\nVous souhaitez mettre votre expérience et vos compétences au service d'une entreprise dynamique ? Envoyez-nous votre candidature dès maintenant !",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216JYTX",
-      "created": "13/11/2026"
-    },
-    {
       "externalId": "216KCZF",
       "title": "Assistant (e) administratif (ve) H/F (H/F)",
       "company": "UNION FRANCAISE CENTRE VACANCES LOISIRS",
@@ -107,24 +143,6 @@
       "hours": "Temps partiel - 28H/semaine\nTravail en journée",
       "description": "L'UFCV, au sein de sa Délégation Occitanie et plus particulièrement de son secteur animation territoriale des Pyrénées Orientales (L'UFCV gère plusieurs crèches, accueils de loisirs périscolaires et extrascolaires sur la commune de Perpignan) recherche son ou sa futur.e assistant.e des activités.\n\nAppuyé.e par les services administratifs de l'UFCV, vous êtes en charge de la gestion administrative de l'activité.\n\nLa délégation de Perpignan gère principalement les activités d'animation territoriale du département. Elle est également ouverte au public pour tout renseignement sur l'ensemble de ses activités.\n\nLe personnel administratif travaille également en lien avec les différents sites de l'UFCV en Occitanie.\n\nLe poste est sous la responsabilité hiérarchique de la déléguée régionale et sous la responsabilité opérationnelle du responsable animation territoriale, et vous réalisez vos actions en étant appuyé.e par vos collègues du secteur administratif de l'UFCV Occitanie.\n\nVous êtes en relation principalement avec vos collègues directeurs et coordinateurs ALAE et ALSH du marché de Perpignan pour la gestion administrative de l'activité, mais aussi avec l'équipe administrative de l'UFCV en Occitanie répartis sur toute la région. Vous veillez à la continuité du service proposé aux bénéficiaires tout en respectant les différentes procédures mises en place par l'UFCV.\n\nVos principales missions seront : \nAssurer la gestion administrative auprès des familles, de l'inscription à la facturation via un logiciel métier spécifique.\nAssurer l'accueil téléphonique et physique de qualité auprès des différents publics\nAssurer une qualité dans les renseignements donnés\nContribuer au bon fonctionnement général de la délégation\nContribuer au suivi administratif des différentes activités de l'UFCV sur la région.\n\nFonctions et responsabilités :\n\nGestion administrative des inscriptions :\nSuivi des demandes d'inscription des familles et de la bonne réception des différentes pièces nécessaires\nCréation, saisie et suivi des dossiers d'inscriptions des enfants par le biais d'un logiciel spécifique de gestion des accueils de loisirs\nSuivre et vérifier les pointages journaliers\nVérification et édition des facturations mensuelles\nEncaissements\nSuivi et relance des impayés\nRangement, et classement des dossiers administratifs\nEnregistrement et suivi des aides financeurs/preneurs en charge\n\nPermanence physique et téléphonique\nAssurer des réponses qualitatives aux familles, être à leur écoute, répondre à leurs demandes et savoir les rassurer ; respect du secret professionnel et confidentialité indispensable.\nÊtre la courroie de transmission des informations en direction des professionnels auprès des enfants et des équipes de direction.\n\nCentralisation de transmission des données\nEffectifs\nEngagement des dépenses\nProgrammes d'activité\n\nTravailler en collaboration permanente avec l'équipe de coordination sur l'ensemble des autres tâches administratives et organisationnelles nécessaires au bon fonctionnement de la délégation et des ALAE/ALSH :\nCommandes des repas, réception des commandes, lien aux fournisseurs, .\nParticipation aux réunions d'équipes, aux formations et aux divers évènements organisés avec les familles et les enfants\n\nDans les premières semaines de l'embauche, 2 jours de formation continue sont prévus à Toulouse ou Perpignan.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/216KCZF",
-      "created": "13/11/2026"
-    },
-    {
-      "externalId": "216KQJT",
-      "title": "Secrétaire (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "minutes": 46,
-      "distanceKm": 29,
-      "contract": "CDI",
-      "salaryMinBrut": 2026,
-      "salaryMaxBrut": 2026,
-      "salaryRaw": "Horaire de 13.36 Euros",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "L'entreprise\n\nÉditeur de logiciels SaaS et créateur de sites web, nous développons et commercialisons nos propres logiciels de gestion auprès de professionnels partout en France. Notre petite équipe grandit et nous renforçons l'accueil et le suivi de nos clients.\n\nVos missions\n\nVous êtes le premier contact de nos clients et prospects, et vous assurez le suivi administratif de l'activité.\n\nAccueil et support clients :\n\nRépondre aux appels entrants, identifier la demande et orienter vers le bon interlocuteur\nTraiter les demandes d'assistance par téléphone, e-mail et tickets, et en garder la trace\nAccompagner les clients dans la prise en main du logiciel (questions d'utilisation courantes)\nTransmettre à l'équipe technique les demandes qui le nécessitent et tenir le client informé\nRappeler les clients et relancer les demandes en attente\n\nGestion administrative et commerciale :\n\nTenir à jour les fiches clients et prospects dans notre outil de suivi\nRépondre aux demandes de contact et de démonstration, planifier les rendez-vous\nPréparer les contrats et suivre leur signature\nÉtablir les factures, suivre les règlements et relancer les impayés\nGérer le courrier, les e-mails et le classement des documents\n\nProfil recherché\n\nFormation Bac à Bac+2 en assistanat, gestion ou relation client\nExcellente expression orale et écrite, orthographe irréprochable\nAisance au téléphone, sens de l'écoute et patience\nÀ l'aise avec les outils informatiques et curieux(se) d'apprendre un logiciel métier\nRigueur, organisation et discrétion (données confidentielles)\nUne expérience en support client est un plus\n\nConditions\n\nPoste basé à Perpignan, du lundi au vendredi\nFormation à nos logiciels assurée à la prise de poste",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216KQJT",
       "created": "13/11/2026"
     },
     {
@@ -258,19 +276,6 @@
       "description": "Nous recherchons un(e) Secrétaire administratif(ve) pour une de nos entreprises partenaires.\n \nVous épaulez l'équipe au quotidien : accueil, documents, dossiers, vous faites en sorte que tout soit prêt et à jour. Vous préparez en parallèle un titre professionnel reconnu par l'État, (entièrement financé) et vous êtes rémunéré dès le premier jour.\n \n \n \nVos missions :\n \n- \nAccueillir les visiteurs et répondre au téléphone.\n \n- \nRédiger et mettre en forme les courriers et documents professionnels.\n \n- \nSaisir et mettre à jour les données et les dossiers.\n \n- \nSuivre les demandes et les commandes, et faire les relances nécessaires.\n \n- \nClasser, archiver et assurer le suivi administratif courant.- \nAucun diplôme n'est exigé pour débuter la formation.\n \n- \nVous êtes organisé(e) et rigoureux(euse)\n \n- \nVous savez utiliser un ordinateur : traitement de texte, tableur, messagerie.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8224600",
       "created": "23/10/2026"
-    },
-    {
-      "externalId": "7989829",
-      "title": "Secrétaire administratif / Secrétaire administrative (H/F)",
-      "company": "AUREIS FORMATION",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "contract": "CDD - 24 Mois",
-      "hours": "35H/semaine\nHoraires annuels",
-      "description": "Offre collectée par La bonne alternance : Réalise le traitement administratif de dossiers (frappe de courrier, mise en forme de document, ...) et transmet les informations (e-mail, notes, fax, ...) pour le compte d'un ou plusieurs services ou d'un responsable selon l'organisation de l'entreprise. Peut prendre en charge le suivi complet de dossiers (contrats de maintenance des équipements, de la structure, ...). Peut coordonner une équipe. Le salaire d'un apprenti est fixé par la réglementation en vigueur. Il dépend de plusieurs facteurs. Un simulateur à jour est disponible à l'adresse https://labonnealternance.apprentissage.beta.gouv.fr/salaire-alternant",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7989829",
-      "created": "16/10/2026"
     },
     {
       "externalId": "7979523",
