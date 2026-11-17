@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T19:37:58.120Z",
+  "generatedAt": "2026-11-17T14:38:14.147Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 24,
+  "count": 21,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -75,6 +75,24 @@
       "description": "RESPONSABILITÉS : \n\nEn tant que Technical Account Manager, vous rejoindrez une équipe d'une dizaine de personnes. Vous serez le principal interlocuteur technique entre l'entreprise et les clients.\n\n\nVos missions :\n - Gérer les intégrations, implémentations de tags et solutions publicitaires personnalisées (HTML, CSS, JavaScript)\n - Garantir un onboarding fluide et une mise en place technique optimale des nouveaux clients\n - Diagnostiquer et résoudre les problèmes de performance technique\n - Collaborer avec les équipes internes (AdOps, Produit, Ingénierie, Account Management) pour résoudre les enjeux techniques\n - Animer des revues techniques et présenter des insights basés sur les données\n - Identifier des opportunités d'optimisation et conseiller le client sur les meilleures pratiques\n - Documenter les processus d'implémentation et partager les meilleures pratiques\n - Assurer une veille technologique sur les évolutions du secteur Ad Tech et programmatique\n\n\nLa plupart des échanges avec les clients seront par mail ou par visioconférence. Des deplacements ponctuels sont a prevoir, notamment chez vos plus gros clients (Paris, Lyon, voire à l'étranger), intégralement pris en charge.\n\n\nLe travail se déroulera dans un environnement convivial et collaboratif, encourageant l'innovation et la prise d'initiative.\nLa taille de l'equipe favorise un esprit d'entraide et une culture de partage de connaissances.\nVous travaillerez dans un cadre international et collaborerez avec des éditeurs mondiaux et les technologies publicitaires les plus avancées.\n\nPROFIL RECHERCHÉ : \n\nLe Header Biding et GAM sont vos amis ? La condition indispensable pour ce poste est la maîtrise de l'optimisation d'espaces publicitaires. C'est un domaine très particulier de la programmatique en AdTech qu'il faudra mettre en avant dans vos candidatures.\n\n\nProfil recherché :\n - Bac +3 à +5 en informatique, publicité digitale ou équivalent\n - Minimum 3 ans d'expérience en Technical Account Management ou poste technique orienté client dans l'Ad Tech, la programmatique ou la\n - Compétences solides en HTML, CSS et JavaScript\n - Connaissance des plateformes publicitaires et systèmes de tracking (GAM, Prebid, Header Bidding, etc.)\n - Excellente capacité d'analyse et résolution de problèmes techniques\n - Aisance à vulgariser des concepts techniques\n - Proactif(ve), rigoureux(se) et orienté(e) résultats\n - Maîtrise du français et de l'anglais (écrit et oral), l'espagnol serait un plus\n - Une expérience dans la relation commerciale serait un plus également\n\n\nPoste en CDI, statut Cadre, basé au Boulou (66) mais le télétravail est envisageable à temps plein.\nCe poste peut s'envisager sur des clients US et/ou internationaux avec des horaires adaptés.\n\n\nPrise de poste dès que possible\nSalaire fixe à partir de 60 000 bruts annuels + Variable sur objectif.\nEvolution avec des formations techniques et soft skills continues\n\n\nEn plus de compétences techniques et relationnelles, nous recherchons une personne dynamique, autonome et orientée résultats. La capacité à travailler en équipe et à collaborer avec différents départements pour atteindre des objectifs communs est essentielle. Le candidat doit faire preuve de polyvalence et d'adaptabilité, qualité indispensable dans un environnement en constante évolution.\n\n\nSi vous vous reconnaissez dans ce profil, postulez des aujourd'hui et saisissez l'opportunite de faire evoluer votre carriere tout en contribuant au succes de nos clients.\n\n\nLe premier entretien se fera avec une personne du Mercato de l'emploi. Vous aurez ensuite 2 entretiens dans l'entreprise : avec le manager puis avec l'un des co-fondateurs avec un test technique entre les 2 rdv.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8141602",
       "created": "22/10/2026"
+    },
+    {
+      "externalId": "216MPXT",
+      "title": "Assistant administratif / Assistante administrative et comptable (H/F)",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - SAINTE-MARIE-LA-MER",
+      "minutes": 67,
+      "distanceKm": 43,
+      "contract": "CDI",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1867,
+      "salaryRaw": "Horaire de 12.31 Euros",
+      "hours": "Temps partiel - 10H/semaine\nTravail en journée",
+      "description": "Nous recrutons un assistant administratif et comptable H/F pour une prise de poste dès que possible. \n\nVos missions : \n-Suivi comptable quotidien\n-Rapprochements bancaires\n-Préparation du bilan pour l'expert\n-Suivi des règlements\n-Préparation et envoi des salaires\n-Accueil téléphonique et réception clients\n\nVous êtes impérativement autonome sur la partie comptabilité. \nNous vous proposons un poste en CDI temps partiel 2h par jour (soit 10h/semaine) du Lundi au Vendredi de 08h00 à 10h00. Vous pouvez également compléter ce temps partiel jusqu'à 30h par semaine.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216MPXT",
+      "created": "17/11/2026"
     },
     {
       "externalId": "216LKTQ",
@@ -175,24 +193,6 @@
       "description": "Dans les collèges et lycées, en appui du ou de la secrétaire général(e), le ou la secrétaire d'intendance assure de façon autonome l'analyse, le suivi et la réalisation de dossiers et ressources touchant des domaines divers (notamment matériels et financiers) et concourant au fonctionnement général de l'établissement.\n\nActivités principales :\n -assurer les tâches administratives et budgétaires liées au secrétariat d'intendance\n -Suivi des commandes et des dépenses de l'établissement\n -Suivi des dossiers de bourses (de la demande à la mise en paiement)\n -Suivi de la situation des créances et des créances contentieuses\n -Établissement des documents financiers\n -Appui administratif\n\nConditions particulières d'exercice : \n\nTemps de travail annualisé soumis au calendrier des vacances scolaires et permanences éventuelles.\n\nProfil recherché : \n\nConnaissances :\n -Maitrise des outils informatiques et bureautique\nConnaissances souhaitées :\n -Maitrise des compétences techniques du domaine (exemple : achat public, comptabilité publique.)\n -Connaissances de l'environnement professionnel (fonctionnement d'un établissement scolaire)\nCompétences opérationnelles :\n -Organiser son travail en respectant les calendriers et les procédures\n -Appliquer des procédures et des règles administratives\n -Inscrire son travail dans une organisation collective et un cadre hiérarchique, coopérer au sein d'une équipe et rendre compte de son activité\n -Etre en relation avec différents interlocuteurs : usagers (élèves, familles), personnels (enseignants et administratifs), services extérieurs (rectorat, collectivités territoriales)\nCompétences comportementales :\n -Esprit d'équipe\n -Sens de l'organisation\n -Capacité d'adaptation\n -Rigueur / Fiabilité\n -Capacité à rendre compte\n ",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/216HZRQ",
       "created": "12/11/2026"
-    },
-    {
-      "externalId": "216GZTD",
-      "title": "Job Dating Handicap - Secrétaire / Facturière H/F",
-      "company": "PEREZ NETTOYAGE",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - ST ANDRE",
-      "minutes": 60,
-      "distanceKm": 38,
-      "contract": "CDI",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1867,
-      "salaryRaw": "Horaire de 12.31 Euros",
-      "hours": "Temps partiel - 20H/semaine\nTravail en journée",
-      "description": "Vous travaillerez au siège d'une société spécialisée dans le nettoyage.\nVous saisirez classerez les devis, saisirez les bons de commandes les factures\nVous assurerez le suivi administratif des dossiers clients et fournisseurs les dossiers clients.\nVous travaillerez sur informatique et notamment des tableurs et le pack office.\nVous devez avoir de bonnes notions en comptabilité pour pouvoir postuler.\n\nVous travaillerez à mi-temps du lundi au vendredi : 08h30 - 12h00\nVous avez impérativement votre permis B en cours de validité et dans l'idéal un moyen de locomotion pour vous déplacer jusqu'à l'entreprise.\n\nJob dating Handicap mardi 17 Novembre 2026 :\nMairie de Perpignan, Espace citoyen Firmin Bauby, 11 rue Nature, 66000 Perpignan. 09h-13H.\nVous devez impérativement vous inscrire sur Mes Evènements Emploi (job dating Nettoyage du 17 Novembre) pour pouvoir participer au Job dating.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216GZTD",
-      "created": "10/11/2026"
     },
     {
       "externalId": "8649108",
@@ -309,54 +309,6 @@
       "description": "Nous recherchons un(e) Secrétaire administratif(ve) pour une de nos entreprises partenaires.\n \nVous épaulez l'équipe au quotidien : accueil, documents, dossiers, vous faites en sorte que tout soit prêt et à jour. Vous préparez en parallèle un titre professionnel reconnu par l'État, (entièrement financé) et vous êtes rémunéré dès le premier jour.\n \n \n \nVos missions :\n \n- \nAccueillir les visiteurs et répondre au téléphone.\n \n- \nRédiger et mettre en forme les courriers et documents professionnels.\n \n- \nSaisir et mettre à jour les données et les dossiers.\n \n- \nSuivre les demandes et les commandes, et faire les relances nécessaires.\n \n- \nClasser, archiver et assurer le suivi administratif courant.- \nAucun diplôme n'est exigé pour débuter la formation.\n \n- \nVous êtes organisé(e) et rigoureux(euse)\n \n- \nVous savez utiliser un ordinateur : traitement de texte, tableur, messagerie.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8224600",
       "created": "23/10/2026"
-    },
-    {
-      "externalId": "7979523",
-      "title": "Secrétaire Médical en alternance F/H - Walter Learning",
-      "company": "Walter Learning",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Prades",
-      "contract": "CDD - 18 Mois",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1868,
-      "salaryRaw": "Mensuel de 1867.0 Euros à 1868.0 Euros",
-      "hours": "35H/semaine",
-      "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7979523",
-      "created": "15/10/2026"
-    },
-    {
-      "externalId": "7980798",
-      "title": "Secrétaire Médical en alternance F/H - Walter Learning",
-      "company": "Walter Learning",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Céret",
-      "contract": "CDD - 18 Mois",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1868,
-      "salaryRaw": "Mensuel de 1867.0 Euros à 1868.0 Euros",
-      "hours": "35H/semaine",
-      "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7980798",
-      "created": "15/10/2026"
-    },
-    {
-      "externalId": "7975588",
-      "title": "Secrétaire Médical en alternance F/H - Walter Learning",
-      "company": "Walter Learning",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Canet-en-Roussillon",
-      "contract": "CDD - 18 Mois",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1868,
-      "salaryRaw": "Mensuel de 1867.0 Euros à 1868.0 Euros",
-      "hours": "35H/semaine",
-      "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7975588",
-      "created": "15/10/2026"
     },
     {
       "externalId": "7734941",
