@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-19T14:30:30.591Z",
+  "generatedAt": "2026-11-19T18:18:05.791Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 20,
+  "count": 18,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -107,42 +107,6 @@
       "description": "Description du poste :\n\nOffre d'alternance - Secrétaire Assistant(e) (Formation à distance avec YouSchool)\n\nLieu : Perpignan (66000)\n\nContrat : Alternance\n\nFormation : Titre Pro Secrétaire Assistant(e) (YouSchool - 100% à distance)***Description du poste\n\nDans le cadre de son développement, notre entreprise partenaire située à Perpignan (66000) recherche un(e) Secrétaire Assistant(e) en alternance. Ce poste est à pourvoir immédiatement, en lien avec notre organisme de formation YouSchool, spécialiste de la formation à distance.***VOS MISSIONS\n\nEncadré(e) par une équipe bienveillante et professionnelle, vous interviendrez sur les missions suivantes Accueil physique et téléphonique des visiteurs et clients\n- Gestion des stocks\n- Rédaction de courriers, comptes rendus et autres documents administratifs\n- Organisation et classement des dossiers\n- Gestion des courriels et de la correspondance\n- Suivi des dossiers clients et fournisseurs\n- Gestion des tâches administratives quotidiennes et support aux équipes***CE QUE NOUS PROPOSONS***Une alternance enrichissante dans un environnement stimulant***Un accompagnement personnalisé par YouSchool et l'entreprise***Une formation 100% à distance, flexible et professionnalisante***Rythme : 4 jours en entreprise, 1 jour en formation à distance, depuis chez vous. Votre employeur fixera le jour de formation.***Comment postuler ?\n\nEnvoyez-nous dès aujourd'hui votre candidature. Après réception, vous serez rapidement contacté(e) pour un premier échange avec nos recruteurs.***Lieu du poste :\n\nPerpignan (66000)***Date de début prévue :\n\nDisponible immédiatement\n\nDescription du profil :\n\nVOTRE PROFIL***Vous souhaitez suivre la formation Titre Pro Secrétaire Assistant(e) à distance avec YouSchool***Pré-requis : diplôme niveau CAP/BEP minimum***Vous êtes organisé(e) avec un bon niveau de français (écrit + oral)",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8966365",
       "created": "19/11/2026"
-    },
-    {
-      "externalId": "216MPHB",
-      "title": "Assistant administratif et commercial / Assistante administrative (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - PERPIGNAN - Marché Saint Charles",
-      "minutes": 46,
-      "distanceKm": 29,
-      "contract": "CDD - 7 Mois",
-      "salaryMinBrut": 2275,
-      "salaryMaxBrut": 2275,
-      "salaryRaw": "Horaire de 15.0 Euros - à voir en fonction de l'expérience",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Acteur spécialisé dans l'import-export de fruits et légumes, notre société souhaite accueillir un(e) assistant(e) commercial(e) et administratif(ve) afin d'accompagner son développement et de contribuer au bon fonctionnement de ses activités quotidiennes.\nNous recherchons une personne impliquée, dynamique et polyvalente, qui apprécie le travail en équipe et sait faire preuve d'initiative.\nVotre rôle au quotidien:\nVéritable relais entre les différents partenaires de l'entreprise, vous occuperez une fonction essentielle dans la coordination de nos opérations commerciales et logistiques.\nVos principales responsabilités seront :\n- Gestion commerciale : assurer le suivi administratif des ventes, enregistrer et suivre les commandes, accompagner l'équipe commerciale dans ses activités.\n- Relation clients : être l'interlocuteur privilégié des clients pour le suivi de leurs dossiers, répondre à leurs demandes et participer à la résolution des éventuels litiges.\n- Coordination logistique : organiser les transports en lien avec les fournisseurs, transporteurs et clients, tout en veillant au bon déroulement des livraisons.\n- Gestion administrative logistique : préparer, vérifier et assurer le suivi des documents nécessaires aux expéditions (bons de livraison, CMR et autres documents de transport).\nVous êtes reconnu(e) pour :\n- Votre sens de l'organisation et votre rigueur.\n- Votre réactivité et votre capacité à gérer les imprévus.\n- Votre aisance relationnelle et votre esprit d'équipe.\n- Votre autonomie et votre sens des responsabilités.\n- Votre capacité à gérer plusieurs missions en parallèle.\n\nUne première expérience dans le commerce, le transport, la logistique ou le secteur des fruits et légumes demandée.\nDe bonnes bases de l'espagnol sont indispensables pour évoluer dans notre environnement professionnel.\nNous serons ravis de découvrir votre candidature !\nHoraires : du lundi au vendredi, de 10h/11h à 18h/19h, et deux samedis matin par mois\n\nPrise de poste immédiate",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216MPHB",
-      "created": "17/11/2026"
-    },
-    {
-      "externalId": "216MPXT",
-      "title": "Assistant administratif / Assistante administrative et comptable (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - SAINTE-MARIE-LA-MER",
-      "minutes": 67,
-      "distanceKm": 43,
-      "contract": "CDI",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1867,
-      "salaryRaw": "Horaire de 12.31 Euros",
-      "hours": "Temps partiel - 10H/semaine\nTravail en journée",
-      "description": "Nous recrutons un assistant administratif et comptable H/F pour une prise de poste dès que possible. \n\nVos missions : \n-Suivi comptable quotidien\n-Rapprochements bancaires\n-Préparation du bilan pour l'expert\n-Suivi des règlements\n-Préparation et envoi des salaires\n-Accueil téléphonique et réception clients\n\nVous êtes impérativement autonome sur la partie comptabilité. \nNous vous proposons un poste en CDI temps partiel 2h par jour (soit 10h/semaine) du Lundi au Vendredi de 08h00 à 10h00. Vous pouvez également compléter ce temps partiel jusqu'à 30h par semaine.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216MPXT",
-      "created": "17/11/2026"
     },
     {
       "externalId": "216LKTQ",
