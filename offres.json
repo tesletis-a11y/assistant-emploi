@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T14:08:15.988Z",
+  "generatedAt": "2026-11-20T17:49:30.722Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 22,
+  "count": 21,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -154,24 +154,6 @@
       "description": "Nous recherchons pour l'un de nos coopérateurs un(e) Secrétaire Facturation Comptabilité afin d'intervenir au sein de l'un de nos établissements du médico social, situé à Osséja (66340).\n\nHoraires (négociables) : 9h - 12h30 & 13h30 - 17h\n\nVos missions :\n\nSous l'autorité de la direction et du chef de service, vous serez chargé(e) d'assurer la facturation des prestations, contrôler les paiements et relancer les impayés. Vous effectuerez la tenue et le contrôle des caisses de l'établissement. Vous réaliserez des travaux de comptabilité simple dans le respect des procédures de l'établissement. Vous travaillerez en lien avec le service des admissions Vous participerez au réunion de service. \n\n * Gérer la facturation des séjours patients\n * Editer et envoyer les factures séjours\n * Enregistrer et encaisser les règlements des séjours\n * Assurer le suivi des règlements et relancer les caisses, mutuelles et patients\n * Effectuer des rapprochements bancaires\n * Assurer le suivi et le règlement des notes de frais\n * Etablir des documents comptables simples\n * Assurer la gestion des caisses de l'établissement\n * Assurer la gestion de l'argent de poche des patients mineurs\n\nVous serez également ponctuellement amené(e) à effectuer divers travaux de secrétariat pour les autres services administratifs de la structure\n\nProfil recherché :\n\n * Diplôme de niveau 4 (bac ou équivalent) dans le domaine de la facturation/comptabilité.\n * Expérience en établissement de santé souhaitée\n * Vous êtes à l'aise avec l'outil informatique notamment Excel, vous avez une expérience avec un logiciel DPI (Dossier patient informatisé)\n * Discrétion, sens de l'organisation et de l'analyse, autonomie et rigueur sont les principales qualités et aptitudes demandées pour occuper ce poste\n\nPoste à pourvoir à compter du 01/12/2026 pour durée de 1 à 3 mois.\n\nPossibilité d'évolution en CDI.\n\nPossibilité de logement sur place et d'indemnités kilométriques sur forfait à la semaine.\n\nSalaire selon diplôme et ancienneté, sur base de la Convention 51",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/216QPZZ",
       "created": "19/11/2026"
-    },
-    {
-      "externalId": "216MPXT",
-      "title": "Assistant administratif / Assistante administrative et comptable (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - SAINTE-MARIE-LA-MER",
-      "minutes": 67,
-      "distanceKm": 43,
-      "contract": "CDI",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1867,
-      "salaryRaw": "Horaire de 12.31 Euros",
-      "hours": "Temps partiel - 10H/semaine\nTravail en journée",
-      "description": "Nous recrutons un assistant administratif et comptable H/F pour une prise de poste dès que possible. \n\nVos missions : \n-Suivi comptable quotidien\n-Rapprochements bancaires\n-Préparation du bilan pour l'expert\n-Suivi des règlements\n-Préparation et envoi des salaires\n-Accueil téléphonique et réception clients\n\nVous êtes impérativement autonome sur la partie comptabilité. \nNous vous proposons un poste en CDI temps partiel 2h par jour (soit 10h/semaine) du Lundi au Vendredi de 08h00 à 10h00. Vous pouvez également compléter ce temps partiel jusqu'à 30h par semaine.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216MPXT",
-      "created": "17/11/2026"
     },
     {
       "externalId": "216LKTQ",
