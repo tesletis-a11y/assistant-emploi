@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T17:49:30.722Z",
+  "generatedAt": "2026-11-21T13:33:41.576Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 21,
+  "count": 22,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -61,20 +61,49 @@
       "created": "08/10/2026"
     },
     {
-      "externalId": "8141602",
-      "title": "Technical Account Manager (TAM) (H/F)",
-      "company": "Mercato de l'emploi",
+      "externalId": "9065121",
+      "title": "Assistant commercial et administratif (F/H)",
+      "company": "Entreprise non précisée",
       "source": "France Travail",
-      "profil": "Banque / back-office",
-      "location": "66 - Boulou",
-      "contract": "CDI",
-      "salaryMinBrut": 5000,
-      "salaryMaxBrut": 6250,
-      "salaryRaw": "Annuel de 60000.0 Euros à 75000.0 Euros",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "RESPONSABILITÉS : \n\nEn tant que Technical Account Manager, vous rejoindrez une équipe d'une dizaine de personnes. Vous serez le principal interlocuteur technique entre l'entreprise et les clients.\n\n\nVos missions :\n - Gérer les intégrations, implémentations de tags et solutions publicitaires personnalisées (HTML, CSS, JavaScript)\n - Garantir un onboarding fluide et une mise en place technique optimale des nouveaux clients\n - Diagnostiquer et résoudre les problèmes de performance technique\n - Collaborer avec les équipes internes (AdOps, Produit, Ingénierie, Account Management) pour résoudre les enjeux techniques\n - Animer des revues techniques et présenter des insights basés sur les données\n - Identifier des opportunités d'optimisation et conseiller le client sur les meilleures pratiques\n - Documenter les processus d'implémentation et partager les meilleures pratiques\n - Assurer une veille technologique sur les évolutions du secteur Ad Tech et programmatique\n\n\nLa plupart des échanges avec les clients seront par mail ou par visioconférence. Des deplacements ponctuels sont a prevoir, notamment chez vos plus gros clients (Paris, Lyon, voire à l'étranger), intégralement pris en charge.\n\n\nLe travail se déroulera dans un environnement convivial et collaboratif, encourageant l'innovation et la prise d'initiative.\nLa taille de l'equipe favorise un esprit d'entraide et une culture de partage de connaissances.\nVous travaillerez dans un cadre international et collaborerez avec des éditeurs mondiaux et les technologies publicitaires les plus avancées.\n\nPROFIL RECHERCHÉ : \n\nLe Header Biding et GAM sont vos amis ? La condition indispensable pour ce poste est la maîtrise de l'optimisation d'espaces publicitaires. C'est un domaine très particulier de la programmatique en AdTech qu'il faudra mettre en avant dans vos candidatures.\n\n\nProfil recherché :\n - Bac +3 à +5 en informatique, publicité digitale ou équivalent\n - Minimum 3 ans d'expérience en Technical Account Management ou poste technique orienté client dans l'Ad Tech, la programmatique ou la\n - Compétences solides en HTML, CSS et JavaScript\n - Connaissance des plateformes publicitaires et systèmes de tracking (GAM, Prebid, Header Bidding, etc.)\n - Excellente capacité d'analyse et résolution de problèmes techniques\n - Aisance à vulgariser des concepts techniques\n - Proactif(ve), rigoureux(se) et orienté(e) résultats\n - Maîtrise du français et de l'anglais (écrit et oral), l'espagnol serait un plus\n - Une expérience dans la relation commerciale serait un plus également\n\n\nPoste en CDI, statut Cadre, basé au Boulou (66) mais le télétravail est envisageable à temps plein.\nCe poste peut s'envisager sur des clients US et/ou internationaux avec des horaires adaptés.\n\n\nPrise de poste dès que possible\nSalaire fixe à partir de 60 000 bruts annuels + Variable sur objectif.\nEvolution avec des formations techniques et soft skills continues\n\n\nEn plus de compétences techniques et relationnelles, nous recherchons une personne dynamique, autonome et orientée résultats. La capacité à travailler en équipe et à collaborer avec différents départements pour atteindre des objectifs communs est essentielle. Le candidat doit faire preuve de polyvalence et d'adaptabilité, qualité indispensable dans un environnement en constante évolution.\n\n\nSi vous vous reconnaissez dans ce profil, postulez des aujourd'hui et saisissez l'opportunite de faire evoluer votre carriere tout en contribuant au succes de nos clients.\n\n\nLe premier entretien se fera avec une personne du Mercato de l'emploi. Vous aurez ensuite 2 entretiens dans l'entreprise : avec le manager puis avec l'un des co-fondateurs avec un test technique entre les 2 rdv.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8141602",
-      "created": "22/10/2026"
+      "profil": "Assistanat administratif",
+      "location": "66 - Perpignan",
+      "contract": "Intérim - 1 Mois",
+      "hours": "",
+      "description": "Vous aimez les postes variés, le contact client et les environnements dynamiques ?\nRejoignez une entreprise locale en combinant vente en magasin et activité e-commerce B2B / B2C.\nNous recherchons un(e) collaborateur(trice) polyvalent(e) impliqué(e), organisé(e) et à l'aise avec la relation commerciale.\nVos missions:Au coeur de l'activité, vous participerez notamment à :- Gestion administrative des ventes- Élaboration de devis et suivi de commandes- Relation clients (professionnels et particuliers)- Vente et accueil en magasin- Suivi du site e-commerce / mise en ligne d'articles- Gestion des stocks et approvisionnements- Service après-vente- Participation aux actions marketing / webmarketing\nPoste partagé entre back office et front office.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9065121",
+      "created": "21/11/2026"
+    },
+    {
+      "externalId": "9031578",
+      "title": "Secrétaire Médical en alternance F/H - Walter Learning",
+      "company": "Walter Learning",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Prades",
+      "contract": "CDD - 18 Mois",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1868,
+      "salaryRaw": "Mensuel de 1867.0 Euros à 1868.0 Euros",
+      "hours": "35H/semaine",
+      "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9031578",
+      "created": "20/11/2026"
+    },
+    {
+      "externalId": "9031763",
+      "title": "Secrétaire Médical en alternance F/H - Walter Learning",
+      "company": "Walter Learning",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Perpignan",
+      "contract": "CDD - 18 Mois",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1868,
+      "salaryRaw": "Mensuel de 1867.0 Euros à 1868.0 Euros",
+      "hours": "35H/semaine",
+      "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9031763",
+      "created": "20/11/2026"
     },
     {
       "externalId": "8966391",
@@ -328,22 +357,6 @@
       "hours": "",
       "description": "Dans le cadre du développement de notre activité, nous recherchons un(e) Assistant(e) polyvalent(e) pour accompagner notre organisation dans différentes tâches administratives et opérationnelles.Vos missionsVous serez notamment chargé(e) de :Assurer diverses tâches administratives courantes ; Gérer et classer des documents et dossiers ; Effectuer le suivi et la mise à jour de certaines informations ; Répondre aux appels téléphoniques et aux courriels ; Organiser et suivre les rendez-vous et les agendas ; Effectuer différentes démarches et tâches administratives selon les besoins ; Assurer un soutien général dans l'organisation quotidienne.\n\nNous recherchons une personne :Sérieuse, organisée et autonome ; Ponctuelle et rigoureuse ; À l'aise avec les outils informatiques et la communication écrite ; Discrète et respectueuse de la confidentialité ; Ayant un bon sens de l'organisation et des priorités. Une première expérience dans l'assistanat, l'administration ou un poste similaire est appréciée, mais les candidatures motivées sont également étudiées.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/7734941",
-      "created": "07/10/2026"
-    },
-    {
-      "externalId": "7716240",
-      "title": "Secrétaire juridique (H/F)",
-      "company": "SANTAIS LEA",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "contract": "CDI",
-      "salaryMinBrut": 1833,
-      "salaryMaxBrut": 2000,
-      "salaryRaw": "Annuel de 22000.0 Euros à 24000.0 Euros",
-      "hours": "",
-      "description": "Description du poste :\n\nCompétences recherchées : Accueil téléphonique et gestion des échanges avec les interlocuteurs\nGestion administrative et suivi des dossiers\nRédaction, mise en forme et classement de documents\nGestion du courrier et des e-mails\nSuivi des formalités administratives et juridiques\nRéalisation des formalités sur le portail INPI appréciée\nOrganisation et archivage des dossiers\nAssistance quotidienne auprès des collaborateurs\n\nLe pôle finance d'entreprise et juridique, recrute pour le compte de clients à dimension régionale ou internationale.\n\nDescription du profil :\n\nLe profil recherché : Première expérience en secrétariat juridique indispensable\nMaîtrise des formalités INPI appréciée\nBonne maîtrise des outils bureautiques\nRigueur, discrétion et sens de l'organisation\nBon relationnel et esprit d'équipe\nAutonomie dans la gestion des tâches administratives\n\nCe que l'on vous propose : CDI à temps partiel\nPoste basé à Perpignan\nTemps de travail de 20 à 25 heures par semaine\nEnvironnement de travail à taille humaine\nMissions variées et polyvalentes\n\nRémunération : de 22500€ à 24000€\n\nLEA Recrutement",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7716240",
       "created": "07/10/2026"
     },
     {
