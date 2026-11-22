@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-21T16:47:53.409Z",
+  "generatedAt": "2026-11-22T13:26:35.208Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 22,
+  "count": 21,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -74,6 +74,19 @@
       "created": "21/11/2026"
     },
     {
+      "externalId": "9072244",
+      "title": "ASSISTANT DENTAIRE EN ALTERNANCE (H/F)",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Pyrénées-Orientales",
+      "contract": "CDD - 6 Mois",
+      "hours": "",
+      "description": "Vous souhaitez devenir Assistant(e) dentaire ? Cette annonce est faite pour vous !\n\nFormation & Santé est un centre de formation spécialisé dans le domaine des professions paramédicales. Depuis  il vous permet de suivre la formation d'assistant(e) dentaire en alternance.\nNous recherchons, pour nos entreprises partenaires, des assistant(e)s dentaires H/F en alternance pour plusieurs postes à pourvoir.\nLa formation (sans frais pour le candidat) dure 18 mois et se déroule en CDD en contrat de professionnalisation ou d'apprentissage avec pour objectif le titre professionnel d'assistant(e) dentaire. (Titre de niveau IV inscrit au RNCP).\nAvantages :\n * Remboursement des transports à 50%\n\n \n\nVos missions en tant qu'Assistant(e) Dentaire en alternance incluent :\n * Gestion administrative du cabinet dentaire, y compris la planification des rendez-vous et la gestion de l'agenda.\n * Assistance au praticien lors des soins, y compris l'installation des salles de soins et la préparation des instruments.\n * Stérilisation du matériel et maintien de l'hygiène au sein du cabinet.\n * Communication avec les patients pour assurer un service de qualité et répondre à leurs questions.\n * Collaboration avec l'équipe dentaire pour garantir un environnement de travail efficace et harmonieux.\n\n\n \n\nNous recherchons un(e) candidat(e) qui possède :\n * Une première expérience dans un domaine lié à la santé, au commerce ou à l'aide à la personne.\n * Un intérêt marqué pour le secteur dentaire et une volonté d'apprendre.\n * Des compétences en gestion de projet, analyse de données, communication et travail d'équipe.\n * Un diplôme de niveau 3 (CAP-BEP) est requis pour entrer en formation.\n * Une capacité d'adaptation et un bon relationnel pour interagir avec les patients et l'équipe.\n\nSi vous êtes motivé(e) et prêt(e) à vous engager dans une formation enrichissante, n'hésitez pas à postuler !\n#IND/CFA ",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9072244",
+      "created": "21/11/2026"
+    },
+    {
       "externalId": "9031578",
       "title": "Secrétaire Médical en alternance F/H - Walter Learning",
       "company": "Walter Learning",
@@ -87,22 +100,6 @@
       "hours": "35H/semaine",
       "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/9031578",
-      "created": "20/11/2026"
-    },
-    {
-      "externalId": "9031763",
-      "title": "Secrétaire Médical en alternance F/H - Walter Learning",
-      "company": "Walter Learning",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "contract": "CDD - 18 Mois",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1868,
-      "salaryRaw": "Mensuel de 1867.0 Euros à 1868.0 Euros",
-      "hours": "35H/semaine",
-      "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9031763",
       "created": "20/11/2026"
     },
     {
@@ -281,19 +278,6 @@
       "description": "Activités principalesvaluer avec la personne hospitalisée (et/ou son entourage) sa situation en vue d'établir un diagnostic des incidences de sa situation médicale, familiale, sociale, financière et environnementale\n-      Informer et conseiller la personne  et son entourage sur leurs droits et devoirs, les dispositifs d'aide existants et proposer le dispositif le mieux adapté à la situation\n-      Agir pour le maintien des liens sociaux et familiaux\n-      Apporter un soutien psychosocial à la personne  et à son entourage familial et social et accompagner l'élaboration du projet personnalislaborer, en lien avec les équipes pluridisciplinaires, des plans d'aide individuels et collectifs à l'insertion ou à la réinsertion sociale et / ou professionnelle\n-      Instruire des dossiers en vue de l'obtention ou du rétablissement des droits de la personne  et négocier pour elle, si besoin est, avec les associations, institutions et services publics\n-      Mettre en place des actions préventives ou curatives en vue du retour, du maintien à domicile ou du placement, organiser le transfert vers un établissement spécialisInformer la personne  et son entourage sur l'évolution du dossier et sur d'éventuelles décisions à prendre\n-      Développer des partenariats en amont et aval avec les institutions, associations et services publics pour assurer des relais à l'extérieur de l'établissement\n-      Renseigner le dossier social et le dossier du patient sur sa situation, sur les projets d'aide mis en place et leur degré de réalisation, rédiger des rapports sociaux et des signalements\n-      Contribuer au développement de la qualité et de la gestion des risques\n\n-      Diplôme d'Etat d'assistant de service social\nSAVOIRSMaîtriser les techniques d'entretien et de communicationConnaître et utiliser la méthodologie d'élaboration, de gestion et d'évaluation de projetConnaître et respecter la législation de la Sécurité Sociale, l'organisation du système de protection sociale et posséder des notions de droit (travail, familleConnaître et utiliser les techniques de diagnostic et d'intervention sociale et de mise en œuvre d'une relation d'aideConnaître et exploiter les réseaux et organismes locaux ainsi que l'environnement institutionnelConnaître l'organisation hospitalière, sanitaire et médicosocialeConnaître les différents courants théoriques de l'action sociale et des notions de psychologie, sociologie, psychosociologie et économie et s'y référerConnaître les notions de bases des pathologies, handicaps et protocoles de soins et de leurs répercussions au niveau de l'autonomie sociale et professionnelle des personnes et s'y référerConnaître et utiliser les dispositifs en faveur des personnes confrontées ou susceptibles de l'être à un problème de santé, de perte d'autonomie ou de situation de handicapConnaître les autres métiers de l'équipe pluridisciplinaire, leurs objectifs, contraintes et méthodes et les solliciterConnaître et respecter les règles du secret professionnel liées à son activité",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/8649108",
       "created": "07/11/2026"
-    },
-    {
-      "externalId": "8625654",
-      "title": "ASSISTANT DENTAIRE EN ALTERNANCE (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Pyrénées-Orientales",
-      "contract": "CDD - 6 Mois",
-      "hours": "",
-      "description": "Vous souhaitez devenir Assistant(e) dentaire ? Cette annonce est faite pour vous !\n\nFormation & Santé est un centre de formation spécialisé dans le domaine des professions paramédicales. Depuis  il vous permet de suivre la formation d'assistant(e) dentaire en alternance.\nNous recherchons, pour nos entreprises partenaires, des assistant(e)s dentaires H/F en alternance pour plusieurs postes à pourvoir.\nLa formation (sans frais pour le candidat) dure 18 mois et se déroule en CDD en contrat de professionnalisation ou d'apprentissage avec pour objectif le titre professionnel d'assistant(e) dentaire. (Titre de niveau IV inscrit au RNCP).\nAvantages :\n * Remboursement des transports à 50%\n\n \n\nVos Missions en cabinet :\n * Gestion administrative et de l'agenda du cabinet dentaire\n * Installation des salles de soins et des instruments, travail au fauteuil avec le praticien, aide aux soins\n * Stérilisation du matériel et maintien de l'hygiène du cabinet\n * Participation à la communication avec les patients et gestion des rendez-vous\n * Collaboration avec l'équipe dentaire pour assurer un service de qualité\n\n\n \n\nNous recherchons un(e) candidat(e) qui :\n * Est motivé(e) et désireux(se) d'apprendre dans le domaine dentaire\n * A une première expérience dans le commerce, la restauration, l'aide à la personne ou dans le secteur médical\n * Possède de bonnes compétences en communication et en travail d'équipe\n * A une capacité d'analyse et de gestion de projet\n * Est titulaire d'un titre de niveau 3 (CAP-BEP) pour entrer en formation\n\nLa formation se déroule sur 18 mois en alternance, avec un rythme de 1 jour de cours par semaine et 4 jours en cabinet dentaire. Le diplôme visé est le titre professionnel d'Assistant Dentaire (Titre de niveau IV inscrit au RNCP).\n\n#IND/CFA ",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8625654",
-      "created": "06/11/2026"
     },
     {
       "externalId": "216DLSD",
