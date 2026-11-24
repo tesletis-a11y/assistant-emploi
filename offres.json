@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T21:26:53.175Z",
+  "generatedAt": "2026-11-24T15:58:48.517Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 22,
+  "count": 25,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -61,6 +61,21 @@
       "created": "08/10/2026"
     },
     {
+      "externalId": "216VJDL",
+      "title": "Assistant (e) Paie et Administratif (H/F)",
+      "company": "MEDIPATH",
+      "source": "France Travail",
+      "profil": "Gestion administrative",
+      "location": "66 - Perpignan",
+      "minutes": 46,
+      "distanceKm": 29,
+      "contract": "CDD - 4 Mois",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Dans le cadre d'un remplacement nous recherchons un(e) Assistant (e) Paie et Administratif.\n\nSous la responsabilité directe du Responsable Paie et en collaboration avec une gestionnaire paie, vous aurez en charge les missions suivantes : \n\n * Enregistrement et transmission des arrêts (maladie, professionnels, accidents de travail/trajet) via DSN.\n * Traitement et saisie de dossiers de prévoyance.\n * Soutien à l'élaboration des Solde de tout compte.\n * Contrôle et validation Note de frais\n * Aide à la saisie d'éléments variable de paie\n * Enregistrement et saisie des justificatifs de transport\n * Support au Gestionnaire en place\n\nIssu(e) de formation en paie, comptable, social ou droit, vous bénéficiez d'une première expérience dans la gestion de la paie. \n\nVotre rigueur et votre aisance relationnelle seront vos principaux atouts pour réussir dans ces futures missions et vous épanouir au sein de notre équipe.\n\nDisponible, Réactif(ve), Curieux(se), vous savez gérer les priorités en planifiant les tâches à effectuer.\n\nAvoir le sens de la confidentialité est impératif.\n\nCe poste est fait pour vous !\n\nEt sinon, travailler chez MEDIPATH, c'est :\n\n * Des MEDI'PTIT DEJ \n * Des jeux concours \n * Une prime de participation & intéressement (selon CA) \n * Un plan épargne entreprise avec abondement de la société \n * Une mutuelle d'entreprise\n * Avantages CSE",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216VJDL",
+      "created": "24/11/2026"
+    },
+    {
       "externalId": "216SZTQ",
       "title": "Gestionnaire administratif(ve) des locaux (H/F)",
       "company": "GUANTER RODRIGUEZ",
@@ -74,6 +89,24 @@
       "description": "Vos missions : \n\n- Assurer la gestion administrative et le suivi quotidien des locaux de l'entreprise. \n- Gérer les relations avec les locataires et les occupants des bâtiments (demandes, échanges, réclamations et suivi). \n- Assurer le suivi des documents administratifs. \n- Organiser et coordonner les interventions techniques, travaux, réparations et opérations de maintenance. \n- Veiller au bon entretien des locaux et au suivi des éventuels dysfonctionnements. \n- Gérer et mettre à jour les dossiers administratifs liés aux bâtiments. \n- Assurer le suivi des assurances, contrats d'entretien et différentes obligations administratives. \n\nProfil recherché :\n\n- Expérience dans le domaine de l'immobilier, de la gestion locative ou de l'administration de bâtiments. \n- Bonne maîtrise des outils informatiques et bureautiques. \n- Bon relationnel, réactivité et sens des responsabilités. \n- Organisation, rigueur, autonomie et polyvalence. \n\nVous souhaitez relever un nouveau défi professionnel ? \nNous serions ravis d'échanger avec vous ! \n\nPour postuler : Envoyez votre CV à social@grlog.com ou contactez-nous directement sur France Travail.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/216SZTQ",
       "created": "23/11/2026"
+    },
+    {
+      "externalId": "216VGYT",
+      "title": "Agent administratif / Agente administrative (H/F)",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - OSSEJA",
+      "minutes": 82,
+      "distanceKm": 52,
+      "contract": "CDI",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1867,
+      "salaryRaw": "Horaire de 12.31 Euros - reprise d'ancienneté+ primes + œuvres sociales",
+      "hours": "Temps partiel - 14H/semaine\nTravail en journée",
+      "description": "POSTE A POURVOIR DES QUE POSSIBLE \nLe (La) secrétaire administratif(ve) du Comité Social Économique dépend hiérarchiquement du secrétaire du CSE.\nSes tâches sont les suivantes :\n- Assure l'accueil physique et téléphonique du CSE\n- Gestion des œuvres sociales et l'information des droits des salariés\n- Distribution des cartes/chèques vacances et autres prestations\n- Gestion des inscriptions aux voyages, week-ends et d'autres activités \n- Gestion des locations (planning des réservations)\n- Recherche des partenaires afin d'en faire profiter les salariés de réductions (séjours, vacances, parc d'attraction )\n- Peut effectuer toutes démarches administratives à la demande de la secrétaire du CSE\n- tâches administratives afférentes au CSE\nDébutant(e accepté(e.\nPossibilité d'adapter le planning en fonction d'éventuelles contraintes.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216VGYT",
+      "created": "24/11/2026"
     },
     {
       "externalId": "9092315",
@@ -254,6 +287,24 @@
       "description": "En tant que Formateur pour les Titres Professionnels CADGA et Assistant de direction.\n\nVos principales missions seront les suivantes :\n\nAnimer des sessions de formation :\nPréparer et dispenser des cours théoriques et pratiques adaptés aux programmes des titres professionnels.\nAccompagner les apprenants dans l'acquisition des compétences nécessaires à la réussite de leur certification.\nMettre en place des évaluations pour suivre la progression des étudiants.\nAssurer la liaison avec les entreprises partenaires pour suivre les périodes en entreprise et évaluer les compétences acquises.\nAccompagnement pédagogique :\nAnimer des ateliers pratiques en lien avec les métiers du secrétariat et Assistant de direction .\nAider à la mise en situation professionnelle des apprenants à travers des études de cas, des simulations, etc.\nAssurer un suivi individualisé des apprenants en veillant à leur réussite professionnelle.\nCollaboration avec l'équipe pédagogique :\nTravailler en étroite collaboration avec les autres formateurs pour assurer la cohérence pédagogique.\nParticiper aux réunions pédagogiques et contribuer à l'amélioration des programmes de formation.\nVeiller au respect des normes et des exigences réglementaires liées à la formation.\n\nUne expérience en tant que formateur ou dans un rôle similaire est un plus.\nNiveau C1 en Anglais, \nVous êtes passionné(e) par la formation et avez à cœur d'accompagner les jeunes dans leur parcours professionnel.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/216KTZZ",
       "created": "14/11/2026"
+    },
+    {
+      "externalId": "216KQJT",
+      "title": "Secrétaire (H/F)",
+      "company": "FERVALT DIGITAL",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Perpignan",
+      "minutes": 46,
+      "distanceKm": 29,
+      "contract": "CDI",
+      "salaryMinBrut": 2026,
+      "salaryMaxBrut": 2026,
+      "salaryRaw": "Horaire de 13.36 Euros",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "L'entreprise\n\nÉditeur de logiciels SaaS et créateur de sites web, nous développons et commercialisons nos propres logiciels de gestion auprès de professionnels partout en France. Notre petite équipe grandit et nous renforçons l'accueil et le suivi de nos clients.\n\nVos missions\n\nVous êtes le premier contact de nos clients et prospects, et vous assurez le suivi administratif de l'activité.\n\nAccueil et support clients :\n\nRépondre aux appels entrants, identifier la demande et orienter vers le bon interlocuteur\nTraiter les demandes d'assistance par téléphone, e-mail et tickets, et en garder la trace\nAccompagner les clients dans la prise en main du logiciel (questions d'utilisation courantes)\nTransmettre à l'équipe technique les demandes qui le nécessitent et tenir le client informé\nRappeler les clients et relancer les demandes en attente\n\nGestion administrative et commerciale :\n\nTenir à jour les fiches clients et prospects dans notre outil de suivi\nRépondre aux demandes de contact et de démonstration, planifier les rendez-vous\nPréparer les contrats et suivre leur signature\nÉtablir les factures, suivre les règlements et relancer les impayés\nGérer le courrier, les e-mails et le classement des documents\n\nProfil recherché\n\nFormation Bac à Bac+2 en assistanat, gestion ou relation client\nExcellente expression orale et écrite, orthographe irréprochable\nAisance au téléphone, sens de l'écoute et patience\nÀ l'aise avec les outils informatiques et curieux(se) d'apprendre un logiciel métier\nRigueur, organisation et discrétion (données confidentielles)\nUne expérience en support client est un plus\n\nConditions\n\nPoste basé à Perpignan, du lundi au vendredi\nFormation à nos logiciels assurée à la prise de poste",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216KQJT",
+      "created": "13/11/2026"
     },
     {
       "externalId": "216HZRQ",
