@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T15:46:10.124Z",
+  "generatedAt": "2026-11-25T19:17:04.951Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -91,6 +91,22 @@
       "created": "23/11/2026"
     },
     {
+      "externalId": "9186388",
+      "title": "Secrétaire Médical en alternance F/H - Walter Learning",
+      "company": "Walter Learning",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Canet-en-Roussillon",
+      "contract": "CDD - 18 Mois",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1868,
+      "salaryRaw": "Mensuel de 1867.0 Euros à 1868.0 Euros",
+      "hours": "35H/semaine",
+      "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9186388",
+      "created": "25/11/2026"
+    },
+    {
       "externalId": "216VGYT",
       "title": "Agent administratif / Agente administrative (H/F)",
       "company": "Entreprise non précisée",
@@ -107,22 +123,6 @@
       "description": "POSTE A POURVOIR DES QUE POSSIBLE \nLe (La) secrétaire administratif(ve) du Comité Social Économique dépend hiérarchiquement du secrétaire du CSE.\nSes tâches sont les suivantes :\n- Assure l'accueil physique et téléphonique du CSE\n- Gestion des œuvres sociales et l'information des droits des salariés\n- Distribution des cartes/chèques vacances et autres prestations\n- Gestion des inscriptions aux voyages, week-ends et d'autres activités \n- Gestion des locations (planning des réservations)\n- Recherche des partenaires afin d'en faire profiter les salariés de réductions (séjours, vacances, parc d'attraction )\n- Peut effectuer toutes démarches administratives à la demande de la secrétaire du CSE\n- tâches administratives afférentes au CSE\nDébutant(e accepté(e.\nPossibilité d'adapter le planning en fonction d'éventuelles contraintes.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/216VGYT",
       "created": "24/11/2026"
-    },
-    {
-      "externalId": "9092315",
-      "title": "Secrétaire Médical en alternance F/H - Walter Learning",
-      "company": "Walter Learning",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Canet-en-Roussillon",
-      "contract": "CDD - 18 Mois",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1868,
-      "salaryRaw": "Mensuel de 1867.0 Euros à 1868.0 Euros",
-      "hours": "35H/semaine",
-      "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9092315",
-      "created": "22/11/2026"
     },
     {
       "externalId": "9072244",
