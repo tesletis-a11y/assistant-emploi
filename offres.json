@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T19:17:04.951Z",
+  "generatedAt": "2026-11-26T15:27:07.561Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 25,
+  "count": 21,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -61,6 +61,19 @@
       "created": "08/10/2026"
     },
     {
+      "externalId": "9217349",
+      "title": "Formation Chargé d'Accueil et de Gestion Administrative - Perpignan le 22/03/2027 H/F",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Gestion administrative",
+      "location": "66 - Perpignan",
+      "contract": "CDD - 12 Mois",
+      "hours": "",
+      "description": "Description\n?Formation Chargé d'Accueil et de Gestion Administrative (CADGA)\nDéveloppez des compétences opérationnelles pour exercer un métier de terrain, au contact des usagers et des partenaires.\nCette formation prépare à l'exercice d'un métier opérationnel centré sur la relation, le service et la mise en œuvre de procédures professionnelles, dans des environnements structurés (organismes, entreprises, collectivités, structures de services).\nElle s'adresse à des adultes en reconversion professionnelle souhaitant acquérir des compétences directement mobilisables en emploi.\n? Objectifs de la formation\nObtenir la certification professionnelle RNCP\nDévelopper les compétences nécessaires pour exercer un métier opérationnel orienté relation et service\nTitre professionnel de niveau 4\n Compétences visées :\nAccueillir, informer et accompagner des publics ou des clients\nAppliquer des procédures et un cadre réglementaire précis\nGérer des situations professionnelles variées avec méthode et posture adaptée\nAssurer le suivi administratif et opérationnel des activités\nTravailler en équipe et en coordination avec différents interlocuteurs\nUtiliser les outils numériques et supports professionnels\n? Programme structuré en blocs de compétences\n? CCP 1 - Accueil, information et relation professionnelle\nAccueillir les publics ou clients en présentiel et à distance\nIdentifier les besoins et adapter sa communication\nTransmettre une information claire, fiable et conforme au cadre\nAdopter une posture professionnelle adaptée aux situations rencontrées\n? CCP 2 - Mise en œuvre des activités et procédures professionnelles\nAppliquer les procédures internes et réglementaires\nGérer les situations courantes et imprévues\nContribuer à la qualité du service rendu\nUtiliser les outils numériques et documents professionnels\n? CCP 3 - Suivi, coordination et travail en équipe\nAssurer le suivi des actions et des dossiers\nTravailler en coordination avec les équipes et partenaires\nRendre compte de son activité\nParticiper à l'amélioration continue des pratiques professionnelles\n? Modalités pédagogiques\nBlended learning - 100 % BIOPYK\nPrésentiel encadré\nDistanciel synchrone (classes virtuelles)\nE-learning via LMS\n? Certification\nTitre Professionnel Chargé d'Accueil et de Gestion Administrative - RNCP\nNiveau Bac (niveau 4)\n? Dates de la formation\nRentrée : 22/03/\nLieu de formation : 16 Cour Lazare Escarguel PERPIGNAN\n? Débouchés professionnels\nPostes opérationnels dans les secteurs des services, de l'accueil, de l'administratif ou de la relation usagers / clients\nStructures publiques ou privées, entreprises, associations, organismes de services\nExigences\n? Prérequis\nMaîtrise des compétences de base (lecture, écriture, compréhension)\nAisance relationnelle et sens du service\nCapacité à respecter un cadre et des consignes\nSélection sur dossier et entretien de positionnement\nAvantages\n Certification reconnue et professionnalisante\nUn titre RNCP favorisant l'accès rapide à l'emploi.\n Format blended learning adapté à la reconversion\nSouplesse d'organisation et accompagnement progressif.\n Pédagogie orientée compétences et situations réelles\nÉtudes de cas, mises en situation et entraînement aux pratiques professionnelles.\n Accompagnement pédagogique individualisé\nSuivi régulier jusqu'à la certification et l'insertion professionnelle.\n Formation éligible aux financements de la formation continue\nFrance Travail, CPF, dispositifs régionaux, employeurs.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9217349",
+      "created": "26/11/2026"
+    },
+    {
       "externalId": "216VJDL",
       "title": "Assistant (e) Paie et Administratif (H/F)",
       "company": "MEDIPATH",
@@ -89,6 +102,32 @@
       "description": "Vos missions : \n\n- Assurer la gestion administrative et le suivi quotidien des locaux de l'entreprise. \n- Gérer les relations avec les locataires et les occupants des bâtiments (demandes, échanges, réclamations et suivi). \n- Assurer le suivi des documents administratifs. \n- Organiser et coordonner les interventions techniques, travaux, réparations et opérations de maintenance. \n- Veiller au bon entretien des locaux et au suivi des éventuels dysfonctionnements. \n- Gérer et mettre à jour les dossiers administratifs liés aux bâtiments. \n- Assurer le suivi des assurances, contrats d'entretien et différentes obligations administratives. \n\nProfil recherché :\n\n- Expérience dans le domaine de l'immobilier, de la gestion locative ou de l'administration de bâtiments. \n- Bonne maîtrise des outils informatiques et bureautiques. \n- Bon relationnel, réactivité et sens des responsabilités. \n- Organisation, rigueur, autonomie et polyvalence. \n\nVous souhaitez relever un nouveau défi professionnel ? \nNous serions ravis d'échanger avec vous ! \n\nPour postuler : Envoyez votre CV à social@grlog.com ou contactez-nous directement sur France Travail.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/216SZTQ",
       "created": "23/11/2026"
+    },
+    {
+      "externalId": "9217336",
+      "title": "Formation Secrétaire Assistant Médico-Administratif - Perpignan le 22/03/2027 H/F",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Perpignan",
+      "contract": "CDD - 12 Mois",
+      "hours": "",
+      "description": "Description\n? Formation Secrétaire Assistant(e) Médico-Administratif (SAMA)\nUn métier clé au sein des établissements de santé et du secteur médico-social !\nLe Secrétaire Assistant Médico-Administratif occupe une fonction essentielle dans les structures de santé et médico-sociales. Il(elle) assure l'accueil, l'organisation administrative et le suivi des dossiers des patients ou usagers.\nInterface entre les professionnels de santé, les patients et les services administratifs, ce professionnel contribue à la qualité de la prise en charge et à la coordination du parcours de soins.\n? Objectifs de la formation\nPréparer et réussir la certification Titre Professionnel Secrétaire Assistant(e) Médico-Administratif\nRNCP afin de maîtriser les activités administratives et de coordination propres aux structures médicales et médico-sociales.\nTitre professionnel de niveau 4\n Compétences visées :\nAccueillir, renseigner et orienter les patients ou usagers\nAssurer la prise en charge médico-administrative et sociale\nOrganiser et gérer les plannings des professionnels de santé\nProduire, retranscrire et assurer le suivi des documents médico-administratifs\nCoordonner le parcours des patients/usagers et mettre à jour leurs dossiers\nGarantir la confidentialité, l'éthique et le respect du secret professionnel\n? Programme structuré en blocs de compétences\n? BC01 - Assurer l'accueil du patient/usager et les activités administratives courantes d'une structure médicale\nAccueillir, renseigner et orienter les patients/usagers\nPlanifier et gérer les rendez-vous\nAssurer la prise en charge médico-administrative et sociale\nProduire et gérer les documents administratifs courants\n? BC02 - Assister les professionnels de santé dans le suivi et la coordination du parcours du patient/usager\nRetranscrire des informations à caractère médical ou social\nAssurer le suivi et la mise à jour des dossiers\nCoordonner les opérations liées au parcours patient/usager\nÉlaborer et actualiser des tableaux de suivi\n? Modalités pédagogiques\nBlended learning (100 % BIOPYK)\nPrésentiel encadré\nDistanciel synchrone (visio)\nE-learning via LMS\n? Certification\nTitre Professionnel Secrétaire Assistant(e) Médico-Administratif - RNCP\nNiveau Bac\n? Dates de la formation\nRentrée : 22/03/\nLieu : 16 Cour Lazare Escarguel Perpignan\n? Débouchés professionnels\nSecrétaire médico-administratif\nSecrétaire médical\nAssistant médico-administratif\nPostes en hôpitaux, cliniques, cabinets médicaux, maisons de retraite ou centres médico-sociaux\nExigences\n? Prérequis :\nNiveau d'entrée : CAP-BEP ou équivalent.\nSélection sur tests pratiques et entretien de motivation.\nAvantages\n Une formation certifiante reconnue par l'État\n Un métier utile, humain et porteur de sens\n Un format blended learning adapté aux adultes en reconversion\n Une pédagogie orientée terrain et compétences\n Une formation éligible aux financements de la formation continue\n Mobilisable dans le cadre des dispositifs France Travail, CPF, financements régionaux ou employeurs.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9217336",
+      "created": "26/11/2026"
+    },
+    {
+      "externalId": "9217324",
+      "title": "Formation Secrétaire Comptable - Perpignan le 22/03/2027 H/F",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Perpignan",
+      "contract": "CDD - 12 Mois",
+      "hours": "",
+      "description": "Description\n? Formation Secrétaire Comptable (SC)\nAlliez gestion administrative et comptabilité !\nLe métier de Secrétaire Comptable combine des missions de secrétariat et de comptabilité. Il(elle) occupe un rôle central dans les petites et moyennes structures en assurant la gestion administrative et le suivi comptable de l'activité.\nVéritable interface entre les services, les clients et les partenaires, le secrétaire comptable contribue au bon fonctionnement de l'organisation et à la fiabilité des opérations administratives et financières.\n? Objectifs de la formation\nPréparer et réussir la certification Titre Professionnel Secrétaire Comptable\nRNCP afin de maîtriser les activités administratives, commerciales et comptables nécessaires au fonctionnement d'une organisation.\nTitre professionnel de niveau 4\n Compétences visées :\nAssurer les tâches administratives et organiser l'environnement de travail\nGérer les appels téléphoniques, les courriers et l'accueil des visiteurs\nAdministrer les ventes : commandes, livraisons, facturation et règlements\nAssurer la gestion comptable des clients, fournisseurs et opérations de trésorerie\nTraiter les opérations liées à la paie et à la TVA\nProduire et exploiter des tableaux de bord financiers\nUtiliser les outils numériques et logiciels de gestion comptable\n? Certification\nTitre Professionnel Secrétaire Comptable - RNCP\nNiveau 4\n? Dates de la formation\nRentrée : 22/03/\nLieu de formation : 16 Cour Lazare Escarguel, Perpignan\n? Programme structuré en blocs de compétences\n? CCP 1 - Assurer les travaux administratifs de secrétariat au quotidien\nPrésenter des documents professionnels courants à l'aide d'outils numériques\nOrganiser son environnement de travail et assurer le classement des documents\nRechercher et transmettre des informations par écrit\nGérer l'accueil et la communication orale avec les interlocuteurs internes et externes\n? CCP 2 - Assurer les opérations comptables au quotidien\nAssurer la gestion administrative et comptable des clients\nAssurer la gestion administrative et comptable des fournisseurs\nAssurer la gestion administrative et comptable des opérations de trésorerie\n? CCP 3 - Préparer les opérations comptables périodiques\nGérer administrativement, comptablement et fiscalement la déclaration de TVA\nAssurer la gestion des variables et paramètres de paie\nConcevoir et transmettre des tableaux de bord financiers\n? Modalités pédagogiques\nBlended learning (100 % BIOPYK)\nPrésentiel encadré\nDistanciel synchrone (visio)\nE-learning via LMS\n? Débouchés professionnels\nSecrétaire comptable\nAssistant administratif et comptable\nAssistant de gestion\nEmployé administratif et financier\nPostes en PME, cabinets comptables ou services administratifs et financiers\nExigences\n? Prérequis :\nNiveau d'entrée : CAP-BEP ou équivalent.\nSélection sur tests pratiques et entretien de motivation.\nAvantages\n Une formation certifiante reconnue par l'État\n Un métier utile, humain et porteur de sens\n Un format blended learning adapté aux adultes en reconversion\n Une pédagogie orientée terrain et compétences\n Une formation éligible aux financements de la formation continue\n Mobilisable dans le cadre des dispositifs France Travail, CPF, financements régionaux ou employeurs.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9217324",
+      "created": "26/11/2026"
     },
     {
       "externalId": "9186388",
@@ -136,70 +175,6 @@
       "description": "Vous souhaitez devenir Assistant(e) dentaire ? Cette annonce est faite pour vous !\n\nFormation & Santé est un centre de formation spécialisé dans le domaine des professions paramédicales. Depuis  il vous permet de suivre la formation d'assistant(e) dentaire en alternance.\nNous recherchons, pour nos entreprises partenaires, des assistant(e)s dentaires H/F en alternance pour plusieurs postes à pourvoir.\nLa formation (sans frais pour le candidat) dure 18 mois et se déroule en CDD en contrat de professionnalisation ou d'apprentissage avec pour objectif le titre professionnel d'assistant(e) dentaire. (Titre de niveau IV inscrit au RNCP).\nAvantages :\n * Remboursement des transports à 50%\n\n \n\nVos missions en tant qu'Assistant(e) Dentaire en alternance incluent :\n * Gestion administrative du cabinet dentaire, y compris la planification des rendez-vous et la gestion de l'agenda.\n * Assistance au praticien lors des soins, y compris l'installation des salles de soins et la préparation des instruments.\n * Stérilisation du matériel et maintien de l'hygiène au sein du cabinet.\n * Communication avec les patients pour assurer un service de qualité et répondre à leurs questions.\n * Collaboration avec l'équipe dentaire pour garantir un environnement de travail efficace et harmonieux.\n\n\n \n\nNous recherchons un(e) candidat(e) qui possède :\n * Une première expérience dans un domaine lié à la santé, au commerce ou à l'aide à la personne.\n * Un intérêt marqué pour le secteur dentaire et une volonté d'apprendre.\n * Des compétences en gestion de projet, analyse de données, communication et travail d'équipe.\n * Un diplôme de niveau 3 (CAP-BEP) est requis pour entrer en formation.\n * Une capacité d'adaptation et un bon relationnel pour interagir avec les patients et l'équipe.\n\nSi vous êtes motivé(e) et prêt(e) à vous engager dans une formation enrichissante, n'hésitez pas à postuler !\n#IND/CFA ",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/9072244",
       "created": "21/11/2026"
-    },
-    {
-      "externalId": "9031578",
-      "title": "Secrétaire Médical en alternance F/H - Walter Learning",
-      "company": "Walter Learning",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Prades",
-      "contract": "CDD - 18 Mois",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1868,
-      "salaryRaw": "Mensuel de 1867.0 Euros à 1868.0 Euros",
-      "hours": "35H/semaine",
-      "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9031578",
-      "created": "20/11/2026"
-    },
-    {
-      "externalId": "8966391",
-      "title": "Assistant Médico-Administratif (H/F)",
-      "company": "YouSchool",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "contract": "CDD - 12 Mois",
-      "salaryMinBrut": 783,
-      "salaryMaxBrut": 1823,
-      "salaryRaw": "Mensuel de 783.0 Euros à 1823.0 Euros",
-      "hours": "",
-      "description": "Description du poste :\n\nOffre d'alternance - Secrétaire Médico-Administratif(ve) (Formation à distance avec YouSchool)\n\nLieu : Perpignan (66000)\n\nContrat : Alternance\n\nFormation : Titre Professionnel de Secrétaire Assistant Médico-Administratif (YouSchool - 100% à distance)\n\nDescription du poste\n\nDans le cadre de son développement, notre entreprise partenaire située à Perpignan (66000) recherche un(e) Secrétaire Médico-Administratif(ve) en alternance. Ce poste est à pourvoir immédiatement, en lien avec notre organisme de formation YouSchool, spécialiste de la formation à distance.\n\nVOS MISSIONS\n\nEncadré(e) par une équipe bienveillante et professionnelle, vous interviendrez sur les missions suivantes Accueillir et orienter les patients ou usagers, physiquement et par téléphone\n- Gérer les rendez-vous, les plannings médicaux et les agendas des professionnels\n- Assurer le suivi administratif des dossiers médicaux (création, mise à jour, archivage)\n- Rédiger, mettre en forme et traiter les courriers, comptes rendus et documents médicaux\n- Utiliser les outils bureautiques et logiciels spécialisés pour le traitement des informations\n- Collaborer avec les professionnels de santé et coordonner les échanges avec les services internes et externes\n- Suivre les démarches administratives liées à la prise en charge des patients (droits, mutuelles, hospitalisation)\n\nCE QUE NOUS PROPOSONS***Une alternance enrichissante dans un environnement stimulant***Un accompagnement personnalisé par YouSchool et l'entreprise***Une formation 100% à distance, flexible et professionnalisante***Rythme : 4 jours en entreprise, 1 jour en formation à distance, depuis chez vous. Votre employeur fixera le jour de formation.\n\nComment postuler ?\n\nEnvoyez-nous dès aujourd'hui votre candidature. Après réception, vous serez rapidement contacté(e) pour un premier échange avec nos recruteurs.\n\nLieu du poste :\n\nPerpignan (66000)\n\nDate de début prévue :\n\nDisponible immédiatement\n\nDescription du profil :\n\nVOTRE PROFIL***Vous souhaitez suivre la formation Titre Professionnel de Secrétaire Assistant Médico-Administratif à distance avec YouSchool***Pré-requis : diplôme niveau CAP/BEP minimum***Vous êtes organisé(e) avec un bon niveau de français (écrit + oral)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8966391",
-      "created": "19/11/2026"
-    },
-    {
-      "externalId": "8966365",
-      "title": "Assistant secrétaire (H/F)",
-      "company": "YouSchool",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "contract": "CDD - 12 Mois",
-      "salaryMinBrut": 774,
-      "salaryMaxBrut": 1801,
-      "salaryRaw": "Mensuel de 774.0 Euros à 1801.0 Euros",
-      "hours": "",
-      "description": "Description du poste :\n\nOffre d'alternance - Secrétaire Assistant(e) (Formation à distance avec YouSchool)\n\nLieu : Perpignan (66000)\n\nContrat : Alternance\n\nFormation : Titre Pro Secrétaire Assistant(e) (YouSchool - 100% à distance)***Description du poste\n\nDans le cadre de son développement, notre entreprise partenaire située à Perpignan (66000) recherche un(e) Secrétaire Assistant(e) en alternance. Ce poste est à pourvoir immédiatement, en lien avec notre organisme de formation YouSchool, spécialiste de la formation à distance.***VOS MISSIONS\n\nEncadré(e) par une équipe bienveillante et professionnelle, vous interviendrez sur les missions suivantes Accueil physique et téléphonique des visiteurs et clients\n- Gestion des stocks\n- Rédaction de courriers, comptes rendus et autres documents administratifs\n- Organisation et classement des dossiers\n- Gestion des courriels et de la correspondance\n- Suivi des dossiers clients et fournisseurs\n- Gestion des tâches administratives quotidiennes et support aux équipes***CE QUE NOUS PROPOSONS***Une alternance enrichissante dans un environnement stimulant***Un accompagnement personnalisé par YouSchool et l'entreprise***Une formation 100% à distance, flexible et professionnalisante***Rythme : 4 jours en entreprise, 1 jour en formation à distance, depuis chez vous. Votre employeur fixera le jour de formation.***Comment postuler ?\n\nEnvoyez-nous dès aujourd'hui votre candidature. Après réception, vous serez rapidement contacté(e) pour un premier échange avec nos recruteurs.***Lieu du poste :\n\nPerpignan (66000)***Date de début prévue :\n\nDisponible immédiatement\n\nDescription du profil :\n\nVOTRE PROFIL***Vous souhaitez suivre la formation Titre Pro Secrétaire Assistant(e) à distance avec YouSchool***Pré-requis : diplôme niveau CAP/BEP minimum***Vous êtes organisé(e) avec un bon niveau de français (écrit + oral)",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8966365",
-      "created": "19/11/2026"
-    },
-    {
-      "externalId": "8986430",
-      "title": "Secrétaire Médical en alternance F/H - Walter Learning",
-      "company": "Walter Learning",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Céret",
-      "contract": "CDD - 18 Mois",
-      "salaryMinBrut": 1867,
-      "salaryMaxBrut": 1868,
-      "salaryRaw": "Mensuel de 1867.0 Euros à 1868.0 Euros",
-      "hours": "35H/semaine",
-      "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8986430",
-      "created": "19/11/2026"
     },
     {
       "externalId": "216QPZZ",
@@ -289,24 +264,6 @@
       "created": "14/11/2026"
     },
     {
-      "externalId": "216KQJT",
-      "title": "Secrétaire (H/F)",
-      "company": "FERVALT DIGITAL",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "minutes": 46,
-      "distanceKm": 29,
-      "contract": "CDI",
-      "salaryMinBrut": 2026,
-      "salaryMaxBrut": 2026,
-      "salaryRaw": "Horaire de 13.36 Euros",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "L'entreprise\n\nÉditeur de logiciels SaaS et créateur de sites web, nous développons et commercialisons nos propres logiciels de gestion auprès de professionnels partout en France. Notre petite équipe grandit et nous renforçons l'accueil et le suivi de nos clients.\n\nVos missions\n\nVous êtes le premier contact de nos clients et prospects, et vous assurez le suivi administratif de l'activité.\n\nAccueil et support clients :\n\nRépondre aux appels entrants, identifier la demande et orienter vers le bon interlocuteur\nTraiter les demandes d'assistance par téléphone, e-mail et tickets, et en garder la trace\nAccompagner les clients dans la prise en main du logiciel (questions d'utilisation courantes)\nTransmettre à l'équipe technique les demandes qui le nécessitent et tenir le client informé\nRappeler les clients et relancer les demandes en attente\n\nGestion administrative et commerciale :\n\nTenir à jour les fiches clients et prospects dans notre outil de suivi\nRépondre aux demandes de contact et de démonstration, planifier les rendez-vous\nPréparer les contrats et suivre leur signature\nÉtablir les factures, suivre les règlements et relancer les impayés\nGérer le courrier, les e-mails et le classement des documents\n\nProfil recherché\n\nFormation Bac à Bac+2 en assistanat, gestion ou relation client\nExcellente expression orale et écrite, orthographe irréprochable\nAisance au téléphone, sens de l'écoute et patience\nÀ l'aise avec les outils informatiques et curieux(se) d'apprendre un logiciel métier\nRigueur, organisation et discrétion (données confidentielles)\nUne expérience en support client est un plus\n\nConditions\n\nPoste basé à Perpignan, du lundi au vendredi\nFormation à nos logiciels assurée à la prise de poste",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216KQJT",
-      "created": "13/11/2026"
-    },
-    {
       "externalId": "216HZRQ",
       "title": "A001- Secrétaire d'intendance - Collège - Lycée P. de Coubertin  FONT-ROMEU (66) (H/F)",
       "company": "RECTORAT DE L'ACADEMIE DE MONTPELLIER",
@@ -321,19 +278,6 @@
       "description": "Dans les collèges et lycées, en appui du ou de la secrétaire général(e), le ou la secrétaire d'intendance assure de façon autonome l'analyse, le suivi et la réalisation de dossiers et ressources touchant des domaines divers (notamment matériels et financiers) et concourant au fonctionnement général de l'établissement.\n\nActivités principales :\n -assurer les tâches administratives et budgétaires liées au secrétariat d'intendance\n -Suivi des commandes et des dépenses de l'établissement\n -Suivi des dossiers de bourses (de la demande à la mise en paiement)\n -Suivi de la situation des créances et des créances contentieuses\n -Établissement des documents financiers\n -Appui administratif\n\nConditions particulières d'exercice : \n\nTemps de travail annualisé soumis au calendrier des vacances scolaires et permanences éventuelles.\n\nProfil recherché : \n\nConnaissances :\n -Maitrise des outils informatiques et bureautique\nConnaissances souhaitées :\n -Maitrise des compétences techniques du domaine (exemple : achat public, comptabilité publique.)\n -Connaissances de l'environnement professionnel (fonctionnement d'un établissement scolaire)\nCompétences opérationnelles :\n -Organiser son travail en respectant les calendriers et les procédures\n -Appliquer des procédures et des règles administratives\n -Inscrire son travail dans une organisation collective et un cadre hiérarchique, coopérer au sein d'une équipe et rendre compte de son activité\n -Etre en relation avec différents interlocuteurs : usagers (élèves, familles), personnels (enseignants et administratifs), services extérieurs (rectorat, collectivités territoriales)\nCompétences comportementales :\n -Esprit d'équipe\n -Sens de l'organisation\n -Capacité d'adaptation\n -Rigueur / Fiabilité\n -Capacité à rendre compte\n ",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/216HZRQ",
       "created": "12/11/2026"
-    },
-    {
-      "externalId": "8649108",
-      "title": "Secrétaire / secrétaire de direction (H/F)",
-      "company": "Entreprise non précisée",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Boulou",
-      "contract": "CDI",
-      "hours": "",
-      "description": "Activités principalesvaluer avec la personne hospitalisée (et/ou son entourage) sa situation en vue d'établir un diagnostic des incidences de sa situation médicale, familiale, sociale, financière et environnementale\n-      Informer et conseiller la personne  et son entourage sur leurs droits et devoirs, les dispositifs d'aide existants et proposer le dispositif le mieux adapté à la situation\n-      Agir pour le maintien des liens sociaux et familiaux\n-      Apporter un soutien psychosocial à la personne  et à son entourage familial et social et accompagner l'élaboration du projet personnalislaborer, en lien avec les équipes pluridisciplinaires, des plans d'aide individuels et collectifs à l'insertion ou à la réinsertion sociale et / ou professionnelle\n-      Instruire des dossiers en vue de l'obtention ou du rétablissement des droits de la personne  et négocier pour elle, si besoin est, avec les associations, institutions et services publics\n-      Mettre en place des actions préventives ou curatives en vue du retour, du maintien à domicile ou du placement, organiser le transfert vers un établissement spécialisInformer la personne  et son entourage sur l'évolution du dossier et sur d'éventuelles décisions à prendre\n-      Développer des partenariats en amont et aval avec les institutions, associations et services publics pour assurer des relais à l'extérieur de l'établissement\n-      Renseigner le dossier social et le dossier du patient sur sa situation, sur les projets d'aide mis en place et leur degré de réalisation, rédiger des rapports sociaux et des signalements\n-      Contribuer au développement de la qualité et de la gestion des risques\n\n-      Diplôme d'Etat d'assistant de service social\nSAVOIRSMaîtriser les techniques d'entretien et de communicationConnaître et utiliser la méthodologie d'élaboration, de gestion et d'évaluation de projetConnaître et respecter la législation de la Sécurité Sociale, l'organisation du système de protection sociale et posséder des notions de droit (travail, familleConnaître et utiliser les techniques de diagnostic et d'intervention sociale et de mise en œuvre d'une relation d'aideConnaître et exploiter les réseaux et organismes locaux ainsi que l'environnement institutionnelConnaître l'organisation hospitalière, sanitaire et médicosocialeConnaître les différents courants théoriques de l'action sociale et des notions de psychologie, sociologie, psychosociologie et économie et s'y référerConnaître les notions de bases des pathologies, handicaps et protocoles de soins et de leurs répercussions au niveau de l'autonomie sociale et professionnelle des personnes et s'y référerConnaître et utiliser les dispositifs en faveur des personnes confrontées ou susceptibles de l'être à un problème de santé, de perte d'autonomie ou de situation de handicapConnaître les autres métiers de l'équipe pluridisciplinaire, leurs objectifs, contraintes et méthodes et les solliciterConnaître et respecter les règles du secret professionnel liées à son activité",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/8649108",
-      "created": "07/11/2026"
     },
     {
       "externalId": "216DLSD",
@@ -397,22 +341,6 @@
       "description": "Sous l'autorité directe de Monsieur le Maire, votre rôle est essentiel pour assurer la continuité du service public et l'accompagnement des administrés.\n\nVos missions principales :\nComptabilité : Suivi budgétaire, mandatement et gestion des recettes.\nAccueil : Accueil physique et téléphonique de la population.\nGestion administrative : Gestion des mails et de la correspondance administrative.\nService aux administrés : Réponse aux besoins et renseignements des habitants.\nÉtat civil : Gestion des actes de naissance, de mariage et de décès.\n\nPROFIL RECHERCHÉ\nCe poste exige une grande autonomie et une maîtrise immédiate des procédures administratives.\n\nCompétences et qualités requises :\nExpérience indispensable : Une expérience réussie sur un poste similaire est obligatoire. Le poste ne prévoit pas de période de formation métier.\nMaîtrise administrative : Excellente capacité rédactionnelle et gestion rigoureuse des dossiers.\nCompétences techniques : Maîtrise des outils bureautiques et, idéalement, des logiciels de gestion de mairie.\nSens du service public : Accueil bienveillant, discrétion absolue et sens de l'écoute auprès des administrés.\nPolyvalence : Capacité à passer de la gestion comptable à l'accueil du public avec efficacité.\n\nPrise de poste dès que possible / poste à mi-temps pouvant évoluer\nPoste de préférence sur les après-midi à négocier suivant profil",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/215CBKK",
       "created": "12/10/2026"
-    },
-    {
-      "externalId": "7734941",
-      "title": "ASSISTANT(E) POLYVALENT(E) (H/F)",
-      "company": "SCI Pro immo",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "contract": "CDI",
-      "salaryMinBrut": 1667,
-      "salaryMaxBrut": 2500,
-      "salaryRaw": "Annuel de 20000.0 Euros à 30000.0 Euros",
-      "hours": "",
-      "description": "Dans le cadre du développement de notre activité, nous recherchons un(e) Assistant(e) polyvalent(e) pour accompagner notre organisation dans différentes tâches administratives et opérationnelles.Vos missionsVous serez notamment chargé(e) de :Assurer diverses tâches administratives courantes ; Gérer et classer des documents et dossiers ; Effectuer le suivi et la mise à jour de certaines informations ; Répondre aux appels téléphoniques et aux courriels ; Organiser et suivre les rendez-vous et les agendas ; Effectuer différentes démarches et tâches administratives selon les besoins ; Assurer un soutien général dans l'organisation quotidienne.\n\nNous recherchons une personne :Sérieuse, organisée et autonome ; Ponctuelle et rigoureuse ; À l'aise avec les outils informatiques et la communication écrite ; Discrète et respectueuse de la confidentialité ; Ayant un bon sens de l'organisation et des priorités. Une première expérience dans l'assistanat, l'administration ou un poste similaire est appréciée, mais les candidatures motivées sont également étudiées.",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/7734941",
-      "created": "07/10/2026"
     },
     {
       "externalId": "214HNQW",
