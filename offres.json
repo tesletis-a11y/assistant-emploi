@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-26T19:01:14.926Z",
+  "generatedAt": "2026-11-27T15:16:36.050Z",
   "source": "France Travail (API officielle)",
   "configUsed": {
     "communeInsee": "66230",
@@ -22,7 +22,7 @@
       "gestionnaire contentieux (gestionnaire contentieux)"
     ]
   },
-  "count": 21,
+  "count": 25,
   "offres": [
     {
       "externalId": "216CFTT",
@@ -104,6 +104,39 @@
       "created": "23/11/2026"
     },
     {
+      "externalId": "216YDWR",
+      "title": "Assistant administratif / Assistante administrative",
+      "company": "SARL CER-MAT",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - ESTAVAR",
+      "minutes": 76,
+      "distanceKm": 48,
+      "contract": "CDI",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "La CERMAT : Négoce en matériaux de construction et réalisation de travaux de couverture et maçonnerie pierre.\nsituée à ESTAVAR 66800 recherche son CDI temps complet du lundi au vendredi 8H -12H 14H - 17H\n\nVous devez impérativement avoir les compétences ci-dessous avec 1 an d'expérience :\nAccueil physique et téléphonique des clients : Recevoir et orienter des clients/fournisseurs.\nVente comptoir : Encaissement client : CB / CHQ / ESP\nGérer le standard téléphonique : Traiter les appels et messages.\nGérer Messagerie Mail et traiter les mails.\nTraiter et suivre les commandes.\nEnregistrer courriers, factures en réception.\nSaisir devis/facture clients.\nRemplir les bons d'enlèvement/livraison matériel.\nGérer Agenda.\nClassement / Archives.\nConnaissance informatique nécessaire (emails, rédaction de devis suivant les\ndirectives).\nTravaux informatiques sur Word, Excel.\n\nVous avez un profil qui est en capacité à travailler en équipe nécessaire et conseil extérieur.\nBon relationnel et sens du service, Polyvalence.\nAisance en espagnol, expérience dans la vente ou le BTP serait un plus.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216YDWR",
+      "created": "27/11/2026"
+    },
+    {
+      "externalId": "216YGXN",
+      "title": "Agent d'accueil de secrétariat loge (H/F)",
+      "company": "RESIDENCE PERPIGNAN",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - PERPIGNAN",
+      "minutes": 46,
+      "distanceKm": 29,
+      "contract": "CDD - 1 Mois",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1867,
+      "salaryRaw": "Mensuel de 1867.02 Euros",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Sous l'autorité du Directeur de la cité  universitaire et de l'agent chef, l'agent d'accueil loge assure :\nMissions et activités principales :\n- Accueil physique et téléphonique du public\n- Poste Central en coordination avec tous les services de la cité universitaire\nActivités principales\n- Accueillir et faciliter la vie des étudiants via l'information\n- Assurer l'accueil téléphonique et physique\n- Gestion des différents mails reçus ou à répondre\n- Entretien de la loge\n- Distribution du courrier\n- Réception des entreprises\n- Gestion des Accès (étudiants, entreprises, tiers, agents ..)  via logiciel ARD\n- Gestion des clés et de leur double\n- Gestion des prêts de matériel (plaques, matériel sportif.)\n- Suivi des contrats parkings et des assurances véhicules étudiants\n- Suivi des rdv arrivées et départs via logiciel Mesrdv pour programmation des EDL pour les agents qd le rdv est validé\n- Informe et guide les étudiants dans les protocoles nuisibles\n- Assure la transmission des informations au service suivant pour assurer un relais\nConnaissances - Savoirs :\n- Connaissance de son environnement professionnel et capacité à s'y adapter\n- Qualité écrite et orale\n- Aisance informatique\nSavoir- faire :\n- Impliquée dans la vie du service\n- Rigoureuse dans la réalisation des tâches demandées\nSavoir être :\n- Accueillante et dynamique\n- Capacité à s'informer et à exécuter en cas de tâches plus complexes\n- Soucieuse de rendre un travail bien fait\n- Autonome\n- Sait travailler en équipe\n\nAmplitude Horaire : 06h00 13h00 / 13h00 20h00 (à définir)\nDu lundi au vendredi",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216YGXN",
+      "created": "27/11/2026"
+    },
+    {
       "externalId": "9217336",
       "title": "Formation Secrétaire Assistant Médico-Administratif - Perpignan le 22/03/2027 H/F",
       "company": "Entreprise non précisée",
@@ -117,6 +150,40 @@
       "created": "26/11/2026"
     },
     {
+      "externalId": "216XPMF",
+      "title": "ASSISTANT(E) TUTELAIRE (H/F)",
+      "company": "Entreprise non précisée",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - PERPIGNAN",
+      "minutes": 46,
+      "distanceKm": 29,
+      "contract": "CDD - 1 Mois",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1867,
+      "salaryRaw": "Mensuel de 1867.05 Euros - Plus une prime brute mensuelle de 238 € pour un temps plein",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Vous êtes secrétaire. Vous devez être très à l'aise avec les saisies informatiques.\n\nSous l'autorité des responsables de Pôle, l'Assistant(e) Tutélaire travaille en étroite collaboration avec des mandataires délégués à la protection des majeurs. \nIl-Elle participe à la mise en œuvre de mesures de protection juridique dans le cadre d'une équipe pluriprofessionnelle. \nIl-Elle saisit sur logiciel métier (informations, échéanciers.) - \nIl-Elle saisit des courriers et des comptes rendus, effectue des travaux informatiques divers, du  classement et de l'archivage - Gestion électronique des documents, réception-ouverture, tri et numérisation des documents entrant et sortant, indexation, classement des documents originaux et gestion des archives.\n\nCOMPETENCES :  \nAdaptabilité et disponibilité, sens de l'organisation et capacité d'analyse, capacité à gérer les priorités et à anticiper, capacité à travailler dans l'urgence,  prise d'initiative, rigueur dans l'exécution des tâches et sens du travail en équipe, qualités rédactionnelles, sens du relationnel, bonne connaissance des dispositifs administratifs, juridiques, sociaux, médico-sociaux et sanitaires, sens de la confidentialité, maîtrise de l'outil informatique et bureautique.\n\nREMUNERATION SELON CCN66. Une prime brute mensuelle de 238 € pour un temps plein s'ajoute à la rémunération.\nPOSTE A POURVOIR du 07/12/2026 au 04/01/2027. \n\nLes candidatures non accompagnées d'une \"lettre de motivation\" seront refusées.\nCV et Lettre de Motivation OBLIGATOIRE.\nA défaut de réponse de notre part dans un délai de 3 semaines, votre candidature sera considérée comme non retenue.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216XPMF",
+      "created": "26/11/2026"
+    },
+    {
+      "externalId": "9223409",
+      "title": "Secrétaire Médical en alternance F/H - Walter Learning",
+      "company": "Walter Learning",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Perpignan",
+      "contract": "CDD - 18 Mois",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1868,
+      "salaryRaw": "Mensuel de 1867.0 Euros à 1868.0 Euros",
+      "hours": "35H/semaine",
+      "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9223409",
+      "created": "26/11/2026"
+    },
+    {
       "externalId": "9217324",
       "title": "Formation Secrétaire Comptable - Perpignan le 22/03/2027 H/F",
       "company": "Entreprise non précisée",
@@ -127,6 +194,22 @@
       "hours": "",
       "description": "Description\n? Formation Secrétaire Comptable (SC)\nAlliez gestion administrative et comptabilité !\nLe métier de Secrétaire Comptable combine des missions de secrétariat et de comptabilité. Il(elle) occupe un rôle central dans les petites et moyennes structures en assurant la gestion administrative et le suivi comptable de l'activité.\nVéritable interface entre les services, les clients et les partenaires, le secrétaire comptable contribue au bon fonctionnement de l'organisation et à la fiabilité des opérations administratives et financières.\n? Objectifs de la formation\nPréparer et réussir la certification Titre Professionnel Secrétaire Comptable\nRNCP afin de maîtriser les activités administratives, commerciales et comptables nécessaires au fonctionnement d'une organisation.\nTitre professionnel de niveau 4\n Compétences visées :\nAssurer les tâches administratives et organiser l'environnement de travail\nGérer les appels téléphoniques, les courriers et l'accueil des visiteurs\nAdministrer les ventes : commandes, livraisons, facturation et règlements\nAssurer la gestion comptable des clients, fournisseurs et opérations de trésorerie\nTraiter les opérations liées à la paie et à la TVA\nProduire et exploiter des tableaux de bord financiers\nUtiliser les outils numériques et logiciels de gestion comptable\n? Certification\nTitre Professionnel Secrétaire Comptable - RNCP\nNiveau 4\n? Dates de la formation\nRentrée : 22/03/\nLieu de formation : 16 Cour Lazare Escarguel, Perpignan\n? Programme structuré en blocs de compétences\n? CCP 1 - Assurer les travaux administratifs de secrétariat au quotidien\nPrésenter des documents professionnels courants à l'aide d'outils numériques\nOrganiser son environnement de travail et assurer le classement des documents\nRechercher et transmettre des informations par écrit\nGérer l'accueil et la communication orale avec les interlocuteurs internes et externes\n? CCP 2 - Assurer les opérations comptables au quotidien\nAssurer la gestion administrative et comptable des clients\nAssurer la gestion administrative et comptable des fournisseurs\nAssurer la gestion administrative et comptable des opérations de trésorerie\n? CCP 3 - Préparer les opérations comptables périodiques\nGérer administrativement, comptablement et fiscalement la déclaration de TVA\nAssurer la gestion des variables et paramètres de paie\nConcevoir et transmettre des tableaux de bord financiers\n? Modalités pédagogiques\nBlended learning (100 % BIOPYK)\nPrésentiel encadré\nDistanciel synchrone (visio)\nE-learning via LMS\n? Débouchés professionnels\nSecrétaire comptable\nAssistant administratif et comptable\nAssistant de gestion\nEmployé administratif et financier\nPostes en PME, cabinets comptables ou services administratifs et financiers\nExigences\n? Prérequis :\nNiveau d'entrée : CAP-BEP ou équivalent.\nSélection sur tests pratiques et entretien de motivation.\nAvantages\n Une formation certifiante reconnue par l'État\n Un métier utile, humain et porteur de sens\n Un format blended learning adapté aux adultes en reconversion\n Une pédagogie orientée terrain et compétences\n Une formation éligible aux financements de la formation continue\n Mobilisable dans le cadre des dispositifs France Travail, CPF, financements régionaux ou employeurs.",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/9217324",
+      "created": "26/11/2026"
+    },
+    {
+      "externalId": "9223740",
+      "title": "Secrétaire Médical en alternance F/H - Walter Learning",
+      "company": "Walter Learning",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - Argelès-sur-Mer",
+      "contract": "CDD - 18 Mois",
+      "salaryMinBrut": 1867,
+      "salaryMaxBrut": 1868,
+      "salaryRaw": "Mensuel de 1867.0 Euros à 1868.0 Euros",
+      "hours": "35H/semaine",
+      "description": "Walter Learning, organisme de formation en alternance, recherche (un)e secrétaire médicale pour une de ses entreprises partenaires.\n \n \n \nVos missions en entreprise :\n\n- Accueil physique et prise en charge des patients et des usagers\n- Accueil téléphonique pour prise de rendez-vous et planification des activités du service\n- Réalisation de synthèses de dossiers médicaux\n- Facturation et suivi administratif des dossiers\n- Coordination des opérations liées au parcours des patients ou des usagers\n \n \n \nVous devez être admis dans notre école pour pouvoir passer les entretiens avec ce partenaire.\n \n \n \nUne sélection des meilleurs profils uniquement lui sera présentée.Ce poste de secrétaire médical en alternance est ouvert à toute personne motivée, qui se reconnaitra dans le descriptif suivant :\n \n- Vous êtes titulaire d'un CAP, BEP ou niveau BAC \n- Vous êtes autonome polyvalent(e) et rigoureux(se) \n- Doté(e) d'un bon relationnel et d'une bonne écoute \n- Vous possédez une bonne orthographe \n- Vous êtes à l'aise ou avez envie de progresser avec les outils bureautiques",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/9223740",
       "created": "26/11/2026"
     },
     {
@@ -175,6 +258,24 @@
       "description": "Vous souhaitez devenir Assistant(e) dentaire ? Cette annonce est faite pour vous !\n\nFormation & Santé est un centre de formation spécialisé dans le domaine des professions paramédicales. Depuis  il vous permet de suivre la formation d'assistant(e) dentaire en alternance.\nNous recherchons, pour nos entreprises partenaires, des assistant(e)s dentaires H/F en alternance pour plusieurs postes à pourvoir.\nLa formation (sans frais pour le candidat) dure 18 mois et se déroule en CDD en contrat de professionnalisation ou d'apprentissage avec pour objectif le titre professionnel d'assistant(e) dentaire. (Titre de niveau IV inscrit au RNCP).\nAvantages :\n * Remboursement des transports à 50%\n\n \n\nVos missions en tant qu'Assistant(e) Dentaire en alternance incluent :\n * Gestion administrative du cabinet dentaire, y compris la planification des rendez-vous et la gestion de l'agenda.\n * Assistance au praticien lors des soins, y compris l'installation des salles de soins et la préparation des instruments.\n * Stérilisation du matériel et maintien de l'hygiène au sein du cabinet.\n * Communication avec les patients pour assurer un service de qualité et répondre à leurs questions.\n * Collaboration avec l'équipe dentaire pour garantir un environnement de travail efficace et harmonieux.\n\n\n \n\nNous recherchons un(e) candidat(e) qui possède :\n * Une première expérience dans un domaine lié à la santé, au commerce ou à l'aide à la personne.\n * Un intérêt marqué pour le secteur dentaire et une volonté d'apprendre.\n * Des compétences en gestion de projet, analyse de données, communication et travail d'équipe.\n * Un diplôme de niveau 3 (CAP-BEP) est requis pour entrer en formation.\n * Une capacité d'adaptation et un bon relationnel pour interagir avec les patients et l'équipe.\n\nSi vous êtes motivé(e) et prêt(e) à vous engager dans une formation enrichissante, n'hésitez pas à postuler !\n#IND/CFA ",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/9072244",
       "created": "21/11/2026"
+    },
+    {
+      "externalId": "216QBMK",
+      "title": "Assistant administratif polyvalent (H/F)",
+      "company": "C.MULTISERV",
+      "source": "France Travail",
+      "profil": "Assistanat administratif",
+      "location": "66 - LE SOLER",
+      "minutes": 35,
+      "distanceKm": 22,
+      "contract": "CDI",
+      "salaryMinBrut": 1869,
+      "salaryMaxBrut": 1869,
+      "salaryRaw": "Mensuel de 1869.0 Euros",
+      "hours": "35H/semaine\nTravail en journée",
+      "description": "Les principales missions de ce poste sont : \n- Gestion administrative des dossiers clients (constitution des dossiers, suivi, développement et fidélisation)\n- Gestion de planning (sous logiciels informatiques)\n- Prise de rendez-vous et d'appels téléphoniques. (50% du temps de travail. Nombreux appels à traiter)\n- Maitrise des coûts d'intervention (savoir compter, rédiger et être force de propositions)\n- Négociation commerciale \n- Rédaction de compte-rendu (appétence pour la communication et la rédaction)\n\nVous appréciez le travail d'équipe, êtes une personne dynamique et réactive. \nVous avez le sens des responsabilités et du service rendu.\n\n2 CDI sont à  pourvoir. \nVous avez impérativement une expérience récente et similaire pour pouvoir postuler avec un niveau de diplôme au moins égal à un niveau BAC +2, pour pouvoir postuler.",
+      "url": "https://candidat.francetravail.fr/offres/recherche/detail/216QBMK",
+      "created": "19/11/2026"
     },
     {
       "externalId": "216QPZZ",
@@ -296,36 +397,6 @@
       "description": "Vous travaillez seul(e) à votre poste, en autonomie, en lien à distance avec les responsables de l'entreprise.\n\nVos missions :\nRépondre au téléphone, filtrer et transférer les appels\nRécupérer et traiter le courrier\nUtiliser le logiciel interne pour établir les devis et les factures\nEffectuer le rapprochement bancaire\nRédiger des courriers\nAssurer les petites tâches administratives courantes\nÉchanger à distance avec les responsables (téléphone, email)\n\nLe profil :\nExpérience minimum en secrétariat exigée\nUne expérience dans les énergies renouvelables est un plus\nAutonomie, sens de l'organisation et rigueur\nAisance au téléphone et bonne expression écrite\nMaîtrise des outils bureautiques, aisance avec un logiciel de gestion\nNotions de comptabilité appréciées (rapprochement bancaire)\nDisponibilité rapide",
       "url": "https://candidat.francetravail.fr/offres/recherche/detail/216DLSD",
       "created": "06/11/2026"
-    },
-    {
-      "externalId": "215ZVMB",
-      "title": "Apprenti secrétaire assistant médico-administratif (H/F)",
-      "company": "CFA AEP",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - PERPIGNAN",
-      "minutes": 46,
-      "distanceKm": 29,
-      "contract": "CDD - 12 Mois",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Votre mission :\nEn tant que Secrétaire médicale en alternance, vous intégrerez une équipe dynamique et participerez activement au bon fonctionnement administratif de la structure. Votre rôle consistera à assister les professionnels de santé dans la gestion des dossiers administratifs des patients.\n\nPrincipales Responsabilités :\n1. Accueil physique et téléphonique des patients.\n2. Gestion des rendez-vous et des plannings.\n3. Saisie et mise à jour des dossiers médicaux.\n4. Collaboration avec les différents services de l'entreprise.\n5. Participer à l'organisation des événements internes.\n\nProfil Recherché :\n- Intérêt prononcé pour le domaine médico-social.\n- Sens de l'organisation et de la rigueur.\n- Bonnes compétences en communication écrite et orale.\n- Autonomie et proactivité.\n\nConditions de l'Alternance :\n- Alternance organisée sur la base d'1 jour en CFA et 4 jours en entreprise",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215ZVMB",
-      "created": "04/11/2026"
-    },
-    {
-      "externalId": "215VGLC",
-      "title": "Manageur Equipe Secrétariat médical (H/F)",
-      "company": "MEDIPATH",
-      "source": "France Travail",
-      "profil": "Assistanat administratif",
-      "location": "66 - Perpignan",
-      "minutes": 47,
-      "distanceKm": 30,
-      "contract": "CDI",
-      "hours": "35H/semaine\nTravail en journée",
-      "description": "Vous rêvez d'intégrer une entreprise en plein développement à la pointe du diagnostic et de la technique ? Vous êtes à la recherche de nouveaux challenges et avez envie de participer à une mission de santé publique ?\n\nEn tant que Manager du Secrétariat Médical en Anatomopathologie, vous êtes garant(e) de la bonne organisation du service, de l'accompagnement de votre équipe et de la qualité des prestations délivrées aux patients et aux correspondants médicaux.\n\nManagement et pilotage de l'activité : \n\n * Encadrer, animer et accompagner au quotidien une équipe de secrétaires médicales.\n * Organiser l'activité du service et coordonner la répartition des tâches afin de garantir la continuité de service.\n * Élaborer et suivre les plannings de l'équipe.\n * Accompagner la montée en compétences des collaborateurs et veiller à leur intégration.\n * Suivre les indicateurs d'activité, réaliser les reportings et proposer les actions d'amélioration nécessaires.\n * Garantir le respect des procédures, des bonnes pratiques et des exigences qualité du laboratoire.\n * Être l'interlocuteur privilégié des équipes médicales et des différentes fonctions support.\n\nParticipation à l'activité de secrétariat médical : \n\nParce que vous êtes pleinement intégré(e) à l'équipe, vous participez également à l'activité opérationnelle du secrétariat médical :\n\n * Assurer l'identification et la gestion administrative des dossiers patients, de l'enregistrement des prélèvements jusqu'à la facturation.\n * Participer au traitement des demandes des patients et des professionnels de santé.\n * Assurer l'accueil téléphonique et le renseignement des interlocuteurs.\n * Gérer les courriers, la mise sous pli et l'envoi des comptes-rendus.\n * Réaliser les opérations d'archivage et de gestion documentaire.\n * Contribuer au bon fonctionnement quotidien du service en apportant un soutien opérationnel à l'équipe.\n\n\nAlors, vous avez envie d'apporter votre pierre à l'édifice dans le diagnostic du cancer ?\n\nDe formation secrétariat médical, vous avez une forte expérience en management d'équipe ? Vous êtes force de proposition et êtes reconnu pour votre rapidité de prise de décision ? \n\nNotre métier a fort enjeux pour les patients, votre rigueur sera une qualité essentielle pour occuper le poste.\n\nCe poste est fait pour vous !\n\nEt sinon, travailler chez MEDIPATH, c'est :\n\n * Tous vos week-end et nuits de libres \n * Des MEDI'PTIT DEJ \n * Des jeux concours \n * Une prime de fin d'année \n * Une prime de participation & intéressement (selon CA) \n * Un plan épargne entreprise avec abondement de la société \n * Avantages CSE",
-      "url": "https://candidat.francetravail.fr/offres/recherche/detail/215VGLC",
-      "created": "29/10/2026"
     },
     {
       "externalId": "215CBKK",
